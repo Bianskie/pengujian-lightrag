@@ -6,33 +6,35 @@
 
 ## 1. Arsitektur Direktori Proyek
 
-Struktur organisasi berkas dan direktori pada ruang kerja (*workspace*) pengujian LightRAG disusun sebagai berikut:
+Struktur organisasi berkas dan direktori pada ruang kerja (*workspace*) pengujian LightRAG saat ini disusun sebagai berikut:
 
 ```text
 pengujian_lightrag/
-├── README.md                                  # Dokumentasi teknis dan panduan operasional
-├── run_lightrag.py                            # Skrip utama eksekusi indexing asinkron LightRAG
-├── run_indexing.sbatch                        # Skrip penjadwalan kompilasi job SLURM (DGX A100)
-├── prompt_id_revisi.py                        # Kustomisasi templat prompt ekstraksi entitas hukum Bahasa Indonesia
-├── pengujian_lightrag.b64                     # Bundel distribusi kode terenkode Base64 untuk transfer HPC
-├── data/                                      # Repositori dokumen sumber dan data pra-pemrosesan
-│   ├── UU Nomor 45 Tahun 2009 (1).pdf         # Dokumen naskah asli Undang-Undang Nomor 45 Tahun 2009
-│   └── chunks_uu_45_2009.json                 # Data potongan teks (144 chunks berbasis pasal) siap indeks
-└── hasil_indexing/                            # Direktori keluaran artefak Knowledge Graph & Vector Store
-    ├── storage_gemma4_uu45.tar.gz             # Arsip terkompresi hasil proses indexing
-    └── storage_gemma4_uu45_lightrag/          # Penyimpanan utama artefak LightRAG (Gemma 4:12B)
-        ├── graph_chunk_entity_relation.graphml# Struktur graf pengetahuan (749 simpul, 1.213 relasi)
-        ├── kv_store_doc_status.json           # Pencatatan status pemrosesan dokumen
-        ├── kv_store_entity_chunks.json        # Pemetaan indeks antara entitas dan potongan teks asal
-        ├── kv_store_full_docs.json            # Penyimpanan teks dokumen lengkap secara utuh
-        ├── kv_store_full_entities.json        # Daftar himpunan entitas beserta atributnya
-        ├── kv_store_full_relations.json       # Daftar himpunan relasi antar-entitas
-        ├── kv_store_llm_response_cache.json   # Penyimpanan tembolok (cache) respons inferensi LLM
-        ├── kv_store_relation_chunks.json      # Pemetaan indeks antara relasi dan potongan teks asal
-        ├── kv_store_text_chunks.json          # Penyimpanan key-value untuk 144 potongan teks (chunks)
-        ├── vdb_chunks.json                    # Basis data vektor untuk representasi potongan teks
-        ├── vdb_entities.json                  # Basis data vektor entitas (BGE-M3, dimensi 1024)
-        └── vdb_relationships.json             # Basis data vektor relasi antar-entitas
+├── LICENSE                                      # Berkas lisensi repositori
+├── README.md                                    # Dokumentasi teknis dan panduan operasional
+├── data/                                        # Repositori dokumen sumber dan data pra-pemrosesan
+│   ├── UU Nomor 45 Tahun 2009 (1).pdf           # Dokumen naskah asli Undang-Undang Nomor 45 Tahun 2009
+│   └── chunks_uu_45_2009.json                   # Data potongan teks (144 chunks berbasis pasal) siap indeks
+├── proses/                                      # Direktori skrip eksekusi indexing dan konfigurasi
+│   ├── run_lightrag.py                          # Skrip utama eksekusi indexing asinkron LightRAG
+│   ├── run_indexing.sbatch                      # Skrip penjadwalan kompilasi job SLURM (DGX A100)
+│   ├── prompt_id_revisi.py                      # Kustomisasi templat prompt ekstraksi entitas hukum Bahasa Indonesia
+│   └── pengujian_lightrag.b64                   # Bundel distribusi kode terenkode Base64 untuk transfer HPC
+└── hasil_indexing/                              # Direktori keluaran artefak Knowledge Graph & Vector Store
+    ├── storage_gemma4_uu45.tar.gz               # Arsip terkompresi hasil proses indexing
+    └── storage_gemma4_uu45_lightrag/            # Penyimpanan utama artefak LightRAG (Gemma 4:12B)
+        ├── graph_chunk_entity_relation.graphml  # Struktur graf pengetahuan (749 simpul, 1.213 relasi)
+        ├── kv_store_doc_status.json             # Pencatatan status pemrosesan dokumen
+        ├── kv_store_entity_chunks.json          # Pemetaan indeks antara entitas dan potongan teks asal
+        ├── kv_store_full_docs.json              # Penyimpanan teks dokumen lengkap secara utuh
+        ├── kv_store_full_entities.json          # Daftar himpunan entitas beserta atributnya
+        ├── kv_store_full_relations.json         # Daftar himpunan relasi antar-entitas
+        ├── kv_store_llm_response_cache.json     # Penyimpanan tembolok (cache) respons inferensi LLM
+        ├── kv_store_relation_chunks.json        # Pemetaan indeks antara relasi dan potongan teks asal
+        ├── kv_store_text_chunks.json            # Penyimpanan key-value untuk 144 potongan teks (chunks)
+        ├── vdb_chunks.json                      # Basis data vektor untuk representasi potongan teks
+        ├── vdb_entities.json                    # Basis data vektor entitas (BGE-M3, dimensi 1024)
+        └── vdb_relationships.json               # Basis data vektor relasi antar-entitas
 ```
 
 ---
@@ -80,10 +82,10 @@ kill $OLLAMA_PID
 - **Generator LLM (`gemma4:12b`):** Digunakan untuk mengekstrak entitas hukum, relasi semantik, dan kata kunci tingkat tinggi dengan pengaturan `temperature=0.0`, `num_ctx=4096`, `top_p=0.9`, serta konkurensi maksimal `llm_model_max_async=10`.
 - **Embedding Model (`bge-m3:latest`):** Digunakan untuk mentransformasi teks, entitas, dan relasi ke dalam ruang vektor berdimensi `1024` (batas token maksimal `8192` dan ukuran *batch* `32`).
 
-### C. Kustomisasi Prompt Bahasa Indonesia (`prompt_id_revisi.py`)
-Berkas `prompt_id_revisi.py` memuat definisi prompt yang telah disesuaikan untuk ranah regulasi Indonesia dengan taksonomi entitas hukum meliputi:
+### C. Kustomisasi Prompt Bahasa Indonesia (`proses/prompt_id_revisi.py`)
+Berkas `proses/prompt_id_revisi.py` memuat definisi prompt yang telah disesuaikan untuk ranah regulasi Indonesia dengan taksonomi entitas hukum meliputi:
 `["dasar_hukum", "struktur", "konsep", "sanksi", "pihak", "kewajiban", "hak"]`.
-Selain itu, pada `run_lightrag.py` diterapkan injeksi instruksi *thinking-bypass* agar model langsung memproduksi entitas dan relasi terstruktur tanpa menyertakan narasi penalaran internal (*chain-of-thought*), sehingga memangkas latensi secara signifikan.
+Selain itu, pada `proses/run_lightrag.py` diterapkan injeksi instruksi *thinking-bypass* agar model langsung memproduksi entitas dan relasi terstruktur tanpa menyertakan narasi penalaran internal (*chain-of-thought*), sehingga memangkas latensi secara signifikan.
 
 ---
 
@@ -114,7 +116,7 @@ pkill -f ollama
 ## 4. Prosedur Operasional Eksekusi Pengujian
 
 ### Tahap 1: Penyiapan Data Masukan (Chunks Regulasi)
-Pastikan berkas potongan teks per-pasal `chunks_uu_45_2009.json` (terdiri atas **144 chunks** utuh dari UU Nomor 45 Tahun 2009) telah berada di dalam subdirektori `data/`.
+Pastikan berkas potongan teks per-pasal `data/chunks_uu_45_2009.json` (terdiri atas **144 chunks** utuh dari UU Nomor 45 Tahun 2009) tersedia bagi skrip di direktori `proses/` (diakses melalui path relatif `data/chunks_uu_45_2009.json` atau `../data/chunks_uu_45_2009.json` sesuai penempatan kerja pada HPC). Hasil indexing secara otomatis akan diarahkan ke `../hasil_indexing/storage_gemma4_uu45_lightrag`.
 
 ---
 
@@ -122,9 +124,9 @@ Pastikan berkas potongan teks per-pasal `chunks_uu_45_2009.json` (terdiri atas *
 Proses pembentukan basis data graf dan vektor dieksekusi melalui penjadwal SLURM dengan alokasi sumber daya 1 unit GPU NVIDIA A100 (`--qos=a100_1gpu`, partisi `a100-short`) dan memori RAM sebesar `117 GB`.
 
 **Melalui Terminal HPC (`mahoni01`):**
-1. Arahkan direktori aktif ke folder ruang kerja proyek:
+1. Arahkan direktori aktif ke folder `proses/` di dalam ruang kerja proyek:
    ```bash
-   cd ~/pengujian_lightrag
+   cd ~/pengujian_lightrag/proses
    ```
 
 2. Kirimkan skrip batch ke antrean komputasi SLURM:
@@ -142,14 +144,14 @@ Proses pembentukan basis data graf dan vektor dieksekusi melalui penjadwal SLURM
 ---
 
 ### Tahap 3: Akuisisi dan Sinkronisasi Hasil Indexing ke Perangkat Lokal
-Setelah pekerjaan komputasi di klaster selesai, salin seluruh artefak keluaran dari server HPC ke komputer lokal menggunakan utilitas `rsync` atau `scp`:
+Setelah pekerjaan komputasi di klaster selesai, salin seluruh artefak keluaran dari server HPC ke direktori `hasil_indexing/` pada komputer lokal menggunakan utilitas `rsync` atau `scp`:
 
 ```bash
-# Dijalankan dari terminal perangkat lokal (WSL / Git Bash / PowerShell):
+# Dijalankan dari terminal perangkat lokal di root folder pengujian_lightrag:
 rsync -avzP <username>@mahoni01:~/pengujian_lightrag/hasil_indexing/ ./hasil_indexing/
 ```
 
-Seluruh artefak hasil konstruksi indeks akan tersimpan di dalam direktori `hasil_indexing/storage_gemma4_uu45_lightrag/`, yang mencakup:
+Seluruh artefak hasil konstruksi indeks tersimpan di dalam direktori `hasil_indexing/storage_gemma4_uu45_lightrag/`, yang mencakup:
 - `graph_chunk_entity_relation.graphml`: Struktur graf pengetahuan komprehensif dalam format GraphML.
 - `vdb_entities.json`, `vdb_relationships.json`, `vdb_chunks.json`: Indeks vektor berdimensi 1024 (BGE-M3) untuk pencarian kemiripan semantik tingkat entitas, relasi, dan teks.
 - `kv_store_full_docs.json`, `kv_store_text_chunks.json`: Basis data *key-value* dokumen penuh dan potongan teks pasal.
@@ -159,7 +161,7 @@ Seluruh artefak hasil konstruksi indeks akan tersimpan di dalam direktori `hasil
 ---
 
 ### Tahap 4: Verifikasi Statistik Graf Pengetahuan
-Untuk memvalidasi kepadatan dan kelengkapan hasil konstruksi graf pada lingkungan lokal maupun server, jalankan perintah inspeksi Python satu baris berikut:
+Untuk memvalidasi kepadatan dan kelengkapan hasil konstruksi graf dari direktori utama (`pengujian_lightrag/`), jalankan perintah inspeksi Python satu baris berikut:
 
 ```bash
 python -c "import json, xml.etree.ElementTree as ET; chunks = json.load(open('data/chunks_uu_45_2009.json', encoding='utf-8')); tree = ET.parse('hasil_indexing/storage_gemma4_uu45_lightrag/graph_chunk_entity_relation.graphml'); root = tree.getroot(); ns = {'g': 'http://graphml.graphdrawing.org/xmlns'}; print(f'Total Chunks: {len(chunks)} | Total Nodes (Entitas): {len(root.findall(\".//g:node\", ns))} | Total Edges (Relasi): {len(root.findall(\".//g:edge\", ns))}')"
@@ -171,8 +173,10 @@ python -c "import json, xml.etree.ElementTree as ET; chunks = json.load(open('da
 
 | Parameter Evaluasi / Konfigurasi | Spesifikasi & Capaian (LightRAG — Gemma 4:12B) |
 | :--- | :--- |
-| **Dokumen Sumber** | Undang-Undang Nomor 45 Tahun 2009 (Perikanan) |
-| **Jumlah Potongan Teks (*Input Chunks*)** | 144 Chunks (Utuh) |
+| **Dokumen Sumber** | `data/UU Nomor 45 Tahun 2009 (1).pdf` |
+| **Berkas Masukan (*Input Chunks*)** | `data/chunks_uu_45_2009.json` (144 Chunks Utuh) |
+| **Skrip Eksekusi & Batch** | `proses/run_lightrag.py` & `proses/run_indexing.sbatch` |
+| **Direktori Keluaran (*Working Dir*)** | `hasil_indexing/storage_gemma4_uu45_lightrag/` |
 | **Model Ekstraksi (LLM)** | `gemma4:12b` (`temperature=0.0`, `num_ctx=4096`) |
 | **Model Vektor (*Embedding*)** | `bge-m3:latest` (Dimensi: `1024`, Max Token: `8192`) |
 | **Konkurensi Asinkron** | `llm_model_max_async=10`, `embedding_func_max_async=4` |
@@ -185,42 +189,42 @@ python -c "import json, xml.etree.ElementTree as ET; chunks = json.load(open('da
 
 1. **Konflik Port atau Kegagalan Koneksi ke Layanan Ollama:**
    - *Penyebab:* Port bawaan (`11434`) pada node HPC sering kali telah ditempati oleh layanan sistem dengan versi lawas yang tidak mendukung arsitektur model terbaru.
-   - *Penanganan:* Selalu definisikan variabel lingkungan `export OLLAMA_HOST=127.0.0.1:11500` sebelum menyalakan `ollama serve`, sebagaimana telah diotomatisasi pada berkas `run_indexing.sbatch` dan `run_lightrag.py`.
+   - *Penanganan:* Selalu definisikan variabel lingkungan `export OLLAMA_HOST=127.0.0.1:11500` sebelum menyalakan `ollama serve`, sebagaimana telah diotomatisasi pada berkas `proses/run_indexing.sbatch` dan `proses/run_lightrag.py`.
 
 2. **Kegagalan Alokasi Memori pada SLURM (`QOSMaxMemoryPerJob`):**
    - *Penyebab:* Permintaan memori melebihi batas kuota kebijakan *Quality of Service* (QoS) untuk profil akun `student` pada antrean `a100_1gpu`.
-   - *Penanganan:* Gunakan konfigurasi memori yang telah teruji sesuai batas alokasi node tunggal, yakni `#SBATCH --mem=117G` dengan `#SBATCH --gres=gpu:1`.
+   - *Penanganan:* Gunakan konfigurasi memori yang telah teruji sesuai batas alokasi node tunggal pada `proses/run_indexing.sbatch`, yakni `#SBATCH --mem=117G` dengan `#SBATCH --gres=gpu:1`.
 
 3. **Latensi Ekstraksi Tinggi Akibat Proses *Chain-of-Thought* (Thinking Mode):**
    - *Penyebab:* Model generasi terbaru cenderung menyertakan langkah penalaran panjang sebelum menghasilkan daftar entitas dan relasi.
-   - *Penanganan:* Fungsi `llm_model_func` di dalam `run_lightrag.py` telah menyematkan prefiks instruksi tegas (`RESPOND DIRECTLY WITH THE REQUIRED EXTRACTED ENTITIES AND RELATIONS. DO NOT THINK STEP-BY-STEP...`) untuk melewati fase penalaran berlebih.
+   - *Penanganan:* Fungsi `llm_model_func` di dalam `proses/run_lightrag.py` telah menyematkan prefiks instruksi tegas (`RESPOND DIRECTLY WITH THE REQUIRED EXTRACTED ENTITIES AND RELATIONS. DO NOT THINK STEP-BY-STEP...`) untuk melewati fase penalaran berlebih.
 
 ---
 
 ## 7. Mekanisme Pengemasan & Distribusi Skrip via Base64 dan GitHub Gist
 
-Metode ini dirancang untuk memindahkan kode sumber serta data masukan dari komputer lokal ke klaster HPC secara cepat dalam satu aliran perintah (*streamlined pipeline*), tanpa perlu mengunggah berkas satu per satu maupun menyisakan berkas arsip sementara di peladen.
+Metode ini dirancang untuk memindahkan kode sumber di folder `proses/` serta data masukan di folder `data/` dari komputer lokal ke klaster HPC secara cepat dalam satu aliran perintah (*streamlined pipeline*), tanpa perlu mengunggah berkas satu per satu maupun menyisakan berkas arsip sementara di peladen.
 
 ### A. Pembuatan Paket Base64 pada Perangkat Lokal
-Kemas seluruh skrip eksekusi beserta folder `data/` ke dalam arsip terkompresi `tar.gz`, kemudian konversikan aliran binernya menjadi teks berformat Base64 (`pengujian_lightrag.b64`):
+Kemas skrip eksekusi beserta data masukan ke dalam arsip terkompresi `tar.gz`, kemudian konversikan aliran binernya menjadi teks berformat Base64 di `proses/pengujian_lightrag.b64`:
 
 ```bash
-# Dijalankan pada terminal perangkat lokal di direktori ruang kerja:
-tar --exclude='*.log' --exclude='hasil_indexing*' --exclude='testing-lightrag*' --exclude='*.b64' -czf - . | base64 > pengujian_lightrag.b64
+# Dijalankan pada terminal perangkat lokal di root direktori pengujian_lightrag:
+tar --exclude='*.log' --exclude='hasil_indexing*' --exclude='*.b64' -czf - data proses | base64 > proses/pengujian_lightrag.b64
 ```
 
 ### B. Publikasi Melalui Layanan GitHub Gist
 1. Kunjungi laman [gist.github.com](https://gist.github.com).
-2. Buat entri Gist baru dengan nama berkas `pengujian_lightrag.b64`, lalu tempelkan seluruh isi teks Base64 tersebut.
+2. Buat entri Gist baru dengan nama berkas `pengujian_lightrag.b64`, lalu tempelkan seluruh isi teks dari `proses/pengujian_lightrag.b64`.
 3. Pilih opsi **Create public gist** (atau *secret gist*).
 4. Salin tautan dari tombol **"Raw"** yang memiliki pola URL:
    `https://gist.githubusercontent.com/<username>/<id_gist>/raw/pengujian_lightrag.b64`
 
 ### C. Dekode dan Ekstraksi Langsung pada Server HPC (Satu Baris Perintah)
-Pada terminal *login node* HPC (`mahoni01`), jalankan instruksi *piping* berikut untuk mengunduh, mendekode, dan mengekstrak seluruh struktur ruang kerja secara langsung di memori:
+Pada terminal *login node* HPC (`mahoni01`), jalankan instruksi *piping* berikut untuk mengunduh, mendekode, dan mengekstrak seluruh berkas secara langsung di memori:
 
 ```bash
-mkdir -p ~/pengujian_lightrag && cd ~/pengujian_lightrag
+mkdir -p ~/pengujian_lightrag/proses && cd ~/pengujian_lightrag/proses
 curl -sL "https://gist.githubusercontent.com/<username>/<id_gist>/raw/pengujian_lightrag.b64?t=$(date +%s)" | base64 -d | tar -xzf -
 ```
 
