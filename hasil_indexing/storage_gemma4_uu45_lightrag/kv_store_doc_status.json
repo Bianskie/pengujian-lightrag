@@ -1,0 +1,3892 @@
+{
+  "doc-e36b555749beade4c744d39b6a9f5f42": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 76B\nPasal 76B\n(1) Barang bukti hasil tindak pidana perikanan yang mudah rusak atau memerlukan biaya perawatan yang tinggi dapat dilelang dengan persetujuan ketua pengadilan negeri.\n(2) Barang bukti hasi...",
+    "content_length": 425,
+    "created_at": "2026-11-02T09:23:54.157126+00:00",
+    "updated_at": "2026-11-02T11:16:03.393846+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "e36b555749beade4c744d39b6a9f5f42",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793617150,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793617902,
+      "process_end_time": 1793618163,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-e36b555749beade4c744d39b6a9f5f42-chunk-000"
+    ]
+  },
+  "doc-1b0ede3419aab57c0712803baf91351d": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 76A\nPasal 76A Cukup jelas.",
+    "content_length": 87,
+    "created_at": "2026-11-02T09:23:54.157493+00:00",
+    "updated_at": "2026-11-02T12:53:39.310462+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "1b0ede3419aab57c0712803baf91351d",
+    "metadata": {
+      "parse_start_time": 1793612699,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793622907,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793623764,
+      "process_end_time": 1793624019,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-1b0ede3419aab57c0712803baf91351d-chunk-000"
+    ]
+  },
+  "doc-257b7735229f630684594ec31a887d03": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 75\nPasal 75\n(1) Penuntutan terhadap tindak pidana di bidang perikanan dilakukan oleh penuntut umum yang ditetapkan oleh Jaksa Agung.\n(2) Penuntut umum perkara tindak pidana di bidang perikanan sebagaima...",
+    "content_length": 548,
+    "created_at": "2026-11-02T09:23:54.157102+00:00",
+    "updated_at": "2026-11-02T11:10:27.532223+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "257b7735229f630684594ec31a887d03",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793616826,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793617643,
+      "process_end_time": 1793617827,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-257b7735229f630684594ec31a887d03-chunk-000"
+    ]
+  },
+  "doc-ed0e6a14574cb6c8d219c7b423067dae": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 110\nPasal 110\nPada saat Undang-Undang ini mulai berlaku:\na. Undang-Undang Nomor 9 Tahun 1985 tentang Perikanan (Lembaran Negara Republik Indonesia Tahun 1985 Nomor 46, Tambahan Lembaran Negara Republik ...",
+    "content_length": 808,
+    "created_at": "2026-11-02T09:23:54.157224+00:00",
+    "updated_at": "2026-11-02T11:46:00.578220+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "ed0e6a14574cb6c8d219c7b423067dae",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793618586,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793619639,
+      "process_end_time": 1793619960,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-ed0e6a14574cb6c8d219c7b423067dae-chunk-000"
+    ]
+  },
+  "doc-a3e38e3284dd2fe9cac01b2a1257e73c": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Umum\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5073",
+    "content_length": 114,
+    "created_at": "2026-11-02T09:23:54.157582+00:00",
+    "updated_at": "2026-11-02T13:16:26.381429+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "a3e38e3284dd2fe9cac01b2a1257e73c",
+    "metadata": {
+      "parse_start_time": 1793614068,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793624396,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793625223,
+      "process_end_time": 1793625386,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-a3e38e3284dd2fe9cac01b2a1257e73c-chunk-000"
+    ]
+  },
+  "doc-78ed963f3dd3c00083f50735157dfe57": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 28\nPasal 28\n(1) Setiap orang yang memiliki dan/atau mengoperasikan kapal pengangkut ikan berbendera Indonesia di wilayah pengelolaan perikanan Negara Republik Indonesia wajib memiliki SIKPI.\n(2) Setiap ...",
+    "content_length": 911,
+    "created_at": "2026-11-02T09:23:54.156830+00:00",
+    "updated_at": "2026-11-02T10:07:49.196598+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "78ed963f3dd3c00083f50735157dfe57",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793612955,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793613781,
+      "process_end_time": 1793614069,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-78ed963f3dd3c00083f50735157dfe57-chunk-000"
+    ]
+  },
+  "doc-9ffe642df7854b84d7f20364797237f1": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 25B\nPasal 25B Cukup jelas.",
+    "content_length": 87,
+    "created_at": "2026-11-02T09:23:54.157319+00:00",
+    "updated_at": "2026-11-02T12:12:04.103096+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "9ffe642df7854b84d7f20364797237f1",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793620337,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793621204,
+      "process_end_time": 1793621524,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-9ffe642df7854b84d7f20364797237f1-chunk-000"
+    ]
+  },
+  "doc-3787f4285214a35d011af741af67626d": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 21\nAngka 21 Pasal 44 Cukup jelas.",
+    "content_length": 94,
+    "created_at": "2026-11-02T09:23:54.157397+00:00",
+    "updated_at": "2026-11-02T12:29:32.547229+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "3787f4285214a35d011af741af67626d",
+    "metadata": {
+      "parse_start_time": 1793611436,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793621524,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793622281,
+      "process_end_time": 1793622572,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-3787f4285214a35d011af741af67626d-chunk-000"
+    ]
+  },
+  "doc-e0baa1cabb53315ba0d4e8c0bd1be49a": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 43\nAngka 43 Pasal 100A Cukup jelas. Pasal 100B Cukup jelas.",
+    "content_length": 120,
+    "created_at": "2026-11-02T09:23:54.157547+00:00",
+    "updated_at": "2026-11-02T13:09:26.123427+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "e0baa1cabb53315ba0d4e8c0bd1be49a",
+    "metadata": {
+      "parse_start_time": 1793613473,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793623764,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793624654,
+      "process_end_time": 1793624966,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-e0baa1cabb53315ba0d4e8c0bd1be49a-chunk-000"
+    ]
+  },
+  "doc-b8d4128dc7893e05931cc360e4d81024": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 12. Ketentuan Pasal 28\n12. Ketentuan Pasal 28 ayat (1) dan ayat (2) diubah, serta ditambah 2 (dua) ayat yakni ayat (3) dan ayat (4), sehingga Pasal 28 berbunyi sebagai berikut:",
+    "content_length": 218,
+    "created_at": "2026-11-02T09:23:54.156822+00:00",
+    "updated_at": "2026-11-02T10:07:48.341214+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "b8d4128dc7893e05931cc360e4d81024",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793612792,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793613771,
+      "process_end_time": 1793614068,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-b8d4128dc7893e05931cc360e4d81024-chunk-000"
+    ]
+  },
+  "doc-330531730b1c4f499e6f17ee7a15ed0d": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 20. Ketentuan Pasal 43\n20. Ketentuan Pasal 43 diubah sehingga Pasal 43 berbunyi sebagai berikut:",
+    "content_length": 138,
+    "created_at": "2026-11-02T09:23:54.156902+00:00",
+    "updated_at": "2026-11-02T10:26:51.676465+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "330531730b1c4f499e6f17ee7a15ed0d",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793614068,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793614960,
+      "process_end_time": 1793615211,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-330531730b1c4f499e6f17ee7a15ed0d-chunk-000"
+    ]
+  },
+  "doc-c4e9406af38b0c427ef94a4fc5c16f60": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 46A\nPasal 46A\nPemerintah menjamin kerahasiaan data dan informasi perikanan yang berkaitan dengan data log book penangkapan dan pengangkutan ikan, data yang diperoleh pengamat, dan data perusahaan dalam ...",
+    "content_length": 303,
+    "created_at": "2026-11-02T09:23:54.156974+00:00",
+    "updated_at": "2026-11-02T10:36:25.885004+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "c4e9406af38b0c427ef94a4fc5c16f60",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793614606,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793615475,
+      "process_end_time": 1793615785,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-c4e9406af38b0c427ef94a4fc5c16f60-chunk-000"
+    ]
+  },
+  "doc-505edc34f4b2995f33a1cb0504f5ee50": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 19\nAngka 19 Pasal 42 Ayat (1) Yang dimaksud dengan ”syahbandar di pelabuhan perikanan” adalah syahbandar yang ditempatkan secara khusus di pelabuhan perikanan untuk pengurusan administratif...",
+    "content_length": 958,
+    "created_at": "2026-11-02T09:23:54.157386+00:00",
+    "updated_at": "2026-11-02T12:26:39.480146+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "505edc34f4b2995f33a1cb0504f5ee50",
+    "metadata": {
+      "parse_start_time": 1793611436,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793621234,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793622068,
+      "process_end_time": 1793622399,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-505edc34f4b2995f33a1cb0504f5ee50-chunk-000"
+    ]
+  },
+  "doc-a001a80cfb487fd5f039f32e8dd78511": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 2\nPasal 2\nPengelolaan perikanan dilakukan berdasarkan asas:\na. manfaat;\nb. keadilan;\nc. kebersamaan;\nd. kemitraan;\ne. kemandirian;\nf. pemerataan;\ng. keterpaduan;\nh. keterbukaan;\ni. efisiensi;\nj. kelesta...",
+    "content_length": 294,
+    "created_at": "2026-11-02T09:23:54.156700+00:00",
+    "updated_at": "2026-11-02T09:37:33.372960+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "a001a80cfb487fd5f039f32e8dd78511",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793611434,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793611911,
+      "process_end_time": 1793612253,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-a001a80cfb487fd5f039f32e8dd78511-chunk-000"
+    ]
+  },
+  "doc-2fdc9a9662d10b1fc9e94c2612c18bed": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 1. Ketentuan Pasal 1\n1. Ketentuan Pasal 1 angka 11 dan angka 24 diubah, sehingga Pasal 1 berbunyi sebagai berikut:",
+    "content_length": 156,
+    "created_at": "2026-11-02T09:23:54.156680+00:00",
+    "updated_at": "2026-11-02T09:31:51.632396+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "2fdc9a9662d10b1fc9e94c2612c18bed",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793611434,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793611611,
+      "process_end_time": 1793611911,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-2fdc9a9662d10b1fc9e94c2612c18bed-chunk-000"
+    ]
+  },
+  "doc-14b7f513c6f891bc73b891aeb09df792": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 17\nAngka 17 . . .\nKlasifikasi pelabuhan perikanan termasuk diantaranya pelabuhan perikanan samudera, pelabuhan pelabuhan perikanan nusantara dan pelabuhan perikanan pantai.\nUntuk mendukung ...",
+    "content_length": 759,
+    "created_at": "2026-11-02T09:23:54.157374+00:00",
+    "updated_at": "2026-11-02T12:23:47.462049+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "14b7f513c6f891bc73b891aeb09df792",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793621171,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793622067,
+      "process_end_time": 1793622227,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-14b7f513c6f891bc73b891aeb09df792-chunk-000"
+    ]
+  },
+  "doc-35609e3dadbb447e7323b8e7b23e171f": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 25C\nPasal 25C\n(1) Pemerintah membina dan memfasilitasi berkembangnya industri perikanan nasional dengan mengutamakan penggunaan bahan baku dan sumber daya manusia dalam negeri.\n(2) Pemerintah membina te...",
+    "content_length": 558,
+    "created_at": "2026-11-02T09:23:54.156804+00:00",
+    "updated_at": "2026-11-02T10:03:01.761328+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "35609e3dadbb447e7323b8e7b23e171f",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793612525,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793613472,
+      "process_end_time": 1793613781,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-35609e3dadbb447e7323b8e7b23e171f-chunk-000"
+    ]
+  },
+  "doc-1f11d6172c173551b03490fc495047f0": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 16. Ketentuan Pasal 36\n16. Ketentuan Pasal 36 diubah sehingga Pasal 36 berbunyi sebagai berikut:",
+    "content_length": 138,
+    "created_at": "2026-11-02T09:23:54.156860+00:00",
+    "updated_at": "2026-11-02T10:16:01.384801+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "1f11d6172c173551b03490fc495047f0",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793613472,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793614283,
+      "process_end_time": 1793614561,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-1f11d6172c173551b03490fc495047f0-chunk-000"
+    ]
+  },
+  "doc-21bb841a49133bd551fd55758e087774": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 3. Ketentuan Pasal 7\n3. Ketentuan Pasal 7 diubah sehingga Pasal 7 berbunyi sebagai berikut:",
+    "content_length": 133,
+    "created_at": "2026-11-02T09:23:54.156710+00:00",
+    "updated_at": "2026-11-02T09:38:46.079165+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "21bb841a49133bd551fd55758e087774",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793611434,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793612067,
+      "process_end_time": 1793612326,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-21bb841a49133bd551fd55758e087774-chunk-000"
+    ]
+  },
+  "doc-960d94c55d2317a253dca8fdbafce903": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 36\nPasal 36\nAyat (1)\nPendaftaran kapal perikanan dimuat di dalam buku yang dipergunakan untuk memenuhi persyaratan penerbitan SIPI atau SIKPI. Buku kapal perikanan dimaksud bukan sebagai gr...",
+    "content_length": 995,
+    "created_at": "2026-11-02T09:23:54.157367+00:00",
+    "updated_at": "2026-11-02T12:21:08.422007+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "960d94c55d2317a253dca8fdbafce903",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793621042,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793621711,
+      "process_end_time": 1793622068,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-960d94c55d2317a253dca8fdbafce903-chunk-000"
+    ]
+  },
+  "doc-b377d5c1c9fa053ec5fbdad0c5aa3f92": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 4. Ketentuan Pasal 9\n4. Ketentuan Pasal 9 diubah sehingga Pasal 9 berbunyi sebagai berikut:",
+    "content_length": 133,
+    "created_at": "2026-11-02T09:23:54.156725+00:00",
+    "updated_at": "2026-11-02T09:41:31.108599+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "b377d5c1c9fa053ec5fbdad0c5aa3f92",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793611434,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793612253,
+      "process_end_time": 1793612491,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-b377d5c1c9fa053ec5fbdad0c5aa3f92-chunk-000"
+    ]
+  },
+  "doc-abb2cf826efcef2b41801b56d435fdd8": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 41\nAngka 41 Pasal 94A Cukup jelas.",
+    "content_length": 95,
+    "created_at": "2026-11-02T09:23:54.157535+00:00",
+    "updated_at": "2026-11-02T13:04:14.405343+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "abb2cf826efcef2b41801b56d435fdd8",
+    "metadata": {
+      "parse_start_time": 1793613472,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793623548,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793624396,
+      "process_end_time": 1793624654,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-abb2cf826efcef2b41801b56d435fdd8-chunk-000"
+    ]
+  },
+  "doc-00a12516bdf9b68ebeb990ad5ef891a6": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 76A\nPasal 76A\nBenda dan/atau alat yang digunakan dalam dan/atau yang dihasilkan dari tindak pidana perikanan dapat dirampas untuk negara atau dimusnahkan setelah mendapat persetujuan ketua pengadilan ne...",
+    "content_length": 255,
+    "created_at": "2026-11-02T09:23:54.157120+00:00",
+    "updated_at": "2026-11-02T11:15:14.991607+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "00a12516bdf9b68ebeb990ad5ef891a6",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793617150,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793617827,
+      "process_end_time": 1793618114,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-00a12516bdf9b68ebeb990ad5ef891a6-chunk-000"
+    ]
+  },
+  "doc-181964927d2d6f386777eef214237de8": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 46\nAngka 46 Pasal 110A Cukup jelas.\nPasal II Cukup jelas.",
+    "content_length": 118,
+    "created_at": "2026-11-02T09:23:54.157577+00:00",
+    "updated_at": "2026-11-02T13:15:04.249575+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "181964927d2d6f386777eef214237de8",
+    "metadata": {
+      "parse_start_time": 1793614068,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793624395,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793625071,
+      "process_end_time": 1793625304,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-181964927d2d6f386777eef214237de8-chunk-000"
+    ]
+  },
+  "doc-b44570403cf6eaa8997bd94799962174": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 25\nAngka 25 Pasal 50 Cukup jelas.",
+    "content_length": 94,
+    "created_at": "2026-11-02T09:23:54.157421+00:00",
+    "updated_at": "2026-11-02T12:35:07.764747+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "b44570403cf6eaa8997bd94799962174",
+    "metadata": {
+      "parse_start_time": 1793611436,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793621711,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793622683,
+      "process_end_time": 1793622907,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-b44570403cf6eaa8997bd94799962174-chunk-000"
+    ]
+  },
+  "doc-234faf2c9eddf47d34fafb6f84b1b01d": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 66B\nPasal 66B\n(1) Pengawas perikanan sebagaimana dimaksud dalam Pasal 66 melaksanakan tugas di:\na. wilayah pengelolaan perikanan Negara Republik Indonesia;\nb. kapal . . .\nb. kapal perikanan;\nc. pelabuha...",
+    "content_length": 616,
+    "created_at": "2026-11-02T09:23:54.157034+00:00",
+    "updated_at": "2026-11-02T10:53:46.742935+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "234faf2c9eddf47d34fafb6f84b1b01d",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793615658,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793616550,
+      "process_end_time": 1793616826,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-234faf2c9eddf47d34fafb6f84b1b01d-chunk-000"
+    ]
+  },
+  "doc-8c53acfff1b48fb8baa2f83b8d7232f2": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 40\nAngka 40 Pasal 93 Cukup jelas.",
+    "content_length": 94,
+    "created_at": "2026-11-02T09:23:54.157529+00:00",
+    "updated_at": "2026-11-02T13:04:13.746791+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "8c53acfff1b48fb8baa2f83b8d7232f2",
+    "metadata": {
+      "parse_start_time": 1793613199,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793623475,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793624396,
+      "process_end_time": 1793624653,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-8c53acfff1b48fb8baa2f83b8d7232f2-chunk-000"
+    ]
+  },
+  "doc-089e68b7aa6c877eb9e209c4f4f2e477": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 25\nPasal 25\n(1) Usaha perikanan dilaksanakan dalam sistem bisnis perikanan, meliputi praproduksi, produksi, pengolahan, dan pemasaran.\n(2) Ketentuan lebih lanjut mengenai praproduksi, produksi, pengolah...",
+    "content_length": 470,
+    "created_at": "2026-11-02T09:23:54.156786+00:00",
+    "updated_at": "2026-11-02T09:57:53.065073+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "089e68b7aa6c877eb9e209c4f4f2e477",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793612326,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793613135,
+      "process_end_time": 1793613473,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-089e68b7aa6c877eb9e209c4f4f2e477-chunk-000"
+    ]
+  },
+  "doc-cc580ed1c232b689fe641ba4c1dc39ca": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pembukaan\nUNDANG-UNDANG REPUBLIK INDONESIA NOMOR 45 TAHUN 2009 TENTANG PERUBAHAN ATAS UNDANG-UNDANG NOMOR 31 TAHUN 2004 TENTANG PERIKANAN\nDENGAN RAHMAT TUHAN YANG MAHA ESA\nPRESIDEN REPUBLIK INDONESIA,\nMenimba...",
+    "content_length": 1431,
+    "created_at": "2026-11-02T09:23:54.156640+00:00",
+    "updated_at": "2026-11-02T09:26:51.573832+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "cc580ed1c232b689fe641ba4c1dc39ca",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793611434,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793611434,
+      "process_end_time": 1793611611,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-cc580ed1c232b689fe641ba4c1dc39ca-chunk-000"
+    ]
+  },
+  "doc-4592e0d50c45de90ca21650a7351e04c": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 48\nPasal 48\nAyat (1)\nKepada setiap orang yang berusaha di bidang penangkapan atau pembudidayaan ikan yang dilakukan di laut atau di perairan lainnya di dalam maupun di luar wilayah pengelol...",
+    "content_length": 457,
+    "created_at": "2026-11-02T09:23:54.157416+00:00",
+    "updated_at": "2026-11-02T12:34:02.714574+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "4592e0d50c45de90ca21650a7351e04c",
+    "metadata": {
+      "parse_start_time": 1793611436,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793621666,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793622572,
+      "process_end_time": 1793622842,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-4592e0d50c45de90ca21650a7351e04c-chunk-000"
+    ]
+  },
+  "doc-130a45a160a3017c0ca1c8575057bcbd": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 28\nPasal 28 Ayat (1) Cukup jelas.\nAyat (2) Cukup jelas.\nAyat (3)\nYang dimaksud dengan “SIKPI asli“ adalah SIKPI yang bukan fotocopy dan/atau salinan yang mirip dengan aslinya, atau yang dib...",
+    "content_length": 490,
+    "created_at": "2026-11-02T09:23:54.157341+00:00",
+    "updated_at": "2026-11-02T12:14:26.637360+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "130a45a160a3017c0ca1c8575057bcbd",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793620709,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793621524,
+      "process_end_time": 1793621666,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-130a45a160a3017c0ca1c8575057bcbd-chunk-000"
+    ]
+  },
+  "doc-9b360d50b06bd57b4cb7c6ddbce56066": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 2\nPasal 2\nHuruf a\nYang dimaksud dengan ”asas manfaat” adalah asas yang menunjukkan bahwa pengelolaan perikanan harus mampu memberikan keuntungan dan manfaat yang sebesar-besarnya bagi penin...",
+    "content_length": 2210,
+    "created_at": "2026-11-02T09:23:54.157263+00:00",
+    "updated_at": "2026-11-02T11:58:29.341443+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "9b360d50b06bd57b4cb7c6ddbce56066",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793619172,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793620337,
+      "process_end_time": 1793620709,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-9b360d50b06bd57b4cb7c6ddbce56066-chunk-000"
+    ]
+  },
+  "doc-c5f272acc0b47431bf705b7bdfc55b34": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 14\nPasal 14\n(1) Pemerintah mengatur dan/atau mengembangkan pemanfaatan plasma nutfah yang berkaitan dengan sumber daya ikan dalam rangka pelestarian ekosistem dan pemuliaan sumber daya ikan.\n(2) Setiap ...",
+    "content_length": 943,
+    "created_at": "2026-11-02T09:23:54.156744+00:00",
+    "updated_at": "2026-11-02T09:46:05.812430+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "c5f272acc0b47431bf705b7bdfc55b34",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793611611,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793612491,
+      "process_end_time": 1793612765,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-c5f272acc0b47431bf705b7bdfc55b34-chunk-000"
+    ]
+  },
+  "doc-e12e737033c2a1e41296f691e1b69ed3": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 21. Ketentuan Pasal 44\n21. Ketentuan Pasal 44 ayat (1) diubah, sehingga Pasal 44 berbunyi sebagai berikut:",
+    "content_length": 148,
+    "created_at": "2026-11-02T09:23:54.156914+00:00",
+    "updated_at": "2026-11-02T10:30:07.531112+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "e12e737033c2a1e41296f691e1b69ed3",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793614283,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793615155,
+      "process_end_time": 1793615407,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-e12e737033c2a1e41296f691e1b69ed3-chunk-000"
+    ]
+  },
+  "doc-730c2519d62d2f4f76af6a50779cee50": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 78A\nPasal 78A\n(1) Setiap pengadilan negeri yang telah ada pengadilan perikanan, dibentuk subkepaniteraan pengadilan perikanan yang dipimpin oleh seorang panitera muda.\n(2) Dalam . . .\n(2) Dalam melaksan...",
+    "content_length": 890,
+    "created_at": "2026-11-02T09:23:54.157138+00:00",
+    "updated_at": "2026-11-02T11:21:50.464080+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "730c2519d62d2f4f76af6a50779cee50",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793617302,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793618115,
+      "process_end_time": 1793618510,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-730c2519d62d2f4f76af6a50779cee50-chunk-000"
+    ]
+  },
+  "doc-e111b20ee7a6e5dcbfece2d804a2075a": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 73B\nPasal 73B\n(1) Penyidik sebagaimana dimaksud dalam Pasal 73 memberitahukan dimulainya penyidikan kepada penuntut umum paling lama 7 (tujuh) hari sejak ditemukan adanya tindak pidana di bidang perikan...",
+    "content_length": 1064,
+    "created_at": "2026-11-02T09:23:54.157089+00:00",
+    "updated_at": "2026-11-02T11:08:23.254230+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "e111b20ee7a6e5dcbfece2d804a2075a",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793616550,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793617392,
+      "process_end_time": 1793617703,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-e111b20ee7a6e5dcbfece2d804a2075a-chunk-000"
+    ]
+  },
+  "doc-f7591804ef6b0260481efd8940a4d936": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 10\nAngka 10 Pasal 25A Cukup jelas.",
+    "content_length": 95,
+    "created_at": "2026-11-02T09:23:54.157313+00:00",
+    "updated_at": "2026-11-02T12:09:16.662326+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "f7591804ef6b0260481efd8940a4d936",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793620007,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793621171,
+      "process_end_time": 1793621356,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-f7591804ef6b0260481efd8940a4d936-chunk-000"
+    ]
+  },
+  "doc-9c44edd751d8f9487281d09517df937d": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 28A\nPasal 28A\nSetiap orang dilarang:\na. memalsukan SIUP, SIPI, dan SIKPI; dan/atau\nb. menggunakan SIUP, SIPI, dan SIKPI palsu.",
+    "content_length": 174,
+    "created_at": "2026-11-02T09:23:54.156836+00:00",
+    "updated_at": "2026-11-02T10:07:48.920206+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "9c44edd751d8f9487281d09517df937d",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793613135,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793613833,
+      "process_end_time": 1793614068,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-9c44edd751d8f9487281d09517df937d-chunk-000"
+    ]
+  },
+  "doc-c7d038bdaf81cefbbd37a0dfd16d4380": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 65\nPasal 65\nPemerintah dapat memberikan tugas kepada pemerintah daerah untuk melaksanakan urusan tugas pembantuan di bidang perikanan.",
+    "content_length": 182,
+    "created_at": "2026-11-02T09:23:54.157010+00:00",
+    "updated_at": "2026-11-02T10:49:10.112127+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "c7d038bdaf81cefbbd37a0dfd16d4380",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793615211,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793616078,
+      "process_end_time": 1793616550,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-c7d038bdaf81cefbbd37a0dfd16d4380-chunk-000"
+    ]
+  },
+  "doc-46a76389201b0a6d50af5e5091a79e2d": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 66C\nPasal 66C\n(1) Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 66, pengawas perikanan berwenang:\na. memasuki dan memeriksa tempat kegiatan usaha perikanan;\nb. memeriksa kelengkapan dan keab...",
+    "content_length": 1642,
+    "created_at": "2026-11-02T09:23:54.157041+00:00",
+    "updated_at": "2026-11-02T10:53:54.826726+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "46a76389201b0a6d50af5e5091a79e2d",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793615785,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793616561,
+      "process_end_time": 1793616834,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-46a76389201b0a6d50af5e5091a79e2d-chunk-000"
+    ]
+  },
+  "doc-0854b937923cdf1341df12b0b9db337b": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 38\nAngka 38 Pasal 83A Cukup jelas.",
+    "content_length": 95,
+    "created_at": "2026-11-02T09:23:54.157517+00:00",
+    "updated_at": "2026-11-02T12:59:56.421183+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "0854b937923cdf1341df12b0b9db337b",
+    "metadata": {
+      "parse_start_time": 1793613135,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793623357,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793624121,
+      "process_end_time": 1793624396,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-0854b937923cdf1341df12b0b9db337b-chunk-000"
+    ]
+  },
+  "doc-58425585edf52a86897cd4b439cf810f": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 42. Ketentuan Pasal 98\n42. Ketentuan Pasal 98 diubah sehingga Pasal 98 berbunyi sebagai berikut:",
+    "content_length": 138,
+    "created_at": "2026-11-02T09:23:54.157175+00:00",
+    "updated_at": "2026-11-02T11:30:25.759716+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "58425585edf52a86897cd4b439cf810f",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793617827,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793618743,
+      "process_end_time": 1793619025,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-58425585edf52a86897cd4b439cf810f-chunk-000"
+    ]
+  },
+  "doc-75e0a9225f4cfb6419813f0b2ea4b76d": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 27\nPasal 27\n(1) Setiap orang yang memiliki dan/atau mengoperasikan kapal penangkap ikan berbendera Indonesia yang digunakan untuk melakukan penangkapan ikan di wilayah pengelolaan perikanan Negara Repub...",
+    "content_length": 1051,
+    "created_at": "2026-11-02T09:23:54.156816+00:00",
+    "updated_at": "2026-11-02T10:03:53.927915+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "75e0a9225f4cfb6419813f0b2ea4b76d",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793612765,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793613614,
+      "process_end_time": 1793613833,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-75e0a9225f4cfb6419813f0b2ea4b76d-chunk-000"
+    ]
+  },
+  "doc-924ec6b1bf259ea21504688aef27f94e": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 42\nAngka 42 Pasal 98 Cukup jelas.",
+    "content_length": 94,
+    "created_at": "2026-11-02T09:23:54.157541+00:00",
+    "updated_at": "2026-11-02T13:09:09.733215+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "924ec6b1bf259ea21504688aef27f94e",
+    "metadata": {
+      "parse_start_time": 1793613472,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793623718,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793624653,
+      "process_end_time": 1793624949,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-924ec6b1bf259ea21504688aef27f94e-chunk-000"
+    ]
+  },
+  "doc-2f8702cbf0777165c01e708af22be300": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 35. Ketentuan Pasal 76\n35. Ketentuan Pasal 76 ditambah 1 (satu) ayat yakni ayat (9), sehingga Pasal 76 berbunyi sebagai berikut:",
+    "content_length": 170,
+    "created_at": "2026-11-02T09:23:54.157108+00:00",
+    "updated_at": "2026-11-02T11:11:42.345536+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "2f8702cbf0777165c01e708af22be300",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793616826,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793617703,
+      "process_end_time": 1793617902,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-2f8702cbf0777165c01e708af22be300-chunk-000"
+    ]
+  },
+  "doc-130d25c13390c77e967eb54b853ed45e": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 73B\nPasal 73B Cukup jelas.",
+    "content_length": 87,
+    "created_at": "2026-11-02T09:23:54.157475+00:00",
+    "updated_at": "2026-11-02T12:49:24.017068+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "130d25c13390c77e967eb54b853ed45e",
+    "metadata": {
+      "parse_start_time": 1793612449,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793622683,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793623475,
+      "process_end_time": 1793623764,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-130d25c13390c77e967eb54b853ed45e-chunk-000"
+    ]
+  },
+  "doc-2c0e48f703a1e3de0c91e2bd365a83e2": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 25B\nPasal 25B\n(1) Pemerintah berkewajiban menyelenggarakan dan memfasilitasi kegiatan pemasaran usaha perikanan baik di dalam negeri maupun ke luar negeri.\n(2) Pengeluaran hasil produksi usaha perikanan...",
+    "content_length": 513,
+    "created_at": "2026-11-02T09:23:54.156798+00:00",
+    "updated_at": "2026-11-02T10:00:14.354397+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "2c0e48f703a1e3de0c91e2bd365a83e2",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793612491,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793613472,
+      "process_end_time": 1793613614,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-2c0e48f703a1e3de0c91e2bd365a83e2-chunk-000"
+    ]
+  },
+  "doc-3f250dcbafd593c2d06ce016eeea9d5f": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 1\nPasal 1\nDalam Undang-Undang ini yang dimaksud dengan:\n1. Perikanan adalah semua kegiatan yang berhubungan dengan pengelolaan dan pemanfaatan sumber daya ikan dan lingkungannya mulai dari praproduksi, ...",
+    "content_length": 4960,
+    "created_at": "2026-11-02T09:23:54.156687+00:00",
+    "updated_at": "2026-11-02T09:34:27.957053+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "3f250dcbafd593c2d06ce016eeea9d5f",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793611434,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793611644,
+      "process_end_time": 1793612067,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 2,
+    "chunks_list": [
+      "doc-3f250dcbafd593c2d06ce016eeea9d5f-chunk-000",
+      "doc-3f250dcbafd593c2d06ce016eeea9d5f-chunk-001"
+    ]
+  },
+  "doc-2f8af115d1f878eb4526f92ea39e18f4": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 32\nAngka 32 Pasal 73 Ayat (1) Cukup jelas.\nAyat (2)\nPenyidikan yang dilakukan Penyidik Pegawai Negeri Sipil Perikanan bersifat koordinatif dengan Penyidik Perwira TNI Angkatan Laut agar pen...",
+    "content_length": 813,
+    "created_at": "2026-11-02T09:23:54.157463+00:00",
+    "updated_at": "2026-11-02T12:45:48.704191+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "2f8af115d1f878eb4526f92ea39e18f4",
+    "metadata": {
+      "parse_start_time": 1793612253,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793622572,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793623357,
+      "process_end_time": 1793623548,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-2f8af115d1f878eb4526f92ea39e18f4-chunk-000"
+    ]
+  },
+  "doc-c368c83da785235c86f2546f89c595c3": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 20\nPasal 20, Pasal 21, dan Pasal 33 ayat (3) Undang-Undang\nDasar Negara Republik Indonesia Tahun 1945;\nDengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA dan PRESIDEN REPUBLIK INDONES...",
+    "content_length": 375,
+    "created_at": "2026-11-02T09:23:54.156664+00:00",
+    "updated_at": "2026-11-02T09:27:24.788061+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "c368c83da785235c86f2546f89c595c3",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793611434,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793611434,
+      "process_end_time": 1793611644,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-c368c83da785235c86f2546f89c595c3-chunk-000"
+    ]
+  },
+  "doc-8b334c483741cb3a7ba8ee0adedd1d6b": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 76\nPasal 76\n(1) Penuntut umum setelah menerima hasil penyidikan dari penyidik wajib memberitahukan hasil penelitiannya kepada penyidik dalam waktu 5 (lima) hari terhitung sejak tanggal diterimanya berka...",
+    "content_length": 2066,
+    "created_at": "2026-11-02T09:23:54.157114+00:00",
+    "updated_at": "2026-11-02T11:14:39.671445+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "8b334c483741cb3a7ba8ee0adedd1d6b",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793616834,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793617795,
+      "process_end_time": 1793618079,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-8b334c483741cb3a7ba8ee0adedd1d6b-chunk-000"
+    ]
+  },
+  "doc-5d8a267584f27610ac6d30619611c53e": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 30\nAngka 30 Pasal 71 Cukup jelas.",
+    "content_length": 94,
+    "created_at": "2026-11-02T09:23:54.157451+00:00",
+    "updated_at": "2026-11-02T12:42:37.881847+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "5d8a267584f27610ac6d30619611c53e",
+    "metadata": {
+      "parse_start_time": 1793612067,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793622281,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793623078,
+      "process_end_time": 1793623357,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-5d8a267584f27610ac6d30619611c53e-chunk-000"
+    ]
+  },
+  "doc-0838a3f46d9a0838a242a520f5182f23": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 42\nPasal 42\n(1) Dalam rangka keselamatan operasional kapal perikanan, ditunjuk syahbandar di pelabuhan perikanan.\n(2) Syahbandar di pelabuhan perikanan mempunyai tugas dan wewenang:\na. menerbitkan Surat...",
+    "content_length": 1855,
+    "created_at": "2026-11-02T09:23:54.156896+00:00",
+    "updated_at": "2026-11-02T10:25:55.839394+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "0838a3f46d9a0838a242a520f5182f23",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793614068,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793614890,
+      "process_end_time": 1793615155,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-0838a3f46d9a0838a242a520f5182f23-chunk-000"
+    ]
+  },
+  "doc-aa61d12e1a6bd23e3847f4b188fd7f70": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 8. Ketentuan Pasal 23\n8. Ketentuan Pasal 23 ditambah 1 (satu) ayat yakni ayat (3), sehingga Pasal 23 berbunyi sebagai berikut:",
+    "content_length": 168,
+    "created_at": "2026-11-02T09:23:54.156768+00:00",
+    "updated_at": "2026-11-02T09:52:15.888962+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "aa61d12e1a6bd23e3847f4b188fd7f70",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793612067,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793612792,
+      "process_end_time": 1793613135,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-aa61d12e1a6bd23e3847f4b188fd7f70-chunk-000"
+    ]
+  },
+  "doc-92ba2597efb922956560d533a5a31039": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 18\nPasal 18\nAyat (1)\nTata pemanfaatan air dan lahan pembudidayaan ikan dimaksudkan agar distribusi dan pemanfaatan air dapat dilakukan secara maksimal, sesuai dengan kebutuhan teknis pembud...",
+    "content_length": 455,
+    "created_at": "2026-11-02T09:23:54.157295+00:00",
+    "updated_at": "2026-11-02T12:06:11.955187+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "92ba2597efb922956560d533a5a31039",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793619824,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793620939,
+      "process_end_time": 1793621171,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-92ba2597efb922956560d533a5a31039-chunk-000"
+    ]
+  },
+  "doc-3a95cb1754e8bd0658e0f4814a0b2866": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 100D\nPasal 100D\nDalam hal pengadilan menjatuhkan pidana denda, maka denda dimaksud wajib disetorkan ke kas negara sebagai penerimaan negara bukan pajak kementerian yang membidangi urusan perikanan.",
+    "content_length": 245,
+    "created_at": "2026-11-02T09:23:54.157207+00:00",
+    "updated_at": "2026-11-02T11:40:39.923534+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "3a95cb1754e8bd0658e0f4814a0b2866",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793618341,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793619172,
+      "process_end_time": 1793619639,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-3a95cb1754e8bd0658e0f4814a0b2866-chunk-000"
+    ]
+  },
+  "doc-8770027e15cde832da62e2b93ca6687a": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 73A\nPasal 73A\nPenyidik sebagaimana dimaksud dalam Pasal 73 berwenang:\na. menerima laporan atau pengaduan dari seseorang tentang adanya tindak pidana di bidang perikanan;\nb. memanggil dan memeriksa tersa...",
+    "content_length": 1209,
+    "created_at": "2026-11-02T09:23:54.157083+00:00",
+    "updated_at": "2026-11-02T11:07:23.377890+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "8770027e15cde832da62e2b93ca6687a",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793616550,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793617302,
+      "process_end_time": 1793617643,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-8770027e15cde832da62e2b93ca6687a-chunk-000"
+    ]
+  },
+  "doc-b968e379f5f93fc0a5d3815d70225062": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 5. Ketentuan Pasal 14\n5. Ketentuan Pasal 14 ayat (3) diubah, sehingga Pasal 14 berbunyi sebagai berikut:",
+    "content_length": 146,
+    "created_at": "2026-11-02T09:23:54.156738+00:00",
+    "updated_at": "2026-11-02T09:44:59.049313+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "b968e379f5f93fc0a5d3815d70225062",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793611434,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793612449,
+      "process_end_time": 1793612699,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-b968e379f5f93fc0a5d3815d70225062-chunk-000"
+    ]
+  },
+  "doc-d82baadc65d3fb83fcadf9d87e98f046": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 7. Ketentuan Pasal 18\n7. Ketentuan Pasal 18 ditambah 2 (dua) ayat yakni ayat (3) dan ayat (4), sehingga Pasal 18 berbunyi sebagai berikut:",
+    "content_length": 180,
+    "created_at": "2026-11-02T09:23:54.156756+00:00",
+    "updated_at": "2026-11-02T09:49:15.081482+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "d82baadc65d3fb83fcadf9d87e98f046",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793611679,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793612699,
+      "process_end_time": 1793612955,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-d82baadc65d3fb83fcadf9d87e98f046-chunk-000"
+    ]
+  },
+  "doc-87bebfa57c27e2833dc40481329bbdac": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 30. Ketentuan Pasal 71\n30. Ketentuan Pasal 71 diubah sehingga Pasal 71 berbunyi sebagai berikut:",
+    "content_length": 138,
+    "created_at": "2026-11-02T09:23:54.157053+00:00",
+    "updated_at": "2026-11-02T10:59:11.323422+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "87bebfa57c27e2833dc40481329bbdac",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793615848,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793616826,
+      "process_end_time": 1793617151,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-87bebfa57c27e2833dc40481329bbdac-chunk-000"
+    ]
+  },
+  "doc-7c2436fae01f856dc4b622be0d824cdf": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 45\nAngka 45 Pasal 110 Cukup jelas.",
+    "content_length": 95,
+    "created_at": "2026-11-02T09:23:54.157570+00:00",
+    "updated_at": "2026-11-02T13:13:44.168718+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "7c2436fae01f856dc4b622be0d824cdf",
+    "metadata": {
+      "parse_start_time": 1793613833,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793624121,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793624966,
+      "process_end_time": 1793625224,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-7c2436fae01f856dc4b622be0d824cdf-chunk-000"
+    ]
+  },
+  "doc-351e06bb3fe87e0083bbf71b06cef353": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 39. Ketentuan Pasal 85\n39. Ketentuan Pasal 85 diubah sehingga Pasal 85 berbunyi sebagai berikut:",
+    "content_length": 138,
+    "created_at": "2026-11-02T09:23:54.157151+00:00",
+    "updated_at": "2026-11-02T11:23:06.448052+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "351e06bb3fe87e0083bbf71b06cef353",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793617503,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793618341,
+      "process_end_time": 1793618586,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-351e06bb3fe87e0083bbf71b06cef353-chunk-000"
+    ]
+  },
+  "doc-56ebef365151d711330ded1affec5c67": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 19. Ketentuan Pasal 42\n19. Ketentuan Pasal 42 diubah sehingga Pasal 42 berbunyi sebagai berikut:",
+    "content_length": 138,
+    "created_at": "2026-11-02T09:23:54.156890+00:00",
+    "updated_at": "2026-11-02T10:24:32.901085+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "56ebef365151d711330ded1affec5c67",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793613833,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793614681,
+      "process_end_time": 1793615072,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-56ebef365151d711330ded1affec5c67-chunk-000"
+    ]
+  },
+  "doc-9ff7709481fc713a6e71c843157c22d0": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 44\nPasal 44\n(1) Surat Persetujuan Berlayar sebagaimana dimaksud dalam pasal 42 ayat (2) huruf a dikeluarkan oleh syahbandar setelah kapal perikanan mendapatkan surat laik operasi.\n(2) Surat laik operasi...",
+    "content_length": 534,
+    "created_at": "2026-11-02T09:23:54.156955+00:00",
+    "updated_at": "2026-11-02T10:31:15.660023+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "9ff7709481fc713a6e71c843157c22d0",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793614446,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793615211,
+      "process_end_time": 1793615475,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-9ff7709481fc713a6e71c843157c22d0-chunk-000"
+    ]
+  },
+  "doc-fb69a2d0a0540fabb87cf928d7548cfd": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 9. Ketentuan Pasal 25\n9. Ketentuan Pasal 25 diubah sehingga Pasal 25 berbunyi sebagai berikut:",
+    "content_length": 136,
+    "created_at": "2026-11-02T09:23:54.156780+00:00",
+    "updated_at": "2026-11-02T09:57:52.172787+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "fb69a2d0a0540fabb87cf928d7548cfd",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793612253,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793613135,
+      "process_end_time": 1793613472,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-fb69a2d0a0540fabb87cf928d7548cfd-chunk-000"
+    ]
+  },
+  "doc-7c49841464685c342625bf812725d84b": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Umum\nPENJELASAN ATAS UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 45 TAHUN 2009 TENTANG PERUBAHAN ATAS UNDANG-UNDANG NOMOR 31 TAHUN 2004 TENTANG PERIKANAN\nI. UMUM\nIndonesia sebagai sebuah negara kepula...",
+    "content_length": 5407,
+    "created_at": "2026-11-02T09:23:54.157245+00:00",
+    "updated_at": "2026-11-02T11:53:36.425506+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "7c49841464685c342625bf812725d84b",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793618859,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793619960,
+      "process_end_time": 1793620416,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 2,
+    "chunks_list": [
+      "doc-7c49841464685c342625bf812725d84b-chunk-000",
+      "doc-7c49841464685c342625bf812725d84b-chunk-001"
+    ]
+  },
+  "doc-534b2be954c51e78d8ba31786fe0d724": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 11. Ketentuan Pasal 27\n11. Ketentuan Pasal 27 ayat (1), ayat (2), dan ayat (3) diubah, serta ditambah 1 (satu) ayat yakni ayat (5), sehingga Pasal 27 berbunyi sebagai berikut:",
+    "content_length": 217,
+    "created_at": "2026-11-02T09:23:54.156810+00:00",
+    "updated_at": "2026-11-02T10:02:51.928881+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "534b2be954c51e78d8ba31786fe0d724",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793612699,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793613473,
+      "process_end_time": 1793613771,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-534b2be954c51e78d8ba31786fe0d724-chunk-000"
+    ]
+  },
+  "doc-7c7df7266ef87827f0f041d4191c0cc8": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 32\nPasal 32\nKetentuan lebih lanjut mengenai penerbitan, tata cara, dan syarat-syarat pemberian SIUP, SIPI, dan SIKPI diatur dengan Peraturan Menteri.\n15. Di antara . . .\n15. Di antara Pasal 35 dan Pasal...",
+    "content_length": 327,
+    "created_at": "2026-11-02T09:23:54.156848+00:00",
+    "updated_at": "2026-11-02T10:14:06.595173+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "7c7df7266ef87827f0f041d4191c0cc8",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793613199,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793614068,
+      "process_end_time": 1793614446,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-7c7df7266ef87827f0f041d4191c0cc8-chunk-000"
+    ]
+  },
+  "doc-ad26a0781f780828d6ca06a34f757321": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 34. Ketentuan Pasal 75\n34. Ketentuan Pasal 75 diubah sehingga Pasal 75 berbunyi sebagai berikut:",
+    "content_length": 138,
+    "created_at": "2026-11-02T09:23:54.157095+00:00",
+    "updated_at": "2026-11-02T11:09:55.744711+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "ad26a0781f780828d6ca06a34f757321",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793616561,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793617503,
+      "process_end_time": 1793617795,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-ad26a0781f780828d6ca06a34f757321-chunk-000"
+    ]
+  },
+  "doc-35fdc5be48a1785776f9f9f63d017f7b": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 100C\nPasal 100C Cukup jelas.",
+    "content_length": 89,
+    "created_at": "2026-11-02T09:23:54.157553+00:00",
+    "updated_at": "2026-11-02T13:09:26.724434+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "35fdc5be48a1785776f9f9f63d017f7b",
+    "metadata": {
+      "parse_start_time": 1793613614,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793623875,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793624654,
+      "process_end_time": 1793624966,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-35fdc5be48a1785776f9f9f63d017f7b-chunk-000"
+    ]
+  },
+  "doc-4f6ed3ea2d02a0da67c28b9a23765440": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 15\nAngka 15 Pasal 35A Cukup jelas.",
+    "content_length": 95,
+    "created_at": "2026-11-02T09:23:54.157361+00:00",
+    "updated_at": "2026-11-02T12:21:07.154792+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "4f6ed3ea2d02a0da67c28b9a23765440",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793620985,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793621666,
+      "process_end_time": 1793622067,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-4f6ed3ea2d02a0da67c28b9a23765440-chunk-000"
+    ]
+  },
+  "doc-2c9ddd9b5bee945f2f34ab7b627d39d3": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 45. Ketentuan Pasal 110\n45. Ketentuan Pasal 110 diubah sehingga Pasal 110 berbunyi sebagai berikut:",
+    "content_length": 141,
+    "created_at": "2026-11-02T09:23:54.157218+00:00",
+    "updated_at": "2026-11-02T11:43:44.573451+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "2c9ddd9b5bee945f2f34ab7b627d39d3",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793618510,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793619639,
+      "process_end_time": 1793619824,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-2c9ddd9b5bee945f2f34ab7b627d39d3-chunk-000"
+    ]
+  },
+  "doc-ca77871eaf5880d4a99669013079d4d5": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 18\nPasal 18\n(1) Pemerintah mengatur dan membina tata pemanfaatan air dan lahan pembudidayaan ikan.\n(2) Pengaturan dan pembinaan tata pemanfaatan air dan lahan pembudidayaan ikan, sebagaimana dimaksud pa...",
+    "content_length": 653,
+    "created_at": "2026-11-02T09:23:54.156762+00:00",
+    "updated_at": "2026-11-02T09:52:15.919608+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "ca77871eaf5880d4a99669013079d4d5",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793611911,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793612765,
+      "process_end_time": 1793613135,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-ca77871eaf5880d4a99669013079d4d5-chunk-000"
+    ]
+  },
+  "doc-1c16bda5ef23b55bac217710e0aadedc": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 73\nPasal 73\n(1) Penyidikan tindak pidana di bidang perikanan di wilayah pengelolaan perikanan Negara Republik Indonesia dilakukan oleh Penyidik Pegawai Negeri Sipil Perikanan, Penyidik Perwira TNI AL, d...",
+    "content_length": 1045,
+    "created_at": "2026-11-02T09:23:54.157077+00:00",
+    "updated_at": "2026-11-02T11:05:03.241834+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "1c16bda5ef23b55bac217710e0aadedc",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793616285,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793617151,
+      "process_end_time": 1793617503,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-1c16bda5ef23b55bac217710e0aadedc-chunk-000"
+    ]
+  },
+  "doc-36c3ae33efeb279f1b62d98a2e97c2d8": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 1\nAngka 1 Pasal 1 Cukup jelas.",
+    "content_length": 91,
+    "created_at": "2026-11-02T09:23:54.157256+00:00",
+    "updated_at": "2026-11-02T11:53:14.682526+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "36c3ae33efeb279f1b62d98a2e97c2d8",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793619172,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793620007,
+      "process_end_time": 1793620394,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-36c3ae33efeb279f1b62d98a2e97c2d8-chunk-000"
+    ]
+  },
+  "doc-7caa573ce907926dfb1d5d112debc427": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 23\nPasal 23\n(1) Setiap orang dilarang menggunakan bahan baku, bahan tambahan makanan, bahan penolong, dan/atau alat yang membahayakan kesehatan manusia dan/atau lingkungan dalam melaksanakan penanganan ...",
+    "content_length": 635,
+    "created_at": "2026-11-02T09:23:54.156774+00:00",
+    "updated_at": "2026-11-02T09:53:19.646409+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "7caa573ce907926dfb1d5d112debc427",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793612092,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793612955,
+      "process_end_time": 1793613199,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-7caa573ce907926dfb1d5d112debc427-chunk-000"
+    ]
+  },
+  "doc-cca60df9cadc486c73618bfbb730896f": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal demi Pasal\nII. PASAL DEMI PASAL\nPasal I",
+    "content_length": 100,
+    "created_at": "2026-11-02T09:23:54.157251+00:00",
+    "updated_at": "2026-11-02T11:52:17.953623+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "cca60df9cadc486c73618bfbb730896f",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793619025,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793619960,
+      "process_end_time": 1793620337,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-cca60df9cadc486c73618bfbb730896f-chunk-000"
+    ]
+  },
+  "doc-5d23a953ecfe86af32907090015262b1": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 73A\nPasal 73A Cukup jelas.",
+    "content_length": 87,
+    "created_at": "2026-11-02T09:23:54.157469+00:00",
+    "updated_at": "2026-11-02T12:48:38.645759+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "5d23a953ecfe86af32907090015262b1",
+    "metadata": {
+      "parse_start_time": 1793612326,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793622572,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793623466,
+      "process_end_time": 1793623718,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-5d23a953ecfe86af32907090015262b1-chunk-000"
+    ]
+  },
+  "doc-cc28dddc30044cc1042074e2da6ac17e": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 6\nAngka 6 Pasal 15A Cukup jelas.",
+    "content_length": 93,
+    "created_at": "2026-11-02T09:23:54.157288+00:00",
+    "updated_at": "2026-11-02T12:04:02.982350+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "cc28dddc30044cc1042074e2da6ac17e",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793619650,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793620794,
+      "process_end_time": 1793621042,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-cc28dddc30044cc1042074e2da6ac17e-chunk-000"
+    ]
+  },
+  "doc-9700f1780cacfcc2ead5d8af0bd2c56e": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 18\nAngka 18 Pasal 41A Cukup jelas.",
+    "content_length": 95,
+    "created_at": "2026-11-02T09:23:54.157379+00:00",
+    "updated_at": "2026-11-02T12:24:41.101937+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "9700f1780cacfcc2ead5d8af0bd2c56e",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793621204,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793622067,
+      "process_end_time": 1793622281,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-9700f1780cacfcc2ead5d8af0bd2c56e-chunk-000"
+    ]
+  },
+  "doc-9f6715071d75a5cc753b5c66ac15c904": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 34\nAngka 34\nPada dasarnya penunjukan penuntut umum merupakan kewenangan Jaksa Agung. Namun demikian, atas nama Jaksa Agung dimungkinkan didelegasikan atau dilimpahkan kepada pejabat di ling...",
+    "content_length": 520,
+    "created_at": "2026-11-02T09:23:54.157482+00:00",
+    "updated_at": "2026-11-02T12:51:15.614200+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "9f6715071d75a5cc753b5c66ac15c904",
+    "metadata": {
+      "parse_start_time": 1793612491,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793622831,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793623548,
+      "process_end_time": 1793623875,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-9f6715071d75a5cc753b5c66ac15c904-chunk-000"
+    ]
+  },
+  "doc-3e261c4446876dafa5abbaf556b1ad31": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 31\nAngka 31 Pasal 71A Cukup jelas.",
+    "content_length": 95,
+    "created_at": "2026-11-02T09:23:54.157457+00:00",
+    "updated_at": "2026-11-02T12:44:35.549626+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "3e261c4446876dafa5abbaf556b1ad31",
+    "metadata": {
+      "parse_start_time": 1793612092,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793622399,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793623121,
+      "process_end_time": 1793623475,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-3e261c4446876dafa5abbaf556b1ad31-chunk-000"
+    ]
+  },
+  "doc-5a6db25f57414eaaed9e9761392457a7": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 26\nAngka 26 Pasal 65 Cukup jelas.",
+    "content_length": 94,
+    "created_at": "2026-11-02T09:23:54.157427+00:00",
+    "updated_at": "2026-11-02T12:37:22.179502+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "5a6db25f57414eaaed9e9761392457a7",
+    "metadata": {
+      "parse_start_time": 1793611611,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793622067,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793622831,
+      "process_end_time": 1793623042,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-5a6db25f57414eaaed9e9761392457a7-chunk-000"
+    ]
+  },
+  "doc-da21e0a226c6d65ac2d4c848359f4fc5": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 100D\nPasal 100D Cukup jelas.",
+    "content_length": 89,
+    "created_at": "2026-11-02T09:23:54.157559+00:00",
+    "updated_at": "2026-11-02T13:11:11.177939+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "da21e0a226c6d65ac2d4c848359f4fc5",
+    "metadata": {
+      "parse_start_time": 1793613771,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793624019,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793624949,
+      "process_end_time": 1793625071,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-da21e0a226c6d65ac2d4c848359f4fc5-chunk-000"
+    ]
+  },
+  "doc-d130566d3428f4d3d39a686317900d8a": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 25A\nPasal 25A\n(1) Pelaku usaha perikanan dalam melaksanakan bisnis perikanan harus memperhatikan standar mutu hasil perikanan.\n(2) Pemerintah dan pemerintah daerah membina dan memfasilitasi pengembangan...",
+    "content_length": 407,
+    "created_at": "2026-11-02T09:23:54.156792+00:00",
+    "updated_at": "2026-11-02T09:57:52.867373+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "d130566d3428f4d3d39a686317900d8a",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793612449,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793613199,
+      "process_end_time": 1793613472,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-d130566d3428f4d3d39a686317900d8a-chunk-000"
+    ]
+  },
+  "doc-29fbcbd5b65dd426e4716290318a0c00": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 40. Ketentuan Pasal 93\n40. Ketentuan Pasal 93 diubah sehingga Pasal 93 berbunyi sebagai berikut:",
+    "content_length": 138,
+    "created_at": "2026-11-02T09:23:54.157163+00:00",
+    "updated_at": "2026-11-02T11:26:59.602340+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "29fbcbd5b65dd426e4716290318a0c00",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793617703,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793618510,
+      "process_end_time": 1793618819,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-29fbcbd5b65dd426e4716290318a0c00-chunk-000"
+    ]
+  },
+  "doc-19263e8108dba1ec6192453b78961b6a": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 37\nAngka 37 Pasal 78A Cukup jelas.",
+    "content_length": 95,
+    "created_at": "2026-11-02T09:23:54.157512+00:00",
+    "updated_at": "2026-11-02T12:59:55.728368+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "19263e8108dba1ec6192453b78961b6a",
+    "metadata": {
+      "parse_start_time": 1793612955,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793623121,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793624019,
+      "process_end_time": 1793624395,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-19263e8108dba1ec6192453b78961b6a-chunk-000"
+    ]
+  },
+  "doc-ca600c74c446db876d0c55bd29f4d998": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 110A\nPasal 110A\nSemua Peraturan Pemerintah yang diamanatkan untuk melaksanakan ketentuan Undang-Undang ini harus ditetapkan paling lama 1 (satu) tahun sejak Undang-Undang ini diundangkan.",
+    "content_length": 235,
+    "created_at": "2026-11-02T09:23:54.157231+00:00",
+    "updated_at": "2026-11-02T11:46:00.034440+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "ca600c74c446db876d0c55bd29f4d998",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793618743,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793619650,
+      "process_end_time": 1793619960,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-ca600c74c446db876d0c55bd29f4d998-chunk-000"
+    ]
+  },
+  "doc-82926bd59be32ff65a813b5f207afd46": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 20\nAngka 20 Pasal 43 Cukup jelas.",
+    "content_length": 94,
+    "created_at": "2026-11-02T09:23:54.157391+00:00",
+    "updated_at": "2026-11-02T12:29:31.751893+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "82926bd59be32ff65a813b5f207afd46",
+    "metadata": {
+      "parse_start_time": 1793611436,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793621356,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793622227,
+      "process_end_time": 1793622571,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-82926bd59be32ff65a813b5f207afd46-chunk-000"
+    ]
+  },
+  "doc-ae2e1433cd75bdf11990702e40192356": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 27\nAngka 27 Pasal 66 Cukup jelas.",
+    "content_length": 94,
+    "created_at": "2026-11-02T09:23:54.157433+00:00",
+    "updated_at": "2026-11-02T12:37:58.742630+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "ae2e1433cd75bdf11990702e40192356",
+    "metadata": {
+      "parse_start_time": 1793611644,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793622067,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793622842,
+      "process_end_time": 1793623078,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-ae2e1433cd75bdf11990702e40192356-chunk-000"
+    ]
+  },
+  "doc-f3e28f0d7f60cc7a75874be8028f3f27": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 43\nPasal 43\nSetiap kapal perikanan yang melakukan kegiatan perikanan wajib memiliki surat laik operasi kapal perikanan dari pengawas perikanan tanpa dikenai biaya.\n21. Ketentuan . . .",
+    "content_length": 231,
+    "created_at": "2026-11-02T09:23:54.156908+00:00",
+    "updated_at": "2026-11-02T10:29:32.701669+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "f3e28f0d7f60cc7a75874be8028f3f27",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793614069,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793615072,
+      "process_end_time": 1793615372,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-f3e28f0d7f60cc7a75874be8028f3f27-chunk-000"
+    ]
+  },
+  "doc-7aded5d5e52a1e434667c92c52046b41": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 69\nPasal 69\nAyat (1)\nYang dimaksud dengan “kapal pengawas perikanan” adalah kapal pemerintah yang diberi tanda tertentu untuk melakukan pengawasan dan penegakan hukum di bidang perikanan.\nA...",
+    "content_length": 1081,
+    "created_at": "2026-11-02T09:23:54.157445+00:00",
+    "updated_at": "2026-11-02T12:44:26.460672+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "7aded5d5e52a1e434667c92c52046b41",
+    "metadata": {
+      "parse_start_time": 1793611911,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793622227,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793623042,
+      "process_end_time": 1793623466,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-7aded5d5e52a1e434667c92c52046b41-chunk-000"
+    ]
+  },
+  "doc-29079ef829371b602ec75456a64d48a9": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 25C\nPasal 25C\nAyat (1) Industri perikanan diantaranya meliputi industri yang bergerak di bidang penyediaan sarana dan prasarana penangkapan serta industri pengolahan perikanan.\nAyat (2) Cuk...",
+    "content_length": 281,
+    "created_at": "2026-11-02T09:23:54.157326+00:00",
+    "updated_at": "2026-11-02T12:12:04.610047+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "29079ef829371b602ec75456a64d48a9",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793620394,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793621234,
+      "process_end_time": 1793621524,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-29079ef829371b602ec75456a64d48a9-chunk-000"
+    ]
+  },
+  "doc-d7b3c2cbd5310c0cc3c016c5673bf723": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 13\nAngka 13 Pasal 28A Cukup jelas.",
+    "content_length": 95,
+    "created_at": "2026-11-02T09:23:54.157348+00:00",
+    "updated_at": "2026-11-02T12:15:11.119695+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "d7b3c2cbd5310c0cc3c016c5673bf723",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793620794,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793621524,
+      "process_end_time": 1793621711,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-d7b3c2cbd5310c0cc3c016c5673bf723-chunk-000"
+    ]
+  },
+  "doc-0ad9a52ae6cc54180ac316dd4a815479": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 7\nPasal 7\nAyat (1)\nHuruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas.\nHuruf e .\nHuruf e Cukup jelas.\nHuruf f Cukup jelas.\nHuruf g Cukup jelas.\nHuruf h Cukup...",
+    "content_length": 3503,
+    "created_at": "2026-11-02T09:23:54.157270+00:00",
+    "updated_at": "2026-11-02T11:59:54.127395+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "0ad9a52ae6cc54180ac316dd4a815479",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793619254,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793620394,
+      "process_end_time": 1793620794,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-0ad9a52ae6cc54180ac316dd4a815479-chunk-000"
+    ]
+  },
+  "doc-8f5d67ae61879fafe2a8b3837364817e": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 83A\nPasal 83A\n(1) Selain yang ditetapkan sebagai tersangka dalam tindak pidana perikanan atau tindak pidana lainnya, awak kapal lainnya dapat dipulangkan termasuk yang berkewarganegaraan asing.\n(2) Pemu...",
+    "content_length": 626,
+    "created_at": "2026-11-02T09:23:54.157145+00:00",
+    "updated_at": "2026-11-02T11:21:42.629717+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "8f5d67ae61879fafe2a8b3837364817e",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793617392,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793618163,
+      "process_end_time": 1793618502,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-8f5d67ae61879fafe2a8b3837364817e-chunk-000"
+    ]
+  },
+  "doc-5b92e3da08870a168c229ea3603a9355": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 93\nPasal 93\n(1) Setiap orang yang memiliki dan/atau mengoperasikan kapal penangkap ikan berbendera Indonesia melakukan penangkapan ikan di wilayah pengelolaan perikanan Negara Republik Indonesia dan/ata...",
+    "content_length": 1780,
+    "created_at": "2026-11-02T09:23:54.157169+00:00",
+    "updated_at": "2026-11-02T11:27:39.124767+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "5b92e3da08870a168c229ea3603a9355",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793617795,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793618586,
+      "process_end_time": 1793618859,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-5b92e3da08870a168c229ea3603a9355-chunk-000"
+    ]
+  },
+  "doc-2727039291ac2002dd3e3bacae49f9a1": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 66\nPasal 66\n(1) Pengawasan perikanan dilakukan oleh pengawas perikanan.\n(2) Pengawas perikanan bertugas untuk mengawasi tertib pelaksanaan ketentuan peraturan perundang-undangan di bidang perikanan.\n(3)...",
+    "content_length": 835,
+    "created_at": "2026-11-02T09:23:54.157022+00:00",
+    "updated_at": "2026-11-02T10:49:21.085918+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "2727039291ac2002dd3e3bacae49f9a1",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793615407,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793616285,
+      "process_end_time": 1793616561,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-2727039291ac2002dd3e3bacae49f9a1-chunk-000"
+    ]
+  },
+  "doc-8cd1965b8838d4f4a2c74d182becb2dc": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 41A\nPasal 41A\n(1) Pelabuhan perikanan mempunyai fungsi pemerintahan dan pengusahaan guna mendukung kegiatan yang berhubungan dengan pengelolaan dan pemanfaatan sumber daya ikan dan lingkungannya mulai d...",
+    "content_length": 1251,
+    "created_at": "2026-11-02T09:23:54.156884+00:00",
+    "updated_at": "2026-11-02T10:22:40.612215+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "8cd1965b8838d4f4a2c74d182becb2dc",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793613781,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793614606,
+      "process_end_time": 1793614960,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-8cd1965b8838d4f4a2c74d182becb2dc-chunk-000"
+    ]
+  },
+  "doc-8b803ece93e21676851b0849b23c7ef4": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 76C\nPasal 76C\n(1) Benda dan/atau alat yang dirampas dari hasil tindak pidana perikanan sebagaimana dimaksud dalam Pasal 76A dapat dilelang untuk negara.\n(2) Pelaksanaan lelang dilakukan oleh badan lelan...",
+    "content_length": 1062,
+    "created_at": "2026-11-02T09:23:54.157132+00:00",
+    "updated_at": "2026-11-02T11:19:01.487710+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "8b803ece93e21676851b0849b23c7ef4",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793617151,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793618079,
+      "process_end_time": 1793618341,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-8b803ece93e21676851b0849b23c7ef4-chunk-000"
+    ]
+  },
+  "doc-8d0561e12317246bad13a7bc39f2771a": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 46\nPasal 46\n(1) Pemerintah dan pemerintah daerah menyusun dan mengembangkan sistem informasi dan data statistik perikanan serta menyelenggarakan pengumpulan, pengolahan, analisis, penyimpanan, penyajian...",
+    "content_length": 784,
+    "created_at": "2026-11-02T09:23:54.156968+00:00",
+    "updated_at": "2026-11-02T10:36:25.546347+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "8d0561e12317246bad13a7bc39f2771a",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793614561,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793615407,
+      "process_end_time": 1793615785,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-8d0561e12317246bad13a7bc39f2771a-chunk-000"
+    ]
+  },
+  "doc-5d5894862e25e3fd2a4e6d247d9baad4": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 35\nAngka 35 Pasal 76 Cukup jelas.",
+    "content_length": 94,
+    "created_at": "2026-11-02T09:23:54.157487+00:00",
+    "updated_at": "2026-11-02T12:53:38.554392+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "5d5894862e25e3fd2a4e6d247d9baad4",
+    "metadata": {
+      "parse_start_time": 1793612525,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793622842,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793623718,
+      "process_end_time": 1793624018,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-5d5894862e25e3fd2a4e6d247d9baad4-chunk-000"
+    ]
+  },
+  "doc-49de9010af68a226b0c09835cbb33b9b": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 44\nAngka 44 Cukup jelas.",
+    "content_length": 85,
+    "created_at": "2026-11-02T09:23:54.157565+00:00",
+    "updated_at": "2026-11-02T13:13:43.606884+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "49de9010af68a226b0c09835cbb33b9b",
+    "metadata": {
+      "parse_start_time": 1793613781,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793624019,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793624966,
+      "process_end_time": 1793625223,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-49de9010af68a226b0c09835cbb33b9b-chunk-000"
+    ]
+  },
+  "doc-353540565da08516f4178b44d3a81468": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 41\nPasal 41\n(1) Pemerintah menyelenggarakan dan melakukan pembinaan pengelolaan pelabuhan perikanan.\n(2) Penyelenggaraan dan pembinaan pengelolaan pelabuhan perikanan sebagaimana dimaksud pada ayat (1),...",
+    "content_length": 1539,
+    "created_at": "2026-11-02T09:23:54.156878+00:00",
+    "updated_at": "2026-11-02T10:21:30.761400+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "353540565da08516f4178b44d3a81468",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793613771,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793614561,
+      "process_end_time": 1793614890,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-353540565da08516f4178b44d3a81468-chunk-000"
+    ]
+  },
+  "doc-a2584d4d1ad82841bc89b193a8bd0dd5": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 66A\nPasal 66A\n(1) Pengawas perikanan sebagaimana dimaksud dalam Pasal 66 merupakan pegawai negeri sipil yang bekerja di bidang perikanan yang diangkat oleh menteri atau pejabat yang ditunjuk.\n(2) Pengaw...",
+    "content_length": 631,
+    "created_at": "2026-11-02T09:23:54.157028+00:00",
+    "updated_at": "2026-11-02T10:53:46.100057+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "a2584d4d1ad82841bc89b193a8bd0dd5",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793615475,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793616550,
+      "process_end_time": 1793616826,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-a2584d4d1ad82841bc89b193a8bd0dd5-chunk-000"
+    ]
+  },
+  "doc-0c38afa935d3f42bd7aee8eebdf2787a": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 26. Ketentuan Pasal 65\n26. Ketentuan Pasal 65 ayat (1) dihapus sehingga Pasal 65 berbunyi sebagai berikut:",
+    "content_length": 148,
+    "created_at": "2026-11-02T09:23:54.157004+00:00",
+    "updated_at": "2026-11-02T10:44:45.150267+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "0c38afa935d3f42bd7aee8eebdf2787a",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793615155,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793616046,
+      "process_end_time": 1793616285,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-0c38afa935d3f42bd7aee8eebdf2787a-chunk-000"
+    ]
+  },
+  "doc-8f43260542e30c39011c792f39a1f499": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | PASAL II\nPASAL II\nUndang-Undang ini mulai berlaku pada tanggal diundangkan.\nAgar . . .\nAgar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara ...",
+    "content_length": 455,
+    "created_at": "2026-11-02T09:23:54.157238+00:00",
+    "updated_at": "2026-11-02T11:46:47.115384+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "8f43260542e30c39011c792f39a1f499",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793618819,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793619824,
+      "process_end_time": 1793620007,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-8f43260542e30c39011c792f39a1f499-chunk-000"
+    ]
+  },
+  "doc-b9e6cdb99f3cdb98728cc64c27b027e2": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 100A\nPasal 100A\nDalam hal tindak pidana sebagaimana dimaksud dalam Pasal 28A, pemalsuan persetujuan sebagaimana dimaksud dalam Pasal 35 ayat (1), dan pemalsuan pendaftaran sebagaimana dimaksud dalam Pas...",
+    "content_length": 345,
+    "created_at": "2026-11-02T09:23:54.157188+00:00",
+    "updated_at": "2026-11-02T11:32:52.097706+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "b9e6cdb99f3cdb98728cc64c27b027e2",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793618079,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793618859,
+      "process_end_time": 1793619172,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-b9e6cdb99f3cdb98728cc64c27b027e2-chunk-000"
+    ]
+  },
+  "doc-be1e1a48929c3cc75053e1ab81db89aa": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 35A\nPasal 35A\n(1) Kapal perikanan berbendera Indonesia yang melakukan penangkapan ikan di wilayah pengelolaan perikanan Negara Republik Indonesia wajib menggunakan nakhoda dan anak buah kapal berkewarga...",
+    "content_length": 797,
+    "created_at": "2026-11-02T09:23:54.156854+00:00",
+    "updated_at": "2026-11-02T10:14:06.759926+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "be1e1a48929c3cc75053e1ab81db89aa",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793613472,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793614069,
+      "process_end_time": 1793614446,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-be1e1a48929c3cc75053e1ab81db89aa-chunk-000"
+    ]
+  },
+  "doc-2242493ffd0db986c3b97bbca014a1b2": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 9\nPasal 9\n(1) Setiap orang dilarang memiliki, menguasai, membawa, dan/atau menggunakan alat penangkapan dan/atau alat bantu penangkapan ikan yang mengganggu dan merusak keberlanjutan sumber daya ikan di...",
+    "content_length": 535,
+    "created_at": "2026-11-02T09:23:54.156732+00:00",
+    "updated_at": "2026-11-02T09:42:05.928452+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "2242493ffd0db986c3b97bbca014a1b2",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793611434,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793612326,
+      "process_end_time": 1793612525,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-2242493ffd0db986c3b97bbca014a1b2-chunk-000"
+    ]
+  },
+  "doc-1ffff1f2e3dfa130e836c0fbbe361e57": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 7\nPasal 7\n(1) Dalam rangka mendukung kebijakan pengelolaan sumber daya ikan, Menteri menetapkan:\na. rencana pengelolaan perikanan;\nb. potensi dan alokasi sumber daya ikan di wilayah pengelolaan perikana...",
+    "content_length": 3305,
+    "created_at": "2026-11-02T09:23:54.156718+00:00",
+    "updated_at": "2026-11-02T09:40:49.708218+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "1ffff1f2e3dfa130e836c0fbbe361e57",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793611434,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793612092,
+      "process_end_time": 1793612449,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-1ffff1f2e3dfa130e836c0fbbe361e57-chunk-000"
+    ]
+  },
+  "doc-96cb007884eba8ce96829a2e0ffab119": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 85\nPasal 85\nSetiap orang yang dengan sengaja memiliki, menguasai, membawa, dan/atau menggunakan alat penangkap ikan dan/atau alat bantu penangkapan ikan yang mengganggu dan merusak keberlanjutan sumber ...",
+    "content_length": 519,
+    "created_at": "2026-11-02T09:23:54.157157+00:00",
+    "updated_at": "2026-11-02T11:25:43.321452+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "96cb007884eba8ce96829a2e0ffab119",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793617643,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793618502,
+      "process_end_time": 1793618743,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-96cb007884eba8ce96829a2e0ffab119-chunk-000"
+    ]
+  },
+  "doc-57b676e72bd7d33bfd818769b7f7fe7a": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 44. Ketentuan Pasal 105\n44. Ketentuan Pasal 105 dihapus.",
+    "content_length": 98,
+    "created_at": "2026-11-02T09:23:54.157213+00:00",
+    "updated_at": "2026-11-02T11:40:50.962275+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "57b676e72bd7d33bfd818769b7f7fe7a",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793618502,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793619254,
+      "process_end_time": 1793619650,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-57b676e72bd7d33bfd818769b7f7fe7a-chunk-000"
+    ]
+  },
+  "doc-2a7f63233750f66081316ef941910c77": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 9\nPasal 9\nAlat penangkapan ikan dan/atau alat bantu penangkapan ikan yang mengganggu dan merusak keberlanjutan sumber daya ikan termasuk diantaranya jaring trawl atau pukat harimau, dan/ata...",
+    "content_length": 263,
+    "created_at": "2026-11-02T09:23:54.157276+00:00",
+    "updated_at": "2026-11-02T12:02:19.195912+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "2a7f63233750f66081316ef941910c77",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793619639,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793620416,
+      "process_end_time": 1793620939,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-2a7f63233750f66081316ef941910c77-chunk-000"
+    ]
+  },
+  "doc-150736e574b328ea081de79f5974e572": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 98\nPasal 98\nNakhoda kapal perikanan yang tidak memiliki surat persetujuan berlayar sebagaimana dimaksud dalam Pasal 42 ayat (3) dipidana dengan pidana penjara paling lama 1 (satu) tahun dan denda paling...",
+    "content_length": 453,
+    "created_at": "2026-11-02T09:23:54.157182+00:00",
+    "updated_at": "2026-11-02T11:32:52.203010+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "150736e574b328ea081de79f5974e572",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793617902,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793618819,
+      "process_end_time": 1793619172,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-150736e574b328ea081de79f5974e572-chunk-000"
+    ]
+  },
+  "doc-239618d8936f6b556500eb440a1e0f79": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 27. Ketentuan Pasal 66\n27. Ketentuan Pasal 66 ayat (2) dan ayat (3) diubah, sehingga Pasal 66 berbunyi sebagai berikut:",
+    "content_length": 161,
+    "created_at": "2026-11-02T09:23:54.157016+00:00",
+    "updated_at": "2026-11-02T10:49:10.711750+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "239618d8936f6b556500eb440a1e0f79",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793615372,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793616111,
+      "process_end_time": 1793616550,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-239618d8936f6b556500eb440a1e0f79-chunk-000"
+    ]
+  },
+  "doc-130fe72853071a0776f0c882222dfbd8": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 24. Ketentuan Pasal 48\n24. Ketentuan Pasal 48 ayat (1) diubah, serta di antara ayat (1) dan ayat (2) disisipkan 1 (satu) ayat yakni ayat (1a), sehingga Pasal 48 berbunyi sebagai berikut:",
+    "content_length": 228,
+    "created_at": "2026-11-02T09:23:54.156980+00:00",
+    "updated_at": "2026-11-02T10:37:28.817381+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "130fe72853071a0776f0c882222dfbd8",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793614681,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793615658,
+      "process_end_time": 1793615848,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-130fe72853071a0776f0c882222dfbd8-chunk-000"
+    ]
+  },
+  "doc-a05e5e3d6dd91e52efb05258ace7e970": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 71\nPasal 71\n(1) Dengan Undang-Undang ini dibentuk pengadilan perikanan yang berwenang memeriksa, mengadili, dan memutus tindak pidana di bidang perikanan.\n(2) Pengadilan perikanan sebagaimana dimaksud p...",
+    "content_length": 828,
+    "created_at": "2026-11-02T09:23:54.157059+00:00",
+    "updated_at": "2026-11-02T10:59:10.968025+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "a05e5e3d6dd91e52efb05258ace7e970",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793616046,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793616834,
+      "process_end_time": 1793617150,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-a05e5e3d6dd91e52efb05258ace7e970-chunk-000"
+    ]
+  },
+  "doc-6e00760c5948bb624998b6696a7588dc": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 17. Ketentuan Pasal 41\n17. Ketentuan Pasal 41 diubah sehingga Pasal 41 berbunyi sebagai berikut:",
+    "content_length": 138,
+    "created_at": "2026-11-02T09:23:54.156872+00:00",
+    "updated_at": "2026-11-02T10:18:01.888772+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "6e00760c5948bb624998b6696a7588dc",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793613614,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793614446,
+      "process_end_time": 1793614681,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-6e00760c5948bb624998b6696a7588dc-chunk-000"
+    ]
+  },
+  "doc-1359332418ece67d5d88eef8516bfae6": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 100C\nPasal 100C\nDalam hal tindak pidana sebagaimana dimaksud dalam Pasal 7 ayat (2) dilakukan oleh nelayan kecil dan/atau pembudi daya-ikan kecil dipidana dengan pidana denda paling banyak Rp100.000.000...",
+    "content_length": 276,
+    "created_at": "2026-11-02T09:23:54.157201+00:00",
+    "updated_at": "2026-11-02T11:40:39.739955+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "1359332418ece67d5d88eef8516bfae6",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793618163,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793619172,
+      "process_end_time": 1793619639,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-1359332418ece67d5d88eef8516bfae6-chunk-000"
+    ]
+  },
+  "doc-85d2e87907b665692f0b9b9f5dfd1285": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 36\nPasal 36\n(1) Kapal perikanan milik orang Indonesia yang dioperasikan di wilayah pengelolaan perikanan Negara Republik Indonesia dan laut lepas wajib didaftarkan terlebih dahulu sebagai kapal perikana...",
+    "content_length": 1097,
+    "created_at": "2026-11-02T09:23:54.156866+00:00",
+    "updated_at": "2026-11-02T10:16:46.474275+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "85d2e87907b665692f0b9b9f5dfd1285",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793613473,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793614446,
+      "process_end_time": 1793614606,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-85d2e87907b665692f0b9b9f5dfd1285-chunk-000"
+    ]
+  },
+  "doc-5d7cd3764e250ee42c04a925c49a740a": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 46\nPasal 46\nAyat (1)\nDalam rangka penyusunan rencana pengembangan sistem informasi dan data statistik perikanan serta kemajuannya, disusun data teknik, produksi, pengolahan, pemasaran ikan,...",
+    "content_length": 937,
+    "created_at": "2026-11-02T09:23:54.157404+00:00",
+    "updated_at": "2026-11-02T12:31:23.568993+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "5d7cd3764e250ee42c04a925c49a740a",
+    "metadata": {
+      "parse_start_time": 1793611436,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793621524,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793622399,
+      "process_end_time": 1793622683,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-5d7cd3764e250ee42c04a925c49a740a-chunk-000"
+    ]
+  },
+  "doc-3e6e336a5d4a7fc3c011daa61021382f": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 11\nAngka 11 Pasal 27 Ayat (1) Cukup jelas.\nAyat (2)\nAyat (2) Cukup jelas.\nAyat (3)\nYang dimaksud dengan “SIPI asli” adalah SIPI yang bukan fotocopy dan/atau salinan yang mirip dengan asliny...",
+    "content_length": 525,
+    "created_at": "2026-11-02T09:23:54.157334+00:00",
+    "updated_at": "2026-11-02T12:13:56.461380+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "3e6e336a5d4a7fc3c011daa61021382f",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793620416,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793621356,
+      "process_end_time": 1793621636,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-3e6e336a5d4a7fc3c011daa61021382f-chunk-000"
+    ]
+  },
+  "doc-f26a468a599a89a6e80b6507f8877645": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 14\nPasal 14\nAyat (1)\nYang dimaksud dengan “plasma nutfah” adalah substansi yang terdapat dalam kelompok makhluk hidup dan merupakan sumber atau sifat keturunan yang dapat dimanfaatkan dan d...",
+    "content_length": 861,
+    "created_at": "2026-11-02T09:23:54.157282+00:00",
+    "updated_at": "2026-11-02T12:03:05.157049+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "f26a468a599a89a6e80b6507f8877645",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793619639,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793620709,
+      "process_end_time": 1793620985,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-f26a468a599a89a6e80b6507f8877645-chunk-000"
+    ]
+  },
+  "doc-0162fd6c66ce607d110c8d0e9db56ffb": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 22. Ketentuan Pasal 46\n22. Ketentuan Pasal 46 diubah sehingga Pasal 46 berbunyi sebagai berikut:",
+    "content_length": 138,
+    "created_at": "2026-11-02T09:23:54.156961+00:00",
+    "updated_at": "2026-11-02T10:34:18.456492+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "0162fd6c66ce607d110c8d0e9db56ffb",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793614446,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793615372,
+      "process_end_time": 1793615658,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-0162fd6c66ce607d110c8d0e9db56ffb-chunk-000"
+    ]
+  },
+  "doc-1bea162916e428eae6c091a2345d5427": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 15A\nPasal 15A\nPemerintah mengatur pengendalian mutu induk dan benih ikan yang dibudidayakan.",
+    "content_length": 140,
+    "created_at": "2026-11-02T09:23:54.156750+00:00",
+    "updated_at": "2026-11-02T09:46:32.912281+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "1bea162916e428eae6c091a2345d5427",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793611644,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793612525,
+      "process_end_time": 1793612792,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-1bea162916e428eae6c091a2345d5427-chunk-000"
+    ]
+  },
+  "doc-0036e187990de6a4b6155199e9b6488e": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 76\nPasal 76 C Ayat (1) Cukup jelas.\nAyat (2) Cukup jelas.\nAyat (3) Cukup jelas.\nAyat (4) Yang dimaksud dengan “penghargaan” antara lain berupa insentif, piagam, dan kenaikan pangkat.\nAyat (...",
+    "content_length": 302,
+    "created_at": "2026-11-02T09:23:54.157506+00:00",
+    "updated_at": "2026-11-02T12:59:55.289993+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "0036e187990de6a4b6155199e9b6488e",
+    "metadata": {
+      "parse_start_time": 1793612792,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793623078,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793624019,
+      "process_end_time": 1793624395,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-0036e187990de6a4b6155199e9b6488e-chunk-000"
+    ]
+  },
+  "doc-280da26ed64551efd8a164f961cf4c8a": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 46A\nPasal 46A Cukup jelas.",
+    "content_length": 87,
+    "created_at": "2026-11-02T09:23:54.157409+00:00",
+    "updated_at": "2026-11-02T12:33:51.431061+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "280da26ed64551efd8a164f961cf4c8a",
+    "metadata": {
+      "parse_start_time": 1793611436,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793621636,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793622572,
+      "process_end_time": 1793622831,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-280da26ed64551efd8a164f961cf4c8a-chunk-000"
+    ]
+  },
+  "doc-41676dc3de5137959e24fcc3188115fb": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 39\nAngka 39 Pasal 85 Cukup jelas.",
+    "content_length": 94,
+    "created_at": "2026-11-02T09:23:54.157523+00:00",
+    "updated_at": "2026-11-02T13:04:13.270882+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "41676dc3de5137959e24fcc3188115fb",
+    "metadata": {
+      "parse_start_time": 1793613135,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793623466,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793624395,
+      "process_end_time": 1793624653,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-41676dc3de5137959e24fcc3188115fb-chunk-000"
+    ]
+  },
+  "doc-794138606a8f23ea6ad84d8579369963": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 14\nAngka 14 Pasal 32 Cukup jelas.",
+    "content_length": 94,
+    "created_at": "2026-11-02T09:23:54.157355+00:00",
+    "updated_at": "2026-11-02T12:21:07.657923+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "794138606a8f23ea6ad84d8579369963",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793620939,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793621636,
+      "process_end_time": 1793622067,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-794138606a8f23ea6ad84d8579369963-chunk-000"
+    ]
+  },
+  "doc-98541969aacb0baa781142c1b4fa5791": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | PASAL I\nPASAL I\nBeberapa ketentuan dalam Undang-Undang Nomor 31 Tahun 2004 tentang Perikanan (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 118, Tambahan Lembaran Negara Republik Indonesia Nomor 4433) d...",
+    "content_length": 272,
+    "created_at": "2026-11-02T09:23:54.156674+00:00",
+    "updated_at": "2026-11-02T09:27:59.790521+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "98541969aacb0baa781142c1b4fa5791",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793611434,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793611434,
+      "process_end_time": 1793611679,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-98541969aacb0baa781142c1b4fa5791-chunk-000"
+    ]
+  },
+  "doc-efe29281cb29cea02a55dc6d4a656fe4": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 48\nPasal 48\n(1) Setiap orang yang memperoleh manfaat langsung dari sumber daya ikan dan lingkungannya di wilayah pengelolaan perikanan Negara Republik Indonesia dan di luar wilayah pengelolaan perikanan...",
+    "content_length": 528,
+    "created_at": "2026-11-02T09:23:54.156986+00:00",
+    "updated_at": "2026-11-02T10:40:46.579949+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "efe29281cb29cea02a55dc6d4a656fe4",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793614890,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793615785,
+      "process_end_time": 1793616046,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-efe29281cb29cea02a55dc6d4a656fe4-chunk-000"
+    ]
+  },
+  "doc-6163486fd141fd23207a47ad464aac20": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 69\nPasal 69\n(1) Kapal pengawas perikanan berfungsi melaksanakan pengawasan dan penegakan hukum di bidang perikanan dalam wilayah pengelolaan perikanan Negara Republik Indonesia.\n(2) Kapal pengawas perik...",
+    "content_length": 841,
+    "created_at": "2026-11-02T09:23:54.157047+00:00",
+    "updated_at": "2026-11-02T10:59:10.419317+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "6163486fd141fd23207a47ad464aac20",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793615785,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793616826,
+      "process_end_time": 1793617150,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-6163486fd141fd23207a47ad464aac20-chunk-000"
+    ]
+  },
+  "doc-cffaac94ef2c2024bbb1488d40d770a4": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 50\nPasal 50\nPungutan perikanan sebagaimana dimaksud dalam Pasal 48 dan Pasal 49 digunakan untuk pembangunan perikanan serta kegiatan konservasi sumber daya ikan dan lingkungannya.",
+    "content_length": 227,
+    "created_at": "2026-11-02T09:23:54.156998+00:00",
+    "updated_at": "2026-11-02T10:41:51.619966+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "cffaac94ef2c2024bbb1488d40d770a4",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793615072,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793615848,
+      "process_end_time": 1793616111,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-cffaac94ef2c2024bbb1488d40d770a4-chunk-000"
+    ]
+  },
+  "doc-c959c5568aadd8aa4b3f1ba42789f215": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 23\nPasal 23 Ayat (1) Cukup jelas.\nAyat (2) Cukup jelas.\nAyat (3) Kewajiban menyosialisasikan bahan baku, bahan tambahan makanan, bahan penolong, dan/atau alat yang membahayakan, termasuk ju...",
+    "content_length": 284,
+    "created_at": "2026-11-02T09:23:54.157301+00:00",
+    "updated_at": "2026-11-02T12:06:44.184076+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "c959c5568aadd8aa4b3f1ba42789f215",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793619960,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793620985,
+      "process_end_time": 1793621204,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-c959c5568aadd8aa4b3f1ba42789f215-chunk-000"
+    ]
+  },
+  "doc-7d3630b0e5e1eae9e59afda8c825c66b": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 2. Ketentuan Pasal 2\n2. Ketentuan Pasal 2 diubah sehingga Pasal 2 berbunyi sebagai berikut:",
+    "content_length": 133,
+    "created_at": "2026-11-02T09:23:54.156693+00:00",
+    "updated_at": "2026-11-02T09:34:52.783244+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "7d3630b0e5e1eae9e59afda8c825c66b",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793611434,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793611679,
+      "process_end_time": 1793612092,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-7d3630b0e5e1eae9e59afda8c825c66b-chunk-000"
+    ]
+  },
+  "doc-b88209000d4eb14db342326f64a3dfee": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 14. Ketentuan Pasal 32\n14. Ketentuan Pasal 32 diubah sehingga Pasal 32 berbunyi sebagai berikut:",
+    "content_length": 138,
+    "created_at": "2026-11-02T09:23:54.156842+00:00",
+    "updated_at": "2026-11-02T10:11:23.402156+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "b88209000d4eb14db342326f64a3dfee",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793613135,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793614068,
+      "process_end_time": 1793614283,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-b88209000d4eb14db342326f64a3dfee-chunk-000"
+    ]
+  },
+  "doc-04c53fbabb68ed3c40f9ca040f7e0391": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 66A\nPasal 66A Cukup jelas. Pasal 66B Cukup jelas. Pasal 66C Cukup jelas.",
+    "content_length": 133,
+    "created_at": "2026-11-02T09:23:54.157439+00:00",
+    "updated_at": "2026-11-02T12:38:41.936601+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "04c53fbabb68ed3c40f9ca040f7e0391",
+    "metadata": {
+      "parse_start_time": 1793611679,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793622068,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793622907,
+      "process_end_time": 1793623121,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-04c53fbabb68ed3c40f9ca040f7e0391-chunk-000"
+    ]
+  },
+  "doc-0881021530ba5beed98eb3811461e27f": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 71A\nPasal 71A\nPengadilan perikanan berwenang memeriksa, mengadili, dan memutuskan perkara tindak pidana di bidang perikanan yang terjadi di wilayah pengelolaan perikanan Negara Republik Indonesia, baik ...",
+    "content_length": 339,
+    "created_at": "2026-11-02T09:23:54.157066+00:00",
+    "updated_at": "2026-11-02T11:01:42.634088+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "0881021530ba5beed98eb3811461e27f",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793616078,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793617150,
+      "process_end_time": 1793617302,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-0881021530ba5beed98eb3811461e27f-chunk-000"
+    ]
+  },
+  "doc-56e3cd581ac503887943f89380a4d0ae": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Angka 9\nAngka 9 Pasal 25 Cukup jelas.",
+    "content_length": 92,
+    "created_at": "2026-11-02T09:23:54.157307+00:00",
+    "updated_at": "2026-11-02T12:07:14.787171+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "56e3cd581ac503887943f89380a4d0ae",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793619960,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793621042,
+      "process_end_time": 1793621234,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-56e3cd581ac503887943f89380a4d0ae-chunk-000"
+    ]
+  },
+  "doc-4251617c6b8fa7a32e39c14c27e95a1a": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | Pasal 100B\nPasal 100B\nDalam hal tindak pidana sebagaimana dimaksud dalam Pasal 8, Pasal 9, Pasal 12, Pasal 14 ayat (4), Pasal 16 ayat (1), Pasal 20 ayat (3), Pasal 21, Pasal 23 ayat (1), Pasal 26 ayat (1), Pa...",
+    "content_length": 616,
+    "created_at": "2026-11-02T09:23:54.157194+00:00",
+    "updated_at": "2026-11-02T11:34:14.734547+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "4251617c6b8fa7a32e39c14c27e95a1a",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793618115,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793619025,
+      "process_end_time": 1793619254,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-4251617c6b8fa7a32e39c14c27e95a1a-chunk-000"
+    ]
+  },
+  "doc-c7080b95043ca54f656b25aec0737d16": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 25. Ketentuan Pasal 50\n25. Ketentuan Pasal 50 diubah sehingga Pasal 50 berbunyi sebagai berikut:",
+    "content_length": 138,
+    "created_at": "2026-11-02T09:23:54.156992+00:00",
+    "updated_at": "2026-11-02T10:41:18.366688+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "c7080b95043ca54f656b25aec0737d16",
+    "metadata": {
+      "parse_start_time": 1793611434,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793614960,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793615785,
+      "process_end_time": 1793616078,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-c7080b95043ca54f656b25aec0737d16-chunk-000"
+    ]
+  },
+  "doc-9138b5fd8dd535b7cd9f52ce85e266b8": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Penjelasan Resmi | Penjelasan Pasal 76\nPasal 76 B Cukup jelas.",
+    "content_length": 87,
+    "created_at": "2026-11-02T09:23:54.157499+00:00",
+    "updated_at": "2026-11-02T12:55:21.137859+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "9138b5fd8dd535b7cd9f52ce85e266b8",
+    "metadata": {
+      "parse_start_time": 1793612765,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793623042,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793623875,
+      "process_end_time": 1793624121,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-9138b5fd8dd535b7cd9f52ce85e266b8-chunk-000"
+    ]
+  },
+  "doc-2ec00e764464408ee48c17ce78d241f8": {
+    "status": "processed",
+    "content_summary": "UU Nomor 45 Tahun 2009 | Ketentuan Umum | 32. Ketentuan Pasal 73\n32. Ketentuan Pasal 73 diubah sehingga Pasal 73 berbunyi sebagai berikut:",
+    "content_length": 138,
+    "created_at": "2026-11-02T09:23:54.157071+00:00",
+    "updated_at": "2026-11-02T11:03:12.405220+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261102_162354_5b77e396",
+    "content_hash": "2ec00e764464408ee48c17ce78d241f8",
+    "metadata": {
+      "parse_start_time": 1793611435,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1793616111,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1793617151,
+      "process_end_time": 1793617392,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-2ec00e764464408ee48c17ce78d241f8-chunk-000"
+    ]
+  }
+}
