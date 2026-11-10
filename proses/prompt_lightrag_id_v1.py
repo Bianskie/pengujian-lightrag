@@ -1,7 +1,7 @@
 """
 Prompt Indexing LightRAG Berbahasa Indonesia - V1.3 Legal-Relation
 
-Author      : Pabian
+Updated     : Pabian
 Version     : 1.3.0
 Created     : 02-11-2026
 Revised     : 10-11-2026
