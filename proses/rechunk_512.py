@@ -2,7 +2,7 @@
 """
 Script Re-Chunking Semantik Boundary-Aware (512 Token + 100 Overlap + Header Regulasi Kanonik)
 
-Author      : Pabian
+
 Version     : 1.4.0
 Created     : 02-11-2026
 Revised     : 09-11-2026
