@@ -1,7 +1,6 @@
 """
 Templat Prompt Ekstraksi Entitas & Relasi Hukum Bahasa Indonesia (Arsip Referensi V1)
 
-Author      : Pabian
 Version     : 0.1.0
 Created     : 02-11-2026
 Description : Templat prompt generasi awal untuk ekstraksi entitas hukum, relasi antar-pasal,
