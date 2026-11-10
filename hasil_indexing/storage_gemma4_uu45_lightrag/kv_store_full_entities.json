@@ -1,2548 +1,1464 @@
 {
-  "doc-cc580ed1c232b689fe641ba4c1dc39ca": {
+  "doc-de4514011badff365f6f1114db6674ad": {
     "entity_names": [
-      "Bangsa Indonesia",
-      "Fish Resources",
-      "High Seas",
-      "Lahan Pembudidayaan Ikan",
-      "Negara Kesatuan Republik Indonesia",
-      "Pancasila",
-      "Pengelolaan Perikanan",
-      "Presiden Republik Indonesia",
-      "Rakyat Indonesia",
-      "Sistem Penegakan Hukum",
-      "Teknologi",
-      "Tuhan Yang Maha Esa",
+      "Ikan",
+      "Lingkungan sumber daya ikan",
+      "Pasal 1 UU Nomor 45 Tahun 2009",
+      "Pasal 20 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "Pasal 21 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "Pasal 33 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "Perikanan",
+      "Sumber daya ikan",
+      "UU Nomor 31 Tahun 2004 tentang Perikanan",
       "UU Nomor 45 Tahun 2009",
-      "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
-      "Undang-Undang Nomor 31 Tahun 2004",
-      "Zona Ekonomi Eksklusif Indonesia"
+      "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945"
     ],
-    "count": 16,
-    "create_time": 1793611602,
-    "update_time": 1793611602,
-    "_id": "doc-cc580ed1c232b689fe641ba4c1dc39ca"
+    "count": 11,
+    "create_time": 1794272461,
+    "update_time": 1794272461,
+    "_id": "doc-de4514011badff365f6f1114db6674ad"
   },
-  "doc-c368c83da785235c86f2546f89c595c3": {
+  "doc-90fc68391bdbe262032be87173756e8b": {
     "entity_names": [
-      "Dewan Perwakilan Rakyat Republik Indonesia",
-      "Ketentuan Umum",
-      "Pasal 20",
-      "Pasal 20, Pasal 21, and Pasal 33 ayat (3)",
-      "Presiden Republik Indonesia",
-      "UU Nomor 45 Tahun 2009",
-      "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
-      "Undang-Undang Nomor 31 Tahun 2004 Tentang Perikanan"
-    ],
-    "count": 8,
-    "create_time": 1793611644,
-    "update_time": 1793611644,
-    "_id": "doc-c368c83da785235c86f2546f89c595c3"
-  },
-  "doc-98541969aacb0baa781142c1b4fa5791": {
-    "entity_names": [
-      "Ketentuan Umum",
-      "Lembaran Negara Republik Indonesia Tahun 2004 Nomor 118",
-      "PASAL I",
-      "Republik Indonesia",
-      "Tambahan Lembaran Negara Republik Indonesia Nomor 4433",
-      "UU Nomor 45 Tahun 2009",
-      "Undang-Undang Nomor 31 Tahun 2004 tentang Perikanan"
-    ],
-    "count": 7,
-    "create_time": 1793611679,
-    "update_time": 1793611679,
-    "_id": "doc-98541969aacb0baa781142c1b4fa5791"
-  },
-  "doc-2fdc9a9662d10b1fc9e94c2612c18bed": {
-    "entity_names": [
-      "Angka 11",
-      "Angka 24",
-      "Ketentuan Pasal 1",
-      "Ketentuan Umum",
-      "Pasal 1",
+      "Ikan",
+      "Lingkungan sumber daya ikan",
+      "Pasal 1 UU Nomor 45 Tahun 2009",
+      "Pembudidayaan ikan",
+      "Pemerintah atau otoritas lain",
+      "Penangkapan ikan",
+      "Pengelolaan perikanan",
       "UU Nomor 45 Tahun 2009"
     ],
-    "count": 6,
-    "create_time": 1793611911,
-    "update_time": 1793611911,
-    "_id": "doc-2fdc9a9662d10b1fc9e94c2612c18bed"
+    "count": 8,
+    "create_time": 1794272493,
+    "update_time": 1794272493,
+    "_id": "doc-90fc68391bdbe262032be87173756e8b"
   },
-  "doc-3f250dcbafd593c2d06ce016eeea9d5f": {
+  "doc-44ccedc170cf485e59949bf246c685e9": {
     "entity_names": [
-      "Central Government",
-      "Docking Place",
-      "Fish",
-      "Fishery Affairs",
-      "Fishery Support Activities",
-      "Fishery Vessel",
-      "Government",
-      "Ikan",
+      "Negara Kesatuan Republik Indonesia",
+      "Pasal 20 UUD 1945",
+      "Pasal 21 UUD 1945",
+      "Pasal 33 ayat (3) UUD 1945",
+      "Presiden Republik Indonesia",
+      "Sumber Daya Ikan",
+      "UU Nomor 31 Tahun 2004",
+      "UU Nomor 45 Tahun 2009",
+      "UUD 1945",
+      "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "Zona Ekonomi Eksklusif Indonesia"
+    ],
+    "count": 11,
+    "create_time": 1794272495,
+    "update_time": 1794272495,
+    "_id": "doc-44ccedc170cf485e59949bf246c685e9"
+  },
+  "doc-c772972bd888057dab1754dcfb2e8222": {
+    "entity_names": [
       "Kapal Perikanan",
       "Konservasi Sumber Daya Ikan",
       "Korporasi",
-      "Laut Lepas",
-      "Laut Teritorial Indonesia",
-      "Lingkungan Sumber Daya Ikan",
-      "Maritime Safety Facilities",
-      "Menteri",
-      "Minister",
       "Nelayan",
       "Nelayan Kecil",
-      "Pelabuhan Perikanan",
+      "Pasal 1 UU Nomor 45 Tahun 2009",
       "Pembudi Daya Ikan",
       "Pembudi Daya-Ikan Kecil",
-      "Pembudidayaan Ikan",
-      "Pemerintah",
-      "Pemerintah Daerah",
-      "Penangkapan Ikan",
-      "Pengelolaan Perikanan",
-      "Perairan Indonesia",
-      "Perairan Kepulauan",
-      "Perairan Pedalaman",
-      "Perikanan",
       "Perusahaan Perikanan",
-      "Province",
-      "Regency/City",
-      "Regional Government",
-      "Sarana Produksi",
       "Setiap Orang",
-      "Sistem Bisnis Perikanan",
-      "Sumber Daya Ikan",
-      "Surat Izin Kapal Pengangkut Ikan (SIKPI)",
-      "Surat Izin Penangkapan Ikan (SIPI)",
-      "Surat Izin Usaha Perikanan (SIUP)",
-      "Usaha Perikanan",
-      "Zona Ekonomi Eksklusif Indonesia (ZEEI)"
-    ],
-    "count": 44,
-    "create_time": 1793612044,
-    "update_time": 1793612044,
-    "_id": "doc-3f250dcbafd593c2d06ce016eeea9d5f"
-  },
-  "doc-7d3630b0e5e1eae9e59afda8c825c66b": {
-    "entity_names": [
-      "Ketentuan Pasal 2",
-      "Ketentuan Umum",
-      "Pasal 2",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793612092,
-    "update_time": 1793612092,
-    "_id": "doc-7d3630b0e5e1eae9e59afda8c825c66b"
-  },
-  "doc-a001a80cfb487fd5f039f32e8dd78511": {
-    "entity_names": [
-      "Benefit",
-      "Efficiency",
-      "Equality",
-      "Fisheries Management",
-      "Independence",
-      "Integration",
-      "Justice",
-      "Ketentuan Umum",
-      "Openness",
-      "Partnership",
-      "Pasal 2",
-      "Sustainability",
-      "Sustainable Development",
-      "Togetherness",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 15,
-    "create_time": 1793612252,
-    "update_time": 1793612252,
-    "_id": "doc-a001a80cfb487fd5f039f32e8dd78511"
-  },
-  "doc-21bb841a49133bd551fd55758e087774": {
-    "entity_names": [
-      "Ketentuan Pasal 7",
-      "Ketentuan Umum",
-      "Modification of Pasal 7",
-      "Pasal 7",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793612325,
-    "update_time": 1793612325,
-    "_id": "doc-21bb841a49133bd551fd55758e087774"
-  },
-  "doc-1ffff1f2e3dfa130e836c0fbbe361e57": {
-    "entity_names": [
-      "Alat Bantu Penangkapan Ikan",
-      "Alat Penangkapan Ikan",
-      "Jenis Ikan yang Dilarang untuk Diperdagangkan",
-      "Jenis Ikan yang Dilindungi",
-      "Kawasan Konservasi Perairan",
-      "Komisi Nasional",
-      "Lahan Pembudidayaan Ikan",
-      "Lembaga Terkait",
-      "Lingkungan",
-      "Menteri",
-      "Negara Republik Indonesia",
-      "Nelayan Kecil",
-      "Pelabuhan Perikanan",
-      "Pembudi Daya-Ikan Kecil",
-      "Sistem Pemantauan Kapal Perikanan",
-      "Standar Prosedur Operasional Penangkapan Ikan",
-      "Sumber Daya Ikan",
-      "UU Nomor 45 Tahun 2009",
-      "Wabah Penyakit Ikan",
-      "Wilayah Penebaran Kembali"
-    ],
-    "count": 20,
-    "create_time": 1793612373,
-    "update_time": 1793612373,
-    "_id": "doc-1ffff1f2e3dfa130e836c0fbbe361e57"
-  },
-  "doc-b377d5c1c9fa053ec5fbdad0c5aa3f92": {
-    "entity_names": [
-      "Ketentuan Umum",
-      "Pasal 9",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 3,
-    "create_time": 1793612490,
-    "update_time": 1793612490,
-    "_id": "doc-b377d5c1c9fa053ec5fbdad0c5aa3f92"
-  },
-  "doc-2242493ffd0db986c3b97bbca014a1b2": {
-    "entity_names": [
-      "Alat bantu penangkapan ikan",
-      "Alat penangkapan ikan",
-      "Ayat (1)",
-      "Ayat (2)",
-      "Kapal penangkap ikan",
-      "Ketentuan Umum",
-      "Negara Republik Indonesia",
-      "Pasal 9",
-      "Peraturan Menteri",
-      "Sumber daya ikan",
-      "UU Nomor 45 Tahun 2009",
-      "Wilayah pengelolaan perikanan"
-    ],
-    "count": 12,
-    "create_time": 1793612524,
-    "update_time": 1793612524,
-    "_id": "doc-2242493ffd0db986c3b97bbca014a1b2"
-  },
-  "doc-b968e379f5f93fc0a5d3815d70225062": {
-    "entity_names": [
-      "Ayat (3)",
-      "Ketentuan Umum",
-      "Pasal 14",
-      "Section 5",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793612698,
-    "update_time": 1793612698,
-    "_id": "doc-b968e379f5f93fc0a5d3815d70225062"
-  },
-  "doc-c5f272acc0b47431bf705b7bdfc55b34": {
-    "entity_names": [
-      "Antarpulau",
-      "Ekosistem",
-      "Ikan Jenis Baru",
-      "Luar Negeri",
-      "Pasal 14",
-      "Pasal 15",
-      "Pasal 15A",
-      "Pasal 16",
-      "Pemerintah",
-      "Peraturan Pemerintah",
-      "Plasma Nutfah",
-      "Setiap Orang",
-      "Sumber Daya Ikan",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 14,
-    "create_time": 1793612764,
-    "update_time": 1793612764,
-    "_id": "doc-c5f272acc0b47431bf705b7bdfc55b34"
-  },
-  "doc-1bea162916e428eae6c091a2345d5427": {
-    "entity_names": [
-      "Benih Ikan",
-      "Budidaya",
-      "Induk",
-      "Ketentuan Umum",
-      "Pasal 15A",
-      "Pemerintah",
-      "Pengendalian Mutu",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 8,
-    "create_time": 1793612792,
-    "update_time": 1793612792,
-    "_id": "doc-1bea162916e428eae6c091a2345d5427"
-  },
-  "doc-d82baadc65d3fb83fcadf9d87e98f046": {
-    "entity_names": [
-      "Ayat (3)",
-      "Ayat (4)",
-      "Ketentuan Pasal 18",
-      "Ketentuan Umum",
-      "Pasal 18",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 6,
-    "create_time": 1793612954,
-    "update_time": 1793612954,
-    "_id": "doc-d82baadc65d3fb83fcadf9d87e98f046"
-  },
-  "doc-ca77871eaf5880d4a99669013079d4d5": {
-    "entity_names": [
-      "Kualitas Air",
-      "Kuantitas Air",
-      "Lahan Pembudidayaan Ikan",
-      "Pasal 18",
-      "Pembudidayaan Ikan",
-      "Pemerintah",
-      "Pemerintah Daerah",
-      "Peraturan Pemerintah",
-      "Tata Pemanfaatan Air dan Lahan Pembudidayaan Ikan",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 10,
-    "create_time": 1793613015,
-    "update_time": 1793613015,
-    "_id": "doc-ca77871eaf5880d4a99669013079d4d5"
-  },
-  "doc-aa61d12e1a6bd23e3847f4b188fd7f70": {
-    "entity_names": [
-      "Ayat (3)",
-      "Ketentuan Pasal 23",
-      "Ketentuan Umum",
-      "Pasal 23",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793613077,
-    "update_time": 1793613077,
-    "_id": "doc-aa61d12e1a6bd23e3847f4b188fd7f70"
-  },
-  "doc-7caa573ce907926dfb1d5d112debc427": {
-    "entity_names": [
-      "Alat",
-      "Bahan Baku",
-      "Bahan Penolong",
-      "Bahan Tambahan Makanan",
-      "Ikan",
-      "Kesehatan Manusia",
-      "Ketentuan Umum",
-      "Lingkungan",
-      "Orang",
-      "Pasal 23",
-      "Pemerintah",
-      "Penanganan dan Pengolahan Ikan",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 13,
-    "create_time": 1793613198,
-    "update_time": 1793613198,
-    "_id": "doc-7caa573ce907926dfb1d5d112debc427"
-  },
-  "doc-fb69a2d0a0540fabb87cf928d7548cfd": {
-    "entity_names": [
-      "Ketentuan Pasal 25",
-      "Ketentuan Umum",
-      "Pasal 25",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793613351,
-    "update_time": 1793613351,
-    "_id": "doc-fb69a2d0a0540fabb87cf928d7548cfd"
-  },
-  "doc-089e68b7aa6c877eb9e209c4f4f2e477": {
-    "entity_names": [
-      "Ketentuan Umum",
-      "Pasal 25",
-      "Pasal 25A",
-      "Pasal 25B",
-      "Pasal 25C",
-      "Pasal 26",
-      "Pemasaran",
-      "Pengolahan",
-      "Peraturan Menteri",
-      "Praproduksi",
-      "Produksi",
-      "Sistem Bisnis Perikanan",
-      "UU Nomor 45 Tahun 2009",
-      "Usaha Perikanan"
-    ],
-    "count": 14,
-    "create_time": 1793613410,
-    "update_time": 1793613410,
-    "_id": "doc-089e68b7aa6c877eb9e209c4f4f2e477"
-  },
-  "doc-d130566d3428f4d3d39a686317900d8a": {
-    "entity_names": [
-      "Bisnis Perikanan",
-      "Ketentuan Umum",
-      "Pasal 25A",
-      "Pelaku Usaha Perikanan",
-      "Pemerintah",
-      "Pemerintah Daerah",
-      "Pengembangan Usaha Perikanan",
-      "Peraturan Menteri",
-      "Standar Mutu Hasil Perikanan",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 10,
-    "create_time": 1793613463,
-    "update_time": 1793613463,
-    "_id": "doc-d130566d3428f4d3d39a686317900d8a"
-  },
-  "doc-2c0e48f703a1e3de0c91e2bd365a83e2": {
-    "entity_names": [
-      "Dalam Negeri",
-      "Iklim Usaha Perikanan",
-      "Konsumsi Nasional",
-      "Luar Negeri",
-      "Pasal 25B",
-      "Pemerintah",
-      "Peraturan Perundang-undangan",
-      "UU Nomor 45 Tahun 2009",
-      "Usaha Perikanan"
-    ],
-    "count": 9,
-    "create_time": 1793613613,
-    "update_time": 1793613613,
-    "_id": "doc-2c0e48f703a1e3de0c91e2bd365a83e2"
-  },
-  "doc-35609e3dadbb447e7323b8e7b23e171f": {
-    "entity_names": [
-      "Bahan Baku",
-      "Dalam Negeri",
-      "Fasilitas",
-      "Industri Perikanan Nasional",
-      "Kebersamaan",
-      "Koperasi Perikanan",
-      "Nelayan",
-      "Pasal 25C",
-      "Pemerintah",
-      "Peraturan Perundangundangan",
-      "Sumber Daya Manusia",
+      "Surat Izin Usaha Perikanan",
       "UU Nomor 45 Tahun 2009"
     ],
     "count": 12,
-    "create_time": 1793613673,
-    "update_time": 1793613673,
-    "_id": "doc-35609e3dadbb447e7323b8e7b23e171f"
+    "create_time": 1794272513,
+    "update_time": 1794272513,
+    "_id": "doc-c772972bd888057dab1754dcfb2e8222"
   },
-  "doc-534b2be954c51e78d8ba31786fe0d724": {
+  "doc-f9483371377a7a4b4d28f14e6f0596f3": {
     "entity_names": [
-      "Ketentuan Pasal 27",
-      "Ketentuan Umum",
-      "Pasal 27",
-      "Pasal 27 Ayat (1)",
-      "Pasal 27 Ayat (2)",
-      "Pasal 27 Ayat (3)",
-      "Pasal 27 Ayat (5)",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 8,
-    "create_time": 1793613709,
-    "update_time": 1793613709,
-    "_id": "doc-534b2be954c51e78d8ba31786fe0d724"
-  },
-  "doc-75e0a9225f4cfb6419813f0b2ea4b76d": {
-    "entity_names": [
-      "Indonesia",
-      "Kapal Penangkap Ikan",
-      "Ketentuan Umum",
+      "Kapal Perikanan",
       "Laut Lepas",
-      "Negara Republik Indonesia",
-      "Nelayan Kecil",
-      "Pasal 27",
-      "Pemerintah",
-      "SIPI",
+      "Laut Teritorial Indonesia",
+      "Pasal 16 UU Nomor 45 Tahun 2009",
+      "Pasal 17 UU Nomor 45 Tahun 2009",
+      "Pasal 18 UU Nomor 45 Tahun 2009",
+      "Pasal 19 UU Nomor 45 Tahun 2009",
+      "Pasal 20 UU Nomor 45 Tahun 2009",
+      "Pasal 21 UU Nomor 45 Tahun 2009",
+      "Pasal 22 UU Nomor 45 Tahun 2009",
+      "Perairan Indonesia",
+      "Perusahaan Perikanan",
+      "Surat Izin Kapal Pengangkut Ikan",
+      "Surat Izin Penangkapan Ikan",
+      "Surat Izin Usaha Perikanan",
       "UU Nomor 45 Tahun 2009",
-      "Wilayah Pengelolaan Perikanan",
-      "Wilayah Yurisdiksi Negara Lain",
-      "ZEEI"
+      "Zona Ekonomi Eksklusif Indonesia"
     ],
-    "count": 13,
-    "create_time": 1793613833,
-    "update_time": 1793613833,
-    "_id": "doc-75e0a9225f4cfb6419813f0b2ea4b76d"
+    "count": 17,
+    "create_time": 1794272564,
+    "update_time": 1794272564,
+    "_id": "doc-f9483371377a7a4b4d28f14e6f0596f3"
   },
-  "doc-b8d4128dc7893e05931cc360e4d81024": {
+  "doc-7f186dc1dbe4f96171df8c5ddd35e78c": {
     "entity_names": [
-      "12. Ketentuan Pasal 28",
-      "Ayat (1)",
-      "Ayat (2)",
-      "Ayat (3)",
-      "Ayat (4)",
-      "Ketentuan Umum",
-      "Pasal 28",
-      "UU Nomor 45 Tahun 2009"
+      "Daerah, Jalur, dan Waktu atau Musim Penangkapan Ikan",
+      "Jenis Ikan Baru yang Akan Dibudidayakan",
+      "Jenis Ikan dan Wilayah Penebaran Kembali serta Penangkapan Ikan Berbasis Budi Daya",
+      "Jenis, Jumlah, Ukuran, dan Penempatan Alat Bantu Penangkapan Ikan",
+      "Jenis, Jumlah, dan Ukuran Alat Penangkapan Ikan",
+      "Jumlah Tangkapan yang Diperbolehkan",
+      "Kawasan Konservasi Perairan",
+      "Menteri",
+      "Pasal 7 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pelabuhan Perikanan",
+      "Pembudidayaan Ikan dan Perlindungannya",
+      "Pencegahan Pencemaran dan Kerusakan Sumber Daya Ikan serta Lingkungannya",
+      "Persyaratan atau Standar Prosedur Operasional Penangkapan Ikan",
+      "Potensi dan Alokasi Induk serta Benih Ikan Tertentu",
+      "Potensi dan Alokasi Lahan Pembudidayaan Ikan",
+      "Potensi dan Alokasi Sumber Daya Ikan",
+      "Rehabilitasi dan Peningkatan Sumber Daya Ikan serta Lingkungannya",
+      "Rencana Pengelolaan Perikanan",
+      "Sistem Pemantauan Kapal Perikanan",
+      "UU Nomor 45 Tahun 2009",
+      "Ukuran atau Berat Minimum Jenis Ikan yang Boleh Ditangkap",
+      "Wabah dan Wilayah Wabah Penyakit Ikan"
     ],
-    "count": 8,
-    "create_time": 1793613944,
-    "update_time": 1793613944,
-    "_id": "doc-b8d4128dc7893e05931cc360e4d81024"
+    "count": 22,
+    "create_time": 1794272636,
+    "update_time": 1794272636,
+    "_id": "doc-7f186dc1dbe4f96171df8c5ddd35e78c"
   },
-  "doc-78ed963f3dd3c00083f50735157dfe57": {
+  "doc-b8bf7150d469ab920085b646475ba4fe": {
     "entity_names": [
-      "Bendera Indonesia",
-      "Kapal Pengangkut Ikan",
-      "Kapal Pengangkut Ikan Berbendera Asing",
-      "Negara Republik Indonesia",
-      "Nelayan Kecil",
-      "Pasal 28",
-      "Pasal 28A",
-      "Pasal 29",
-      "Pembudi Daya-Ikan Kecil",
-      "SIKPI",
+      "Daerah, jalur, dan waktu atau musim penangkapan ikan",
+      "Jenis ikan baru yang akan dibudidayakan",
+      "Jenis ikan dan wilayah penebaran kembali serta penangkapan ikan berbasis budi daya",
+      "Jenis ikan yang dilarang untuk diperdagangkan, dimasukkan, dan dikeluarkan",
+      "Jenis ikan yang dilindungi",
+      "Jenis, jumlah, dan ukuran alat penangkapan ikan",
+      "Jenis, jumlah, ukuran, dan penempatan alat bantu penangkapan ikan",
+      "Kawasan konservasi perairan",
+      "Pasal 7 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 7 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pembudidayaan ikan dan perlindungannya",
+      "Pencegahan pencemaran dan kerusakan sumber daya ikan serta lingkungannya",
+      "Persyaratan atau standar prosedur operasional penangkapan ikan",
+      "Rehabilitasi dan peningkatan sumber daya ikan serta lingkungannya",
+      "Setiap orang yang melakukan usaha dan/atau kegiatan pengelolaan perikanan",
+      "Sistem pemantauan kapal perikanan",
+      "UU Nomor 45 Tahun 2009",
+      "Ukuran atau berat minimum jenis ikan yang boleh ditangkap",
+      "Wabah dan wilayah wabah penyakit ikan"
+    ],
+    "count": 19,
+    "create_time": 1794272677,
+    "update_time": 1794272677,
+    "_id": "doc-b8bf7150d469ab920085b646475ba4fe"
+  },
+  "doc-43df10e6e9d0084e37aaaa12389c3594": {
+    "entity_names": [
+      "Asas Pengelolaan Perikanan",
+      "Daya Ikan",
+      "Jumlah Daya Ikan",
+      "Laut Lepas",
+      "Menteri",
+      "Pasal 1 UU Nomor 45 Tahun 2009",
+      "Pasal 2 UU Nomor 45 Tahun 2009",
+      "Pasal 7 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pelabuhan Perikanan",
+      "Pemerintah",
+      "Pemerintah Daerah",
+      "Potensi dan Alokasi Sumber Daya Ikan",
+      "Rencana Pengelolaan Perikanan",
       "UU Nomor 45 Tahun 2009",
       "Wilayah Pengelolaan Perikanan Negara Republik Indonesia"
     ],
-    "count": 12,
-    "create_time": 1793613979,
-    "update_time": 1793613979,
-    "_id": "doc-78ed963f3dd3c00083f50735157dfe57"
+    "count": 15,
+    "create_time": 1794272681,
+    "update_time": 1794272681,
+    "_id": "doc-43df10e6e9d0084e37aaaa12389c3594"
   },
-  "doc-9c44edd751d8f9487281d09517df937d": {
+  "doc-d4efaf2ccfb9148966f567b761f9e636": {
     "entity_names": [
-      "Ketentuan Umum",
-      "Orang",
-      "Pasal 28A",
-      "SIKPI",
-      "SIKPI Palsu",
-      "SIPI",
-      "SIPI Palsu",
-      "SIUP",
-      "SIUP Palsu",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 10,
-    "create_time": 1793614052,
-    "update_time": 1793614052,
-    "_id": "doc-9c44edd751d8f9487281d09517df937d"
-  },
-  "doc-b88209000d4eb14db342326f64a3dfee": {
-    "entity_names": [
-      "Ketentuan Pasal 32",
-      "Ketentuan Umum",
-      "Pasal 32",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793614282,
-    "update_time": 1793614282,
-    "_id": "doc-b88209000d4eb14db342326f64a3dfee"
-  },
-  "doc-7c7df7266ef87827f0f041d4191c0cc8": {
-    "entity_names": [
-      "Ketentuan Umum",
-      "Pasal 32",
-      "Pasal 35",
-      "Pasal 35A",
-      "Pasal 36",
-      "Peraturan Menteri",
-      "SIKPI",
-      "SIPI",
-      "SIUP",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 10,
-    "create_time": 1793614322,
-    "update_time": 1793614322,
-    "_id": "doc-7c7df7266ef87827f0f041d4191c0cc8"
-  },
-  "doc-be1e1a48929c3cc75053e1ab81db89aa": {
-    "entity_names": [
-      "Administrative Sanctions",
-      "Captain",
-      "Crew Members",
-      "Fishing Capture",
-      "Foreign-Flagged Fishing Vessel",
-      "General Provisions",
-      "Indonesian-Flagged Fishing Vessel",
-      "License Revocation",
-      "License Suspension",
-      "Ministerial Regulation",
-      "Negara Republik Indonesia",
-      "Pasal 35A",
+      "Alat Penangkapan dan/atau Alat Bantu Penangkapan Ikan",
+      "Komisi Nasional",
+      "Menteri",
+      "Nelayan Kecil",
+      "Pasal 7 ayat (1) huruf k UU Nomor 45 Tahun 2009",
+      "Pasal 7 ayat (1) huruf l UU Nomor 45 Tahun 2009",
+      "Pasal 7 ayat (1) huruf m UU Nomor 45 Tahun 2009",
+      "Pasal 7 ayat (1) huruf n UU Nomor 45 Tahun 2009",
+      "Pasal 7 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 7 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 7 ayat (5) UU Nomor 45 Tahun 2009",
+      "Pasal 7 ayat (6) UU Nomor 45 Tahun 2009",
+      "Pasal 9 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pembudi Daya Ikan Kecil",
       "UU Nomor 45 Tahun 2009",
-      "Warning",
+      "Wilayah Pengelolaan Perikanan Negara Republik Indonesia"
+    ],
+    "count": 16,
+    "create_time": 1794272701,
+    "update_time": 1794272701,
+    "_id": "doc-d4efaf2ccfb9148966f567b761f9e636"
+  },
+  "doc-864ac14dd5b1b4aab381238e4efd5295": {
+    "entity_names": [
+      "Alat Penangkapan dan/atau Alat Bantu Penangkapan Ikan yang Mengganggu dan Merusak Keberlanjutan Sumber Daya Ikan",
+      "Kewajiban Melestarikan Plasma Nutfah",
+      "Larangan Memiliki, Menguasai, Membawa, dan/atau Menggunakan Alat Penangkapan",
+      "Larangan Merusak Plasma Nutfah",
+      "Pasal 14 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 14 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 14 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 14 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 14 ayat (5) UU Nomor 45 Tahun 2009",
+      "Pasal 9 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 9 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pemerintah",
+      "Peraturan Menteri",
+      "Peraturan Pemerintah",
+      "Plasma Nutfah yang Berkaitan dengan Sumber Daya Ikan",
+      "Setiap Orang",
+      "UU Nomor 45 Tahun 2009",
+      "Wewenang Mengatur dan Mengembangkan Pemanfaatan Plasma Nutfah",
+      "Wewenang Mengendalikan Pemasukan dan Pengeluaran Ikan Jenis Baru",
+      "Wilayah Pengelolaan Perikanan Negara Republik Indonesia"
+    ],
+    "count": 20,
+    "create_time": 1794272739,
+    "update_time": 1794272739,
+    "_id": "doc-864ac14dd5b1b4aab381238e4efd5295"
+  },
+  "doc-b25d7e14d457b92f4fa74069ba5722f6": {
+    "entity_names": [
+      "Induk dan Benih Ikan",
+      "Pasal 14 ayat (5) UU Nomor 45 Tahun 2009",
+      "Pasal 15A UU Nomor 45 Tahun 2009",
+      "Pasal 18 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 18 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 18 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 18 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pemerintah",
+      "Pemerintah Daerah",
+      "Peraturan Pemerintah",
+      "Plasma Nutfah Sumber Daya Ikan",
+      "Tata Pemanfaatan Air dan Lahan Pembudidayaan Ikan",
+      "UU Nomor 45 Tahun 2009"
+    ],
+    "count": 13,
+    "create_time": 1794272755,
+    "update_time": 1794272755,
+    "_id": "doc-b25d7e14d457b92f4fa74069ba5722f6"
+  },
+  "doc-722b6238881348f0826fd652a2e9c68f": {
+    "entity_names": [
+      "Bahan baku, bahan tambahan makanan, bahan penolong, dan/atau alat yang membahayakan",
+      "Pasal 23 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 23 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 23 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 25 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 25 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 25A ayat (1) UU Nomor 45 Tahun 2009",
+      "Pelaku usaha perikanan",
+      "Pemerintah",
+      "Peraturan Menteri",
+      "Sistem bisnis perikanan",
+      "Standar mutu hasil perikanan",
+      "UU Nomor 45 Tahun 2009"
+    ],
+    "count": 13,
+    "create_time": 1794272794,
+    "update_time": 1794272794,
+    "_id": "doc-722b6238881348f0826fd652a2e9c68f"
+  },
+  "doc-02d36b79b1a4eb44f9ed1c0eca5dee97": {
+    "entity_names": [
+      "Kapal Penangkap Ikan Berbendera Asing",
+      "Kapal Penangkap Ikan Berbendera Indonesia",
+      "Mendapatkan Persetujuan Pemerintah",
+      "Nelayan Kecil",
+      "Pasal 25C ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 27 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 27 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 27 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 27 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 27 ayat (5) UU Nomor 45 Tahun 2009",
+      "Surat Izin Penangkapan Ikan",
+      "UU Nomor 45 Tahun 2009",
+      "Wajib Membawa SIPI Asli",
+      "Wajib Memiliki SIPI",
       "Wilayah Pengelolaan Perikanan Negara Republik Indonesia",
+      "Zona Ekonomi Eksklusif Indonesia"
+    ],
+    "count": 16,
+    "create_time": 1794272859,
+    "update_time": 1794272859,
+    "_id": "doc-02d36b79b1a4eb44f9ed1c0eca5dee97"
+  },
+  "doc-2f127ba9ccca2145ac92813b05696a60": {
+    "entity_names": [
+      "Industri perikanan nasional",
+      "Koperasi perikanan",
+      "Nelayan",
+      "Pasal 25A ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 25A ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 25A ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 25B ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 25B ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 25B ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 25C ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 25C ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 25C ayat (3) UU Nomor 45 Tahun 2009",
+      "Pelaku usaha perikanan",
+      "Pemerintah",
+      "Pemerintah Daerah",
+      "Peraturan Menteri",
+      "Standar mutu hasil perikanan",
+      "UU Nomor 45 Tahun 2009"
+    ],
+    "count": 18,
+    "create_time": 1794272922,
+    "update_time": 1794272922,
+    "_id": "doc-2f127ba9ccca2145ac92813b05696a60"
+  },
+  "doc-cc732b7831295dd804fb515c9b4aca27": {
+    "entity_names": [
+      "Kapal Perikanan Berbendera Asing",
+      "Kapal Perikanan Berbendera Indonesia",
+      "Nakhoda dan Anak Buah Kapal Berkewarganegaraan Indonesia",
+      "Pasal 28A UU Nomor 45 Tahun 2009",
+      "Pasal 32 UU Nomor 45 Tahun 2009",
+      "Pasal 35A UU Nomor 45 Tahun 2009",
+      "Pasal 35A ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 35A ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 35A ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 35A ayat (4) UU Nomor 45 Tahun 2009",
+      "Peringatan, Pembekuan Izin, atau Pencabutan Izin",
+      "SIKPI",
+      "SIPI",
+      "SIUP",
+      "UU Nomor 45 Tahun 2009",
       "ZEEI"
     ],
     "count": 16,
-    "create_time": 1793614372,
-    "update_time": 1793614372,
-    "_id": "doc-be1e1a48929c3cc75053e1ab81db89aa"
+    "create_time": 1794272979,
+    "update_time": 1794272979,
+    "_id": "doc-cc732b7831295dd804fb515c9b4aca27"
   },
-  "doc-1f11d6172c173551b03490fc495047f0": {
+  "doc-e001bb68ca1ebe2ed1a991900993b8a0": {
     "entity_names": [
-      "Ketentuan Pasal 36",
-      "Ketentuan Umum",
-      "Pasal 36",
-      "UU Nomor 45 Tahun 2009"
+      "Kapal Pengangkut Ikan",
+      "Kapal Pengangkut Ikan Berbendera Asing",
+      "Kapal Pengangkut Ikan Berbendera Indonesia",
+      "Kewajiban Membawa SIKPI Asli",
+      "Kewajiban Memiliki SIKPI",
+      "Larangan Memalsukan SIUP, SIPI, dan SIKPI",
+      "Larangan Menggunakan SIUP, SIPI, dan SIKPI Palsu",
+      "Nelayan Kecil",
+      "Pasal 27 ayat (5) UU Nomor 45 Tahun 2009",
+      "Pasal 28 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 28 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 28 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 28 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 28A UU Nomor 45 Tahun 2009",
+      "Pasal 32",
+      "Pembudi Daya-Ikan Kecil",
+      "Surat Izin Kapal Pengangkut Ikan",
+      "Surat Izin Penangkapan Ikan",
+      "Surat Izin Usaha Perikanan",
+      "UU Nomor 45 Tahun 2009",
+      "Wilayah Pengelolaan Perikanan Negara Republik Indonesia"
     ],
-    "count": 4,
-    "create_time": 1793614486,
-    "update_time": 1793614486,
-    "_id": "doc-1f11d6172c173551b03490fc495047f0"
+    "count": 21,
+    "create_time": 1794272982,
+    "update_time": 1794272982,
+    "_id": "doc-e001bb68ca1ebe2ed1a991900993b8a0"
   },
-  "doc-85d2e87907b665692f0b9b9f5dfd1285": {
+  "doc-15e049a0836d6b2b93585e495e99fb35": {
     "entity_names": [
       "Bukti Kepemilikan",
-      "Daftar Kapal",
       "Identitas Pemilik",
-      "Kapal Perikanan",
+      "Kapal Perikanan Milik Orang Indonesia",
       "Laut Lepas",
-      "Negara Asal",
-      "Negara Republik Indonesia",
+      "Pasal 35A ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 36 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 36 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 36 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 36 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 36 ayat (5) UU Nomor 45 Tahun 2009",
+      "Pasal 41 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pemerintah",
       "Peraturan Menteri",
       "Surat Keterangan Penghapusan",
       "Surat Tanda Kebangsaan",
       "Surat Ukur",
       "UU Nomor 45 Tahun 2009",
-      "Wilayah Pengelolaan Perikanan"
+      "Wilayah Pengelolaan Perikanan Negara Republik Indonesia"
     ],
-    "count": 13,
-    "create_time": 1793614605,
-    "update_time": 1793614605,
-    "_id": "doc-85d2e87907b665692f0b9b9f5dfd1285"
+    "count": 18,
+    "create_time": 1794273098,
+    "update_time": 1794273098,
+    "_id": "doc-15e049a0836d6b2b93585e495e99fb35"
   },
-  "doc-6e00760c5948bb624998b6696a7588dc": {
+  "doc-da27389e26574b8d11abcc89be16cb80": {
     "entity_names": [
-      "Ketentuan Umum",
-      "Pasal 41",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 3,
-    "create_time": 1793614681,
-    "update_time": 1793614681,
-    "_id": "doc-6e00760c5948bb624998b6696a7588dc"
-  },
-  "doc-353540565da08516f4178b44d3a81468": {
-    "entity_names": [
+      "Izin Administratif",
       "Kapal Penangkap Ikan",
       "Kapal Pengangkut Ikan",
-      "Klasifikasi Pelabuhan Perikanan",
       "Menteri",
-      "Pasal 41A",
-      "Pelabuhan Lainnya",
-      "Pelabuhan Perikanan",
-      "Pelabuhan Perikanan yang Tidak Dibangun oleh Pemerintah",
+      "Pasal 41 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 41 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 41 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 41 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 41 ayat (5) UU Nomor 45 Tahun 2009",
       "Pemerintah",
-      "Pengelolaan Pelabuhan Perikanan",
+      "Pemilik dan/atau Pengoperasi Kapal",
+      "Pendaratan Ikan",
       "Peraturan Menteri",
-      "Persyaratan dan/atau Standar Teknis",
-      "Rencana Induk Pelabuhan Perikanan Secara Nasional",
-      "Sanksi Administratif",
+      "Rencana Induk Pelabuhan Perikanan Nasional",
+      "Sanksi Administratif (Peringatan, Pembekuan Izin, atau Pencabutan Izin)",
+      "Standar Teknis Pelabuhan Perikanan",
       "UU Nomor 45 Tahun 2009",
-      "Wilayah Kerja dan Pengoperasian Pelabuhan Perikanan"
+      "Wilayah Kerja Pelabuhan Perikanan"
     ],
-    "count": 16,
-    "create_time": 1793614889,
-    "update_time": 1793614889,
-    "_id": "doc-353540565da08516f4178b44d3a81468"
+    "count": 18,
+    "create_time": 1794273100,
+    "update_time": 1794273100,
+    "_id": "doc-da27389e26574b8d11abcc89be16cb80"
   },
-  "doc-8cd1965b8838d4f4a2c74d182becb2dc": {
+  "doc-03d618257da1af1a817fab4d7e34d51b": {
     "entity_names": [
-      "Coastal Area and Marine Tourism Monitoring",
-      "Collection of Catch and Fishery Product Data",
-      "Counseling and Development of Fisherman Communities",
-      "Environment",
-      "Environmental Control",
-      "Fish Quarantine",
-      "Fish Resources",
-      "Fisherman Communities",
-      "Fishery Port",
-      "Fishery Vessel Operational Activities",
-      "Fishery Vessels",
-      "Loading and Unloading Service",
-      "Marine and Fishery Research",
-      "Marketing",
-      "Marketing and Distribution of Fish",
-      "Mooring and Anchoring Service for Fishery Vessels",
-      "Port Authority",
-      "Pre-production",
-      "Processing",
-      "Production",
-      "Publication of Docking Services for Fishery and Supervisory Vessels",
-      "Quality Development and Processing of Fishery Products",
-      "Supervision and Control of Fish Resources",
-      "Supervisory Vessels",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 25,
-    "create_time": 1793614959,
-    "update_time": 1793614959,
-    "_id": "doc-8cd1965b8838d4f4a2c74d182becb2dc"
-  },
-  "doc-56ebef365151d711330ded1affec5c67": {
-    "entity_names": [
-      "Ketentuan Pasal 42",
-      "Ketentuan Umum",
-      "Pasal 42",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793614981,
-    "update_time": 1793614981,
-    "_id": "doc-56ebef365151d711330ded1affec5c67"
-  },
-  "doc-0838a3f46d9a0838a242a520f5182f23": {
-    "entity_names": [
-      "Alat Bantu Penangkapan Ikan",
-      "Alat Penangkapan Ikan",
-      "Bantuan Pencarian dan Penyelamatan",
-      "Dokumen Kapal Perikanan",
-      "Fasilitas Pelabuhan Perikanan",
-      "Kapal Perikanan",
-      "Lalu Lintas",
-      "Log Book Penangkapan dan Pengangkutan Ikan",
-      "Menteri yang Membidangi Urusan Pelayaran",
-      "Olah Gerak",
-      "Pejabat yang Bertanggung Jawab",
+      "Fungsi Karantina Ikan",
+      "Kegiatan Operasional Kapal Perikanan",
+      "Pasal 41 ayat (5) UU Nomor 45 Tahun 2009",
+      "Pasal 41A ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 41A ayat (2) UU Nomor 45 Tahun 2009",
       "Pelabuhan Perikanan",
-      "Pemadaman Kebakaran",
-      "Pemanduan",
-      "Penanggulangan Pencemaran",
-      "Pengisian Bahan Bakar",
-      "Peraturan Perundang-undangan",
-      "Perjanjian Kerja Laut",
-      "Perlindungan Lingkungan Maritim",
-      "Persyaratan Pengawakan",
-      "Sertifikat Ikan Hasil Tangkapan",
-      "Surat Persetujuan Berlayar",
-      "Surat Tanda Bukti Lapor Kedatangan dan Keberangkatan Kapal Perikanan",
-      "Syahbandar",
+      "Pelaksanaan Kesyahbandaran",
+      "Pelayanan Bongkar Muat",
+      "Pelayanan Pembinaan Mutu dan Pengolahan Hasil Perikanan",
+      "Pelayanan Tambat dan Labuh Kapal Perikanan",
+      "Pemantauan Wilayah Pesisir dan Wisata Bahari",
+      "Pemasaran dan Distribusi Ikan",
+      "Pengawasan dan Pengendalian Sumber Daya Ikan",
+      "Pengumpulan Data Tangkapan dan Hasil Perikanan",
+      "Penyuluhan dan Pengembangan Masyarakat Nelayan",
+      "Peraturan Menteri",
+      "Publikasi Hasil Pelayanan Sandar dan Labuh Kapal Perikanan",
+      "Publikasi Hasil Riset Kelautan dan Perikanan",
+      "Sanksi Administratif",
       "UU Nomor 45 Tahun 2009"
     ],
-    "count": 25,
-    "create_time": 1793615154,
-    "update_time": 1793615154,
-    "_id": "doc-0838a3f46d9a0838a242a520f5182f23"
+    "count": 20,
+    "create_time": 1794273102,
+    "update_time": 1794273102,
+    "_id": "doc-03d618257da1af1a817fab4d7e34d51b"
   },
-  "doc-330531730b1c4f499e6f17ee7a15ed0d": {
-    "entity_names": [
-      "Ketentuan Pasal 43",
-      "Ketentuan Umum",
-      "Pasal 43",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793615211,
-    "update_time": 1793615211,
-    "_id": "doc-330531730b1c4f499e6f17ee7a15ed0d"
-  },
-  "doc-f3e28f0d7f60cc7a75874be8028f3f27": {
-    "entity_names": [
-      "Biaya",
-      "Kapal Perikanan",
-      "Kegiatan Perikanan",
-      "Ketentuan Umum",
-      "Pasal 43",
-      "Pengawas Perikanan",
-      "Surat Laik Operasi Kapal Perikanan",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 8,
-    "create_time": 1793615371,
-    "update_time": 1793615371,
-    "_id": "doc-f3e28f0d7f60cc7a75874be8028f3f27"
-  },
-  "doc-e12e737033c2a1e41296f691e1b69ed3": {
-    "entity_names": [
-      "Amendment",
-      "Ayat (1)",
-      "Ketentuan Pasal 44",
-      "Ketentuan Umum",
-      "Pasal 44",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 6,
-    "create_time": 1793615406,
-    "update_time": 1793615406,
-    "_id": "doc-e12e737033c2a1e41296f691e1b69ed3"
-  },
-  "doc-9ff7709481fc713a6e71c843157c22d0": {
+  "doc-fae807825aee7bce1dea58d02445662d": {
     "entity_names": [
       "Kapal Perikanan",
-      "Kelayakan Teknis",
-      "Ketentuan Umum",
-      "Pasal 42 ayat (2) huruf a",
-      "Pasal 44",
+      "Pasal 43 UU Nomor 45 Tahun 2009",
+      "Pasal 44 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 44 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 44 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 46 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 46 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pemerintah dan Pemerintah Daerah",
       "Pengawas Perikanan",
       "Peraturan Menteri",
-      "Persyaratan Administrasi",
+      "Persyaratan Administrasi dan Kelayakan Teknis",
+      "Pusat Data dan Informasi Perikanan",
+      "Sistem Informasi dan Data Statistik Perikanan",
       "Surat Laik Operasi",
       "Surat Persetujuan Berlayar",
       "Syahbandar",
       "UU Nomor 45 Tahun 2009"
     ],
-    "count": 12,
-    "create_time": 1793615474,
-    "update_time": 1793615474,
-    "_id": "doc-9ff7709481fc713a6e71c843157c22d0"
+    "count": 17,
+    "create_time": 1794273216,
+    "update_time": 1794273216,
+    "_id": "doc-fae807825aee7bce1dea58d02445662d"
   },
-  "doc-0162fd6c66ce607d110c8d0e9db56ffb": {
+  "doc-761f30c478d500c19fd1bd880d689295": {
     "entity_names": [
-      "Ketentuan Pasal 46",
-      "Ketentuan Umum",
-      "Pasal 46",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793615657,
-    "update_time": 1793615657,
-    "_id": "doc-0162fd6c66ce607d110c8d0e9db56ffb"
-  },
-  "doc-8d0561e12317246bad13a7bc39f2771a": {
-    "entity_names": [
-      "Data Pergerakan Ikan",
-      "Data Potensi",
-      "Data Produksi, Penanganan, Pengolahan dan Pemasaran Ikan",
-      "Data Sarana dan Prasarana",
-      "Data Sosial Ekonomi",
-      "Ketentuan Umum",
-      "Pasal 46",
-      "Pasal 46A",
-      "Pasal 47",
-      "Pemerintah",
-      "Pemerintah Daerah",
-      "Pengelolaan Sumber Daya Ikan",
-      "Pengembangan Sistem Bisnis Perikanan",
-      "Pusat Data dan Informasi Perikanan",
-      "Sistem Informasi dan Data Statistik Perikanan",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 16,
-    "create_time": 1793615714,
-    "update_time": 1793615714,
-    "_id": "doc-8d0561e12317246bad13a7bc39f2771a"
-  },
-  "doc-c4e9406af38b0c427ef94a4fc5c16f60": {
-    "entity_names": [
-      "Data Pengamat",
-      "Data Perusahaan",
-      "Data dan Informasi Perikanan",
-      "Ketentuan Umum",
+      "Fungsi Karantina Ikan",
+      "Kapal Pengawas Kapal Perikanan",
+      "Kapal Perikanan",
       "Log Book Penangkapan dan Pengangkutan Ikan",
-      "Pasal 46A",
-      "Pemerintah",
-      "Perizinan Usaha Perikanan",
+      "Mengawasi Pelaksanaan Perlindungan Lingkungan Maritim",
+      "Pasal 41A UU Nomor 45 Tahun 2009",
+      "Pasal 42 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 42 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pelaksanaan Perlindungan Lingkungan Maritim",
+      "Pemantauan Wilayah Pesisir dan Wisata Bahari",
+      "Penanggulangan Pencemaran dan Pemadaman Kebakaran",
+      "Pencarian dan Penyelamatan",
+      "Pengendalian Lingkungan",
+      "Perjanjian Kerja Laut",
+      "Perlindungan Lingkungan Maritim",
+      "Publikasi Hasil Pelayanan Sandar dan Labuh",
+      "Surat Persetujuan Berlayar",
+      "Syahbandar di pelabuhan perikanan",
       "UU Nomor 45 Tahun 2009"
     ],
-    "count": 9,
-    "create_time": 1793615733,
-    "update_time": 1793615733,
-    "_id": "doc-c4e9406af38b0c427ef94a4fc5c16f60"
+    "count": 19,
+    "create_time": 1794273220,
+    "update_time": 1794273220,
+    "_id": "doc-761f30c478d500c19fd1bd880d689295"
   },
-  "doc-130fe72853071a0776f0c882222dfbd8": {
+  "doc-0a549e6c5b9d60c580225cb503008a1c": {
     "entity_names": [
-      "Ayat (1)",
-      "Ayat (1a)",
-      "Ayat (2)",
-      "Ketentuan Pasal 48",
-      "Ketentuan Umum",
-      "Pasal 48",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 7,
-    "create_time": 1793615848,
-    "update_time": 1793615848,
-    "_id": "doc-130fe72853071a0776f0c882222dfbd8"
-  },
-  "doc-efe29281cb29cea02a55dc6d4a656fe4": {
-    "entity_names": [
-      "Direct Benefit",
-      "Every Person",
-      "Lingkungan",
-      "Negara Republik Indonesia",
-      "Nelayan Kecil",
-      "Pembudi Daya-Ikan Kecil",
-      "Penerimaan Negara Bukan Pajak",
-      "Pungutan Perikanan",
-      "Sumber Daya Ikan",
-      "UU Nomor 45 Tahun 2009",
-      "Wilayah Pengelolaan Perikanan"
-    ],
-    "count": 11,
-    "create_time": 1793616045,
-    "update_time": 1793616045,
-    "_id": "doc-efe29281cb29cea02a55dc6d4a656fe4"
-  },
-  "doc-c7080b95043ca54f656b25aec0737d16": {
-    "entity_names": [
-      "Ketentuan Pasal 50",
-      "Ketentuan Umum",
-      "Pasal 50",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793616077,
-    "update_time": 1793616077,
-    "_id": "doc-c7080b95043ca54f656b25aec0737d16"
-  },
-  "doc-cffaac94ef2c2024bbb1488d40d770a4": {
-    "entity_names": [
-      "Ketentuan Umum",
-      "Konservasi Sumber Daya Ikan",
-      "Lingkungan",
-      "Pasal 48",
-      "Pasal 49",
-      "Pasal 50",
-      "Pembangunan Perikanan",
-      "Pungutan Perikanan",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 9,
-    "create_time": 1793616110,
-    "update_time": 1793616110,
-    "_id": "doc-cffaac94ef2c2024bbb1488d40d770a4"
-  },
-  "doc-0c38afa935d3f42bd7aee8eebdf2787a": {
-    "entity_names": [
-      "Ayat (1)",
-      "Ketentuan Pasal 65",
-      "Ketentuan Umum",
-      "Pasal 65",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793616284,
-    "update_time": 1793616284,
-    "_id": "doc-0c38afa935d3f42bd7aee8eebdf2787a"
-  },
-  "doc-c7d038bdaf81cefbbd37a0dfd16d4380": {
-    "entity_names": [
-      "Bidang Perikanan",
-      "Ketentuan Umum",
-      "Pasal 65",
-      "Pemerintah",
-      "Pemerintah Daerah",
-      "UU Nomor 45 Tahun 2009",
-      "Urusan Tugas Pembantuan"
-    ],
-    "count": 7,
-    "create_time": 1793616324,
-    "update_time": 1793616324,
-    "_id": "doc-c7d038bdaf81cefbbd37a0dfd16d4380"
-  },
-  "doc-239618d8936f6b556500eb440a1e0f79": {
-    "entity_names": [
-      "Amendment",
-      "Ayat (2)",
-      "Ayat (3)",
-      "Ketentuan Umum",
-      "Pasal 66",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 6,
-    "create_time": 1793616420,
-    "update_time": 1793616420,
-    "_id": "doc-239618d8936f6b556500eb440a1e0f79"
-  },
-  "doc-2727039291ac2002dd3e3bacae49f9a1": {
-    "entity_names": [
-      "Bidang Perikanan",
-      "Distribusi",
-      "Ikan Hasil Rekayasa Genetik",
-      "Ketentuan Peraturan Perundang-undangan",
-      "Ketentuan Umum",
-      "Konservasi",
-      "Mutu Hasil Perikanan",
-      "Obat Ikan",
-      "Pasal 66",
-      "Pasal 66A",
-      "Pasal 66B",
-      "Pasal 66C",
-      "Pasal 67",
-      "Pembudidayaan Ikan",
-      "Penangkapan Ikan",
-      "Pencemaran Akibat Perbuatan Manusia",
-      "Penelitian dan Pengembangan Perikanan",
+      "Kapal Perikanan",
+      "Menteri yang membidangi urusan pelayaran",
+      "Pasal 42 ayat (1) huruf j UU Nomor 45 Tahun 2009",
+      "Pasal 42 ayat (1) huruf k UU Nomor 45 Tahun 2009",
+      "Pasal 42 ayat (1) huruf l UU Nomor 45 Tahun 2009",
+      "Pasal 42 ayat (1) huruf m UU Nomor 45 Tahun 2009",
+      "Pasal 42 ayat (1) huruf n UU Nomor 45 Tahun 2009",
+      "Pasal 42 ayat (1) huruf o UU Nomor 45 Tahun 2009",
+      "Pasal 42 ayat (1) huruf p UU Nomor 45 Tahun 2009",
+      "Pasal 42 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 42 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 42 ayat (5) UU Nomor 45 Tahun 2009",
+      "Pasal 42 ayat (6) UU Nomor 45 Tahun 2009",
+      "Pasal 43 UU Nomor 45 Tahun 2009",
+      "Pasal 44",
+      "Pasal 44 ayat (1)",
+      "Pejabat yang bertanggung jawab di pelabuhan perikanan setempat",
       "Pengawas Perikanan",
-      "Pengawasan Perikanan",
-      "Pengolahan",
-      "Perbenihan",
-      "Plasma Nutfah",
+      "Surat Laik Operasi Kapal Perikanan",
+      "Surat Persetujuan Berlayar",
+      "Surat Tanda Bukti Lapor Kedatangan dan Keberangkatan Kapal Perikanan",
+      "Syahbandar di Pelabuhan Perikanan",
       "UU Nomor 45 Tahun 2009"
     ],
     "count": 23,
-    "create_time": 1793616538,
-    "update_time": 1793616538,
-    "_id": "doc-2727039291ac2002dd3e3bacae49f9a1"
+    "create_time": 1794273222,
+    "update_time": 1794273222,
+    "_id": "doc-0a549e6c5b9d60c580225cb503008a1c"
   },
-  "doc-a2584d4d1ad82841bc89b193a8bd0dd5": {
+  "doc-c2eae3ad5471f6a0651f0529b9c46b62": {
     "entity_names": [
-      "Bidang Perikanan",
-      "Ketentuan Umum",
-      "Menteri",
-      "Pasal 66",
-      "Pasal 66A",
-      "Pegawai Negeri Sipil",
-      "Pejabat Fungsional Pengawas Perikanan",
-      "Pejabat Yang Ditunjuk",
+      "Distribusi Obat Ikan",
+      "Ikan Hasil Rekayasa Genetik",
+      "Kegiatan Penangkapan Ikan",
+      "Konservasi",
+      "Mutu Hasil Perikanan",
+      "Pasal 48 UU Nomor 45 Tahun 2009",
+      "Pasal 49 UU Nomor 45 Tahun 2009",
+      "Pasal 50 UU Nomor 45 Tahun 2009",
+      "Pasal 65 UU Nomor 45 Tahun 2009",
+      "Pasal 66 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 66 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 66 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pembudidayaan Ikan dan Perbenihan",
+      "Pemerintah",
+      "Pemerintah Daerah",
+      "Pencemaran Akibat Perbuatan Manusia",
+      "Penelitian dan Pengembangan Perikanan",
       "Pengawas Perikanan",
-      "Penyidik Pengawai Negeri Sipil Perikanan",
-      "Peraturan Menteri",
-      "UU Nomor 45 Tahun 2009"
+      "Pengolahan dan Distribusi Ikan",
+      "Plasma Nutfah",
+      "Pungutan Perikanan",
+      "UU Nomor 45 Tahun 2009",
+      "Urusan Tugas Pembantuan Bidang Perikanan"
     ],
-    "count": 12,
-    "create_time": 1793616708,
-    "update_time": 1793616708,
-    "_id": "doc-a2584d4d1ad82841bc89b193a8bd0dd5"
+    "count": 23,
+    "create_time": 1794273347,
+    "update_time": 1794273347,
+    "_id": "doc-c2eae3ad5471f6a0651f0529b9c46b62"
   },
-  "doc-234faf2c9eddf47d34fafb6f84b1b01d": {
+  "doc-2dccf1b6a1fb990aa4f6774a83405230": {
+    "entity_names": [
+      "Kerahasiaan Data Log Book dan Pengangkutan Ikan",
+      "Nelayan Kecil",
+      "Pasal 46 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 46A UU Nomor 45 Tahun 2009",
+      "Pasal 48 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 48 ayat (1a) UU Nomor 45 Tahun 2009",
+      "Pasal 48 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 50 UU Nomor 45 Tahun 2009",
+      "Pembangunan Perikanan dan Konservasi",
+      "Pembudi Daya-Ikan Kecil",
+      "Pemerintah",
+      "Pemerintah Daerah",
+      "Penerimaan Negara Bukan Pajak",
+      "Pungutan Perikanan",
+      "Pusat Data dan Informasi Perikanan",
+      "UU Nomor 45 Tahun 2009",
+      "Wilayah Pengelolaan Perikanan Negara Republik Indonesia"
+    ],
+    "count": 17,
+    "create_time": 1794273405,
+    "update_time": 1794273405,
+    "_id": "doc-2dccf1b6a1fb990aa4f6774a83405230"
+  },
+  "doc-6cb14838a05c09f3cdcaa2301be9ac91": {
+    "entity_names": [
+      "Area Pembenihan Ikan",
+      "Area Pembudidayaan Ikan",
+      "Kapal Perikanan",
+      "Pasal 66 UU Nomor 45 Tahun 2009",
+      "Pasal 66A UU Nomor 45 Tahun 2009",
+      "Pasal 66A ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 66B UU Nomor 45 Tahun 2009",
+      "Pejabat Fungsional Pengawas Perikanan",
+      "Pelabuhan Perikanan",
+      "Pelabuhan Tangkahan",
+      "Pengawas Perikanan",
+      "Penyidik Pegawai Negeri Sipil Perikanan",
+      "Sentra Kegiatan Perikanan",
+      "UU Nomor 45 Tahun 2009",
+      "Wilayah Pengelolaan Perikanan Negara Republik Indonesia",
+      "area pembenihan ikan",
+      "area pembudidayaan ikan"
+    ],
+    "count": 17,
+    "create_time": 1794273407,
+    "update_time": 1794273407,
+    "_id": "doc-6cb14838a05c09f3cdcaa2301be9ac91"
+  },
+  "doc-3c42a6db0703b7da22f8a28005af90a3": {
+    "entity_names": [
+      "Kapal Pengawas Perikanan",
+      "Kapal Perikanan Berbendera Asing",
+      "Menghentikan, Memeriksa, Membawa, dan Menahan",
+      "Pasal 66C ayat (1) huruf j UU Nomor 45 Tahun 2009",
+      "Pasal 66C ayat (1) huruf k UU Nomor 45 Tahun 2009",
+      "Pasal 66C ayat (1) huruf l UU Nomor 45 Tahun 2009",
+      "Pasal 66C ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 69 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 69 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 69 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 69 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pengawas Perikanan",
+      "Penyidik",
+      "Rekomendasi Sanksi",
+      "Tindakan Khusus",
+      "UU Nomor 45 Tahun 2009",
+      "Wilayah Pengelolaan Perikanan Negara Republik Indonesia"
+    ],
+    "count": 17,
+    "create_time": 1794273519,
+    "update_time": 1794273519,
+    "_id": "doc-3c42a6db0703b7da22f8a28005af90a3"
+  },
+  "doc-be16526cc98e1a4d84668c1fc4ebc86b": {
     "entity_names": [
       "Area Pembenihan Ikan",
       "Area Pembudidayaan Ikan",
       "Kapal Perikanan",
       "Kawasan Konservasi Perairan",
-      "Pasal 66",
-      "Pelabuhan Lainnya yang Ditunjuk",
+      "Pasal 66B ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 66B ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 66C ayat (1) UU Nomor 45 Tahun 2009",
       "Pelabuhan Perikanan",
       "Pelabuhan Tangkahan",
       "Pengawas Perikanan",
+      "Penyidik",
       "Peraturan Menteri",
+      "Proses Penyidikan",
       "Sentra Kegiatan Perikanan",
+      "Surat Izin Budidaya Ikan",
+      "Surat Izin Penangkapan Ikan",
       "UU Nomor 45 Tahun 2009",
       "Unit Pengolahan Ikan",
+      "Wewenang Memasuki dan Memeriksa Tempat Kegiatan Usaha Perikanan",
+      "Wewenang Memeriksa Kelengkapan dan Keabsahan Dokumen Usaha Perikanan",
+      "Wewenang Memverifikasi Kelengkapan dan Keabsahan SIPI dan SIKPI",
+      "Wewenang Menghentikan, Memeriksa, Membawa, Menahan, dan Menangkap",
       "Wilayah Pengelolaan Perikanan Negara Republik Indonesia"
     ],
-    "count": 14,
-    "create_time": 1793616753,
-    "update_time": 1793616753,
-    "_id": "doc-234faf2c9eddf47d34fafb6f84b1b01d"
+    "count": 23,
+    "create_time": 1794273583,
+    "update_time": 1794273583,
+    "_id": "doc-be16526cc98e1a4d84668c1fc4ebc86b"
   },
-  "doc-46a76389201b0a6d50af5e5091a79e2d": {
+  "doc-6e88ecbd4bbed538a66b980040650cbd": {
     "entity_names": [
-      "Alat Pengaman Diri",
-      "Awak Kapal Perikanan",
-      "Dokumen Usaha Perikanan",
-      "Hasil Pemeriksaan",
-      "Kapal Pengawas Perikanan",
-      "Kapal Perikanan",
-      "Negara Republik Indonesia",
-      "Pelabuhan",
-      "Pemberi Izin",
-      "Pengawas Perikanan",
-      "Pengujian Laboratorium",
-      "Penyidik",
-      "SIKPI",
-      "SIPI",
-      "Sampel Ikan dan Bahan",
-      "Sarana dan Prasarana",
-      "Senjata Api",
-      "Sistem Pemantauan Kapal Perikanan",
-      "Tempat Kegiatan Usaha Perikanan",
-      "Tindak Pidana Perikanan",
-      "UU Nomor 45 Tahun 2009",
-      "Wilayah Pengelolaan Perikanan"
-    ],
-    "count": 22,
-    "create_time": 1793616812,
-    "update_time": 1793616812,
-    "_id": "doc-46a76389201b0a6d50af5e5091a79e2d"
-  },
-  "doc-6163486fd141fd23207a47ad464aac20": {
-    "entity_names": [
-      "Bidang Perikanan",
-      "Bukti Permulaan Yang Cukup",
-      "Kapal Pengawas Perikanan",
-      "Kapal Perikanan",
       "Kapal Perikanan Berbendera Asing",
-      "Negara Republik Indonesia",
-      "Pelabuhan Terdekat",
-      "Pelanggaran",
-      "Pemrosesan Lebih Lanjut",
-      "Pengawas Perikanan",
-      "Penyidik",
-      "Senjata Api",
+      "Keputusan Presiden",
+      "Pasal 69 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 71 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 71 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 71 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 71 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 71 ayat (5) UU Nomor 45 Tahun 2009",
+      "Pasal 71A UU Nomor 45 Tahun 2009",
+      "Pengadilan Perikanan",
+      "Penyidik dan/atau Pengawas Perikanan",
       "Tindakan Khusus",
       "UU Nomor 45 Tahun 2009",
       "Wilayah Pengelolaan Perikanan Negara Republik Indonesia"
     ],
-    "count": 15,
-    "create_time": 1793616996,
-    "update_time": 1793616996,
-    "_id": "doc-6163486fd141fd23207a47ad464aac20"
-  },
-  "doc-87bebfa57c27e2833dc40481329bbdac": {
-    "entity_names": [
-      "Ketentuan Pasal 71",
-      "Ketentuan Umum",
-      "Pasal 71",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793617082,
-    "update_time": 1793617082,
-    "_id": "doc-87bebfa57c27e2833dc40481329bbdac"
-  },
-  "doc-a05e5e3d6dd91e52efb05258ace7e970": {
-    "entity_names": [
-      "Bitung",
-      "Jakarta Utara",
-      "Keputusan Presiden",
-      "Ketentuan Umum",
-      "Medan",
-      "Pasal 71",
-      "Pasal 71A",
-      "Pasal 72",
-      "Pengadilan Khusus",
-      "Pengadilan Negeri",
-      "Pengadilan Perikanan",
-      "Peradilan Umum",
-      "Pontianak",
-      "Tindak pidana di bidang perikanan",
-      "Tual",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 16,
-    "create_time": 1793617125,
-    "update_time": 1793617125,
-    "_id": "doc-a05e5e3d6dd91e52efb05258ace7e970"
-  },
-  "doc-0881021530ba5beed98eb3811461e27f": {
-    "entity_names": [
-      "Ketentuan Umum",
-      "Negara Republik Indonesia",
-      "Pasal 71A",
-      "Pengadilan perikanan",
-      "Tindak pidana di bidang perikanan",
-      "UU Nomor 45 Tahun 2009",
-      "Warga negara Indonesia",
-      "Warga negara asing",
-      "Wilayah pengelolaan perikanan Negara Republik Indonesia"
-    ],
-    "count": 9,
-    "create_time": 1793617301,
-    "update_time": 1793617301,
-    "_id": "doc-0881021530ba5beed98eb3811461e27f"
-  },
-  "doc-2ec00e764464408ee48c17ce78d241f8": {
-    "entity_names": [
-      "Ketentuan Pasal 73",
-      "Ketentuan Umum",
-      "Pasal 73",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793617391,
-    "update_time": 1793617391,
-    "_id": "doc-2ec00e764464408ee48c17ce78d241f8"
-  },
-  "doc-1c16bda5ef23b55bac217710e0aadedc": {
-    "entity_names": [
-      "Forum Koordinasi",
-      "Menteri",
-      "Pasal 73",
-      "Pasal 73A",
-      "Pasal 73B",
-      "Pasal 74",
-      "Pelabuhan Perikanan",
-      "Penyidik Kepolisian Negara Republik Indonesia",
-      "Penyidik Pegawai Negeri Sipil Perikanan",
-      "Penyidik Perwira TNI AL",
-      "Tindak Pidana di Bidang Perikanan",
-      "UU Nomor 45 Tahun 2009",
-      "Wilayah Pengelolaan Perikanan Negara Republik Indonesia",
-      "ZEEI"
-    ],
     "count": 14,
-    "create_time": 1793617502,
-    "update_time": 1793617502,
-    "_id": "doc-1c16bda5ef23b55bac217710e0aadedc"
+    "create_time": 1794273585,
+    "update_time": 1794273585,
+    "_id": "doc-6e88ecbd4bbed538a66b980040650cbd"
   },
-  "doc-8770027e15cde832da62e2b93ca6687a": {
+  "doc-5288ab2b0c98279cd7d56c7b691bb84c": {
     "entity_names": [
-      "Ahli",
       "Barang Bukti",
       "Berita Acara Pemeriksaan",
       "Dokumen Usaha Perikanan",
-      "Kapal",
-      "Laporan atau Pengaduan",
-      "Orang",
-      "Penghentian Penyidikan",
+      "Pasal 73 UU Nomor 45 Tahun 2009",
+      "Pasal 73A UU Nomor 45 Tahun 2009",
       "Penyidik",
       "Saksi",
       "Sarana dan Prasarana Perikanan",
       "Tersangka",
-      "Tindak Pidana di Bidang Perikanan",
-      "Tindakan Lain yang Dipertanggungjawabkan",
+      "UU Nomor 45 Tahun 2009",
+      "Wewenang Melakukan Penyitaan",
+      "Wewenang Memanggil dan Memeriksa",
+      "Wewenang Memeriksa Kelengkapan Dokumen",
+      "Wewenang Menerima Laporan",
+      "Wewenang Menggeledah",
+      "Wewenang Menghentikan Penyidikan",
+      "Wewenang Menghentikan, Memeriksa, Menangkap, Membawa, dan Menahan"
+    ],
+    "count": 17,
+    "create_time": 1794273658,
+    "update_time": 1794273658,
+    "_id": "doc-5288ab2b0c98279cd7d56c7b691bb84c"
+  },
+  "doc-2f203fa56841efb866b6e1c77377ebc0": {
+    "entity_names": [
+      "Berita Acara Pemeriksaan",
+      "Hasil Penyidikan",
+      "Pasal 73A UU Nomor 45 Tahun 2009",
+      "Pasal 73B ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 73B ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 73B ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 73B ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 73B ayat (5) UU Nomor 45 Tahun 2009",
+      "Pasal 73B ayat (6) UU Nomor 45 Tahun 2009",
+      "Pasal 75 UU Nomor 45 Tahun 2009",
+      "Penahanan Tersangka",
+      "Penghentian Penyidikan",
+      "Penuntut Umum",
+      "Penyidik",
+      "Penyitaan Barang Bukti",
+      "Tersangka",
+      "UU Nomor 45 Tahun 2009"
+    ],
+    "count": 17,
+    "create_time": 1794273698,
+    "update_time": 1794273698,
+    "_id": "doc-2f203fa56841efb866b6e1c77377ebc0"
+  },
+  "doc-cf9c7900d4ef765391a93f082f8d9802": {
+    "entity_names": [
+      "Forum Koordinasi",
+      "Menteri",
+      "Pasal 71A UU Nomor 45 Tahun 2009",
+      "Pasal 73",
+      "Pasal 73 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 73 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 73 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 73 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 73 ayat (5) UU Nomor 45 Tahun 2009",
+      "Pasal 73A UU Nomor 45 Tahun 2009",
+      "Pelabuhan Perikanan",
+      "Pengadilan Perikanan",
+      "Penyidik Kepolisian Negara Republik Indonesia",
+      "Penyidik Pegawai Negeri Sipil Perikanan",
+      "Penyidik Perwira TNI AL",
+      "UU Nomor 45 Tahun 2009",
+      "Wilayah Pengelolaan Perikanan Negara Republik Indonesia",
+      "ZEI"
+    ],
+    "count": 18,
+    "create_time": 1794273701,
+    "update_time": 1794273701,
+    "_id": "doc-cf9c7900d4ef765391a93f082f8d9802"
+  },
+  "doc-090e8d86dfd842e3b6659ccb3b772ad4": {
+    "entity_names": [
+      "Ketua Pengadilan Negeri",
+      "Pasal 76 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 76 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 76 ayat (5) UU Nomor 45 Tahun 2009",
+      "Pasal 76 ayat (6) UU Nomor 45 Tahun 2009",
+      "Pasal 76 ayat (7) UU Nomor 45 Tahun 2009",
+      "Pasal 76 ayat (8) UU Nomor 45 Tahun 2009",
+      "Pasal 76 ayat (9) UU Nomor 45 Tahun 2009",
+      "Pelimpahan Perkara",
+      "Penahanan",
+      "Pengadilan Perikanan",
+      "Penuntut Umum",
+      "Penyampaian Berkas Perkara",
+      "Penyidik",
+      "Tersangka",
+      "UU Nomor 45 Tahun 2009"
+    ],
+    "count": 16,
+    "create_time": 1794273755,
+    "update_time": 1794273755,
+    "_id": "doc-090e8d86dfd842e3b6659ccb3b772ad4"
+  },
+  "doc-287d893ee2525ac6a9862097257ddeb4": {
+    "entity_names": [
+      "Badan Lelang Negara",
+      "Barang Bukti Hasil Tindak Pidana Perikanan",
+      "Ketua Pengadilan Negeri",
+      "Pasal 76 ayat (9) UU Nomor 45 Tahun 2009",
+      "Pasal 76A UU Nomor 45 Tahun 2009",
+      "Pasal 76B ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 76B ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 76C ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 76C ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 76C ayat (3) UU Nomor 45 Tahun 2009",
+      "Penerimaan Negara Bukan Pajak",
+      "Penuntut Umum",
+      "Penyidik",
+      "UU Nomor 45 Tahun 2009"
+    ],
+    "count": 14,
+    "create_time": 1794273776,
+    "update_time": 1794273776,
+    "_id": "doc-287d893ee2525ac6a9862097257ddeb4"
+  },
+  "doc-786f56835f15c530052f02ced5818f26": {
+    "entity_names": [
+      "Hasil Penelitian",
+      "Hasil Penyidikan",
+      "Jaksa Agung",
+      "Pasal 73A UU Nomor 45 Tahun 2009",
+      "Pasal 73B ayat (6) UU Nomor 45 Tahun 2009",
+      "Pasal 75 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 75 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 76 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 76 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 76 ayat (3) UU Nomor 45 Tahun 2009",
+      "Penuntut Umum",
+      "Penyidik",
+      "Penyidikan",
+      "Petunjuk",
       "UU Nomor 45 Tahun 2009"
     ],
     "count": 15,
-    "create_time": 1793617642,
-    "update_time": 1793617642,
-    "_id": "doc-8770027e15cde832da62e2b93ca6687a"
+    "create_time": 1794273781,
+    "update_time": 1794273781,
+    "_id": "doc-786f56835f15c530052f02ced5818f26"
   },
-  "doc-e111b20ee7a6e5dcbfece2d804a2075a": {
-    "entity_names": [
-      "Pasal 73",
-      "Pasal 73A",
-      "Pasal 73B",
-      "Penahanan",
-      "Penuntut Umum",
-      "Penyidik",
-      "Penyidikan",
-      "Tersangka",
-      "Tindak Pidana di Bidang Perikanan",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 10,
-    "create_time": 1793617702,
-    "update_time": 1793617702,
-    "_id": "doc-e111b20ee7a6e5dcbfece2d804a2075a"
-  },
-  "doc-ad26a0781f780828d6ca06a34f757321": {
-    "entity_names": [
-      "Ketentuan Pasal 75",
-      "Ketentuan Umum",
-      "Pasal 75",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793617735,
-    "update_time": 1793617735,
-    "_id": "doc-ad26a0781f780828d6ca06a34f757321"
-  },
-  "doc-257b7735229f630684594ec31a887d03": {
-    "entity_names": [
-      "Integritas Moral",
-      "Jaksa Agung",
-      "Ketentuan Umum",
-      "Pasal 75",
-      "Pendidikan dan Pelatihan Teknis di Bidang Perikanan",
-      "Pengalaman",
-      "Penuntut Umum",
-      "Tindak Pidana di Bidang Perikanan",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 9,
-    "create_time": 1793617826,
-    "update_time": 1793617826,
-    "_id": "doc-257b7735229f630684594ec31a887d03"
-  },
-  "doc-2f8702cbf0777165c01e708af22be300": {
-    "entity_names": [
-      "Ayat (9)",
-      "Ketentuan Pasal 76",
-      "Ketentuan Umum",
-      "Pasal 76",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793617901,
-    "update_time": 1793617901,
-    "_id": "doc-2f8702cbf0777165c01e708af22be300"
-  },
-  "doc-8b334c483741cb3a7ba8ee0adedd1d6b": {
-    "entity_names": [
-      "Bagian Kedua A",
-      "Barang Bukti",
-      "Berkas Penyidikan",
-      "Hasil Penelitian",
-      "Ketua Pengadilan Negeri",
-      "Pasal 76",
-      "Pengadilan Perikanan",
-      "Penuntut Umum",
-      "Penyidik",
-      "Penyidikan",
-      "Tersangka",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 12,
-    "create_time": 1793618078,
-    "update_time": 1793618078,
-    "_id": "doc-8b334c483741cb3a7ba8ee0adedd1d6b"
-  },
-  "doc-00a12516bdf9b68ebeb990ad5ef891a6": {
-    "entity_names": [
-      "Alat",
-      "Benda",
-      "Ketentuan Umum",
-      "Ketua Pengadilan Negeri",
-      "Negara",
-      "Pasal 76A",
-      "Pengadilan Negeri",
-      "Tindak Pidana Perikanan",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 9,
-    "create_time": 1793618114,
-    "update_time": 1793618114,
-    "_id": "doc-00a12516bdf9b68ebeb990ad5ef891a6"
-  },
-  "doc-e36b555749beade4c744d39b6a9f5f42": {
-    "entity_names": [
-      "Ayat (1)",
-      "Barang Bukti Hasil Tindak Pidana Perikanan",
-      "Biaya Perawatan",
-      "Ikan",
-      "Ketua Pengadilan Negeri",
-      "Lelang",
-      "Pasal 76B",
-      "Pembuktian",
-      "Pengadilan",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 10,
-    "create_time": 1793618162,
-    "update_time": 1793618162,
-    "_id": "doc-e36b555749beade4c744d39b6a9f5f42"
-  },
-  "doc-8b803ece93e21676851b0849b23c7ef4": {
+  "doc-e43edb819371391b0caf09f7c8d0f58a": {
     "entity_names": [
       "Aparat Penegak Hukum di Bidang Perikanan",
       "Badan Lelang Negara",
-      "Benda dan/atau Alat",
-      "Kapal Perikanan",
       "Kas Negara",
-      "Kekayaan Negara",
       "Kelompok Usaha Bersama Nelayan",
       "Koperasi Perikanan",
-      "Lelang",
-      "Negara",
-      "Pasal 76A",
-      "Pasal 76C",
-      "Pasal 78",
-      "Pasal 78A",
-      "Pasal 79",
-      "Penerimaan Negara Bukan Pajak",
-      "Peraturan Pemerintah",
-      "Peraturan Perundang-undangan",
-      "Pihak yang Berjasa",
-      "Tindak Pidana Perikanan",
-      "UU Nomor 45 Tahun 2009",
-      "Uang Hasil Pelelangan"
-    ],
-    "count": 22,
-    "create_time": 1793618339,
-    "update_time": 1793618339,
-    "_id": "doc-8b803ece93e21676851b0849b23c7ef4"
-  },
-  "doc-730c2519d62d2f4f76af6a50779cee50": {
-    "entity_names": [
-      "Ketentuan Umum",
       "Panitera Muda",
       "Panitera Pengganti",
-      "Pasal 78A",
-      "Pasal 83",
-      "Pasal 83A",
-      "Pasal 84",
-      "Pengadilan Negeri",
-      "Pengadilan Perikanan",
-      "Peraturan Mahkamah Agung",
+      "Pasal 76C ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 76C ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 76C ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 76C ayat (5) UU Nomor 45 Tahun 2009",
+      "Pasal 76C ayat (6) UU Nomor 45 Tahun 2009",
+      "Pasal 78A ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 78A ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 78A ayat (3) UU Nomor 45 Tahun 2009",
+      "Penerimaan Negara Bukan Pajak",
+      "Peraturan Pemerintah",
       "Subkepaniteraan Pengadilan Perikanan",
       "UU Nomor 45 Tahun 2009"
     ],
-    "count": 12,
-    "create_time": 1793618397,
-    "update_time": 1793618397,
-    "_id": "doc-730c2519d62d2f4f76af6a50779cee50"
+    "count": 19,
+    "create_time": 1794273822,
+    "update_time": 1794273822,
+    "_id": "doc-e43edb819371391b0caf09f7c8d0f58a"
   },
-  "doc-8f5d67ae61879fafe2a8b3837364817e": {
+  "doc-afc2d3de124982a05bab0bd51f33740b": {
     "entity_names": [
-      "Awak Kapal",
+      "Awak Kapal Lainnya",
       "Instansi Bidang Keimigrasian",
-      "Kedutaan",
-      "Pasal 83A",
-      "Pemulangan",
-      "Peraturan Perundang-undangan",
-      "Perwakilan Negara Asal",
-      "Tersangka",
-      "Tindak Pidana Lainnya",
-      "Tindak Pidana Perikanan",
+      "Kedutaan atau Perwakilan Negara Asal",
+      "Panitera Muda",
+      "Panitera Pengganti",
+      "Pasal 78A ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 78A ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 78A ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 83A ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 83A ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 83A ayat (3) UU Nomor 45 Tahun 2009",
+      "Pengadilan Perikanan",
+      "Peraturan Mahkamah Agung",
       "UU Nomor 45 Tahun 2009",
       "Warga Negara Asing"
     ],
-    "count": 12,
-    "create_time": 1793618451,
-    "update_time": 1793618451,
-    "_id": "doc-8f5d67ae61879fafe2a8b3837364817e"
+    "count": 15,
+    "create_time": 1794273876,
+    "update_time": 1794273876,
+    "_id": "doc-afc2d3de124982a05bab0bd51f33740b"
   },
-  "doc-351e06bb3fe87e0083bbf71b06cef353": {
+  "doc-0e1c2d4a5e173c334d658ba18d1067a4": {
     "entity_names": [
-      "Ketentuan Pasal 85",
-      "Ketentuan Umum",
-      "Modification of Pasal 85",
-      "Pasal 85",
-      "Point 39",
+      "Alat Penangkap Ikan dan/atau Alat Bantu Penangkapan Ikan",
+      "Awak Kapal Berkewarganegaraan Asing",
+      "Kapal Penangkap Ikan Berbendera Indonesia",
+      "Laut Lepas",
+      "Pasal 27 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 83A ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 85 UU Nomor 45 Tahun 2009",
+      "Pasal 9 UU Nomor 45 Tahun 2009",
+      "Pasal 93 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pidana Penjara Paling Lama 5 Tahun dan Denda Paling Banyak Rp2.000.000.000,00",
+      "Pidana Penjara Paling Lama 6 Tahun dan Denda Paling Banyak Rp2.000.000.000,00",
+      "Setiap Orang",
+      "Surat Izin Penangkapan Ikan",
+      "UU Nomor 45 Tahun 2009",
+      "Wilayah Pengelolaan Perikanan Negara Republik Indonesia"
+    ],
+    "count": 15,
+    "create_time": 1794273898,
+    "update_time": 1794273898,
+    "_id": "doc-0e1c2d4a5e173c334d658ba18d1067a4"
+  },
+  "doc-c4bc1bcbba59271190b88e7ffb7c431f": {
+    "entity_names": [
+      "Nakhoda Kapal Perikanan",
+      "Pasal 100A UU Nomor 45 Tahun 2009",
+      "Pasal 28A UU Nomor 45 Tahun 2009",
+      "Pasal 35 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 36 UU Nomor 45 Tahun 2009",
+      "Pasal 42 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 98 UU Nomor 45 Tahun 2009",
+      "Pejabat",
+      "Pemberatan Pidana 1/3 dari Ancaman Pidana Pokok",
+      "Pidana Penjara Paling Lama 1 Tahun dan Denda Paling Banyak Rp200.000.000,00",
+      "Surat Persetujuan Berlayar",
       "UU Nomor 45 Tahun 2009"
     ],
-    "count": 6,
-    "create_time": 1793618585,
-    "update_time": 1793618585,
-    "_id": "doc-351e06bb3fe87e0083bbf71b06cef353"
+    "count": 12,
+    "create_time": 1794273996,
+    "update_time": 1794273996,
+    "_id": "doc-c4bc1bcbba59271190b88e7ffb7c431f"
   },
-  "doc-96cb007884eba8ce96829a2e0ffab119": {
+  "doc-dfdaad54cd8cc75c651de72b6db5042e": {
     "entity_names": [
-      "Fine",
-      "Fish Resources",
-      "Fishing Aid Tools",
-      "Fishing Gear",
-      "Fishing Vessel",
-      "Ketentuan Umum",
-      "Negara Republik Indonesia",
-      "Pasal 85",
-      "Pasal 9",
-      "Prison Penalty",
+      "Kapal Penangkap Ikan Berbendera Asing",
+      "Kapal Penangkap Ikan Berbendera Indonesia",
+      "Pasal 27 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 27 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 28A UU Nomor 45 Tahun 2009",
+      "Pasal 93 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 93 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 93 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 94A UU Nomor 45 Tahun 2009",
+      "Pasal 98",
+      "Pidana Penjara Paling Lama 6 Tahun dan Denda Paling Banyak Rp2.000.000.000,00",
+      "Pidana Penjara Paling Lama 6 Tahun dan Denda Paling Banyak Rp20.000.000.000,00",
+      "Pidana Penjara Paling Lama 7 Tahun dan Denda Paling Banyak Rp3.000.000.000,00",
+      "Surat Izin Kapal Pengangkut Ikan",
+      "Surat Izin Penangkapan Ikan",
+      "Surat Izin Usaha Perikanan",
+      "UU Nomor 45 Tahun 2009",
+      "Wilayah Pengelolaan Perikanan Negara Republik Indonesia",
+      "Zona Ekonomi Eksklusif Indonesia"
+    ],
+    "count": 19,
+    "create_time": 1794274076,
+    "update_time": 1794274076,
+    "_id": "doc-dfdaad54cd8cc75c651de72b6db5042e"
+  },
+  "doc-e0faaa708aa4807b2b9d3ed164383470": {
+    "entity_names": [
+      "Kas Negara",
+      "Kementerian yang Membidangi Urusan Perikanan",
+      "Nelayan Kecil",
+      "Pasal 100B UU Nomor 45 Tahun 2009",
+      "Pasal 100C UU Nomor 45 Tahun 2009",
+      "Pasal 100D UU Nomor 45 Tahun 2009",
+      "Pasal 110 UU Nomor 45 Tahun 2009",
+      "Pasal 12 UU Nomor 45 Tahun 2009",
+      "Pasal 14 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 16 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 20 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 21 UU Nomor 45 Tahun 2009",
+      "Pasal 23 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 26 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 27 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 27 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 28 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 28 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 35 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 36 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 38 UU Nomor 45 Tahun 2009",
+      "Pasal 42 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 55 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 7 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 8 UU Nomor 45 Tahun 2009",
+      "Pasal 9 UU Nomor 45 Tahun 2009",
+      "Pembudi Daya-Ikan Kecil",
+      "Penerimaan Negara Bukan Pajak (PNBP)",
+      "Pidana Denda Paling Banyak Rp100.000.000,00",
+      "Pidana Penjara Paling Lama 1 (Satu) Tahun atau Denda Paling Banyak Rp250.000.000,00",
+      "UU Nomor 45 Tahun 2009",
+      "UU Nomor 9 Tahun 1985"
+    ],
+    "count": 32,
+    "create_time": 1794274115,
+    "update_time": 1794274115,
+    "_id": "doc-e0faaa708aa4807b2b9d3ed164383470"
+  },
+  "doc-06cd586857bf10231b941904022e0250": {
+    "entity_names": [
+      "Dr. H. Susilo Bambang Yudhoyono",
+      "Kesejahteraan Rakyat",
+      "Menteri Hukum dan Hak Asasi Manusia Republik Indonesia",
+      "Nelayan Kecil dan Pembudi Daya-Ikan Kecil",
+      "Pasal II",
+      "Patrialis Akbar",
+      "Pemanfaatan Sumber Daya Ikan",
+      "Pengendalian Usaha Perikanan",
+      "Presiden Republik Indonesia",
+      "Sumber Daya Ikan",
+      "UU Nomor 31 Tahun 2004",
+      "UU Nomor 45 Tahun 2009"
+    ],
+    "count": 12,
+    "create_time": 1794274129,
+    "update_time": 1794274129,
+    "_id": "doc-06cd586857bf10231b941904022e0250"
+  },
+  "doc-b9f1fe88fb907a6f4d0e751aa87a1d2a": {
+    "entity_names": [
+      "Menteri Hukum dan Hak Asasi Manusia Republik Indonesia",
+      "Pasal 105 UU Nomor 45 Tahun 2009",
+      "Pasal 110 UU Nomor 45 Tahun 2009",
+      "Pasal 110A UU Nomor 45 Tahun 2009",
+      "Pasal 14 UU Nomor 5 Tahun 1983 tentang Zona Ekonomi Eksklusif Indonesia",
+      "Pasal 16 ayat (1) UU Nomor 5 Tahun 1983 tentang Zona Ekonomi Eksklusif Indonesia",
+      "Peraturan Pemerintah",
+      "Presiden Republik Indonesia",
+      "UU Nomor 45 Tahun 2009",
+      "UU Nomor 9 Tahun 1985 tentang Perikanan"
+    ],
+    "count": 10,
+    "create_time": 1794274132,
+    "update_time": 1794274132,
+    "_id": "doc-b9f1fe88fb907a6f4d0e751aa87a1d2a"
+  },
+  "doc-1ebd2dbefb35f1e036c87f2164c8998c": {
+    "entity_names": [
+      "Hak Berdaulat",
+      "Indonesia",
+      "Laut Lepas",
+      "Pemanfaatan, Konservasi, dan Pengelolaan Sumber Daya Ikan",
+      "Standar Internasional",
+      "UU Nomor 45 Tahun 2009",
+      "Undang-Undang Nomor 17 Tahun 1985",
+      "Undang-Undang Nomor 31 Tahun 2004",
+      "United Nations Convention on the Law of the Sea 1982",
+      "Zona Ekonomi Eksklusif (ZEE) Indonesia"
+    ],
+    "count": 10,
+    "create_time": 1794274170,
+    "update_time": 1794274170,
+    "_id": "doc-1ebd2dbefb35f1e036c87f2164c8998c"
+  },
+  "doc-566f1abf6ef4e0ed58647afe047f4717": {
+    "entity_names": [
+      "Illegal Fishing",
+      "Kepastian Hukum",
+      "Masyarakat",
+      "Nelayan dan Pembudi Daya Ikan",
+      "Pembangunan Perikanan Terkendali dan Berkelanjutan",
+      "Pemerintah",
+      "Penanganan Tindak Pidana Perikanan",
+      "Penangkapan Ikan Berlebih",
+      "Pencurian Ikan",
+      "UU Nomor 31 Tahun 2004",
+      "UU Nomor 45 Tahun 2009"
+    ],
+    "count": 11,
+    "create_time": 1794274182,
+    "update_time": 1794274182,
+    "_id": "doc-566f1abf6ef4e0ed58647afe047f4717"
+  },
+  "doc-800c7ac6e0a138a2eb04709e5da1e10e": {
+    "entity_names": [
+      "Benturan Kepentingan",
+      "Kepelabuhanan Perikanan",
+      "Kesyabandaran",
+      "Konservasi",
+      "Mekanisme Koordinasi Antarinstansi",
+      "Penenggelaman Kapal Asing",
+      "Perizinan",
+      "UU Nomor 31 Tahun 2004",
+      "UU Nomor 45 Tahun 2009",
+      "Wilayah Pengelolaan Perikanan Negara Republik Indonesia",
+      "Yurisdiksi Pengadilan Perikanan"
+    ],
+    "count": 11,
+    "create_time": 1794274199,
+    "update_time": 1794274199,
+    "_id": "doc-800c7ac6e0a138a2eb04709e5da1e10e"
+  },
+  "doc-d70e396b8ddbcaf099e17523d897a5da": {
+    "entity_names": [
+      "Asas Keadilan",
+      "Asas Kebersamaan",
+      "Asas Manfaat",
+      "Nelayan Kecil",
+      "Pasal 2 huruf a UU Nomor 45 Tahun 2009",
+      "Pasal 2 huruf b UU Nomor 45 Tahun 2009",
+      "Pasal 2 huruf c UU Nomor 45 Tahun 2009",
+      "Pembudi Daya-Ikan Kecil",
+      "Sistem Pemantauan Kapal Perikanan",
+      "UU Nomor 31 Tahun 2004",
       "UU Nomor 45 Tahun 2009",
       "Wilayah Pengelolaan Perikanan Negara Republik Indonesia"
     ],
     "count": 12,
-    "create_time": 1793618742,
-    "update_time": 1793618742,
-    "_id": "doc-96cb007884eba8ce96829a2e0ffab119"
+    "create_time": 1794274233,
+    "update_time": 1794274233,
+    "_id": "doc-d70e396b8ddbcaf099e17523d897a5da"
   },
-  "doc-29fbcbd5b65dd426e4716290318a0c00": {
-    "entity_names": [
-      "Ketentuan Pasal 93",
-      "Ketentuan Umum",
-      "Pasal 93",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793618818,
-    "update_time": 1793618818,
-    "_id": "doc-29fbcbd5b65dd426e4716290318a0c00"
-  },
-  "doc-5b92e3da08870a168c229ea3603a9355": {
-    "entity_names": [
-      "Denda",
-      "Kapal Penangkap Ikan",
-      "Laut Lepas",
-      "Pasal 27 ayat (1)",
-      "Pasal 27 ayat (2)",
-      "Pasal 27 ayat (3)",
-      "Pasal 28A",
-      "Pasal 93",
-      "Pasal 94",
-      "Pasal 94A",
-      "Pasal 95",
-      "Penangkapan Ikan",
-      "Pidana Penjara",
-      "Republik Indonesia",
-      "SIKPI",
-      "SIPI",
-      "SIUP",
-      "UU Nomor 45 Tahun 2009",
-      "Wilayah Pengelolaan Perikanan Negara Republik Indonesia",
-      "ZEEI"
-    ],
-    "count": 20,
-    "create_time": 1793618857,
-    "update_time": 1793618857,
-    "_id": "doc-5b92e3da08870a168c229ea3603a9355"
-  },
-  "doc-58425585edf52a86897cd4b439cf810f": {
-    "entity_names": [
-      "Ketentuan Pasal 98",
-      "Ketentuan Umum",
-      "Pasal 98",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793619025,
-    "update_time": 1793619025,
-    "_id": "doc-58425585edf52a86897cd4b439cf810f"
-  },
-  "doc-150736e574b328ea081de79f5974e572": {
-    "entity_names": [
-      "Denda",
-      "Ketentuan Umum",
-      "Nakhoda Kapal Perikanan",
-      "Pasal 100",
-      "Pasal 100A",
-      "Pasal 100B",
-      "Pasal 100C",
-      "Pasal 100D",
-      "Pasal 101",
-      "Pasal 42 ayat (3)",
-      "Pasal 98",
-      "Pidana Penjara",
-      "Rp200.000.000,00",
-      "Surat Persetujuan Berlayar",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 15,
-    "create_time": 1793619082,
-    "update_time": 1793619082,
-    "_id": "doc-150736e574b328ea081de79f5974e572"
-  },
-  "doc-b9e6cdb99f3cdb98728cc64c27b027e2": {
-    "entity_names": [
-      "1/3 (satu pertiga)",
-      "Ancaman Pidana Pokok",
-      "Ketentuan Umum",
-      "Pasal 100A",
-      "Pasal 28A",
-      "Pasal 35",
-      "Pasal 35 ayat (1)",
-      "Pasal 36",
-      "Pejabat",
-      "Pemalsuan Pendaftaran",
-      "Pemalsuan Persetujuan",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 12,
-    "create_time": 1793619127,
-    "update_time": 1793619127,
-    "_id": "doc-b9e6cdb99f3cdb98728cc64c27b027e2"
-  },
-  "doc-4251617c6b8fa7a32e39c14c27e95a1a": {
-    "entity_names": [
-      "1 (satu) tahun",
-      "Denda",
-      "Nelayan Kecil",
-      "Pasal 100B",
-      "Pasal-Pasal Tindak Pidana",
-      "Pembudi Daya-Ikan Kecil",
-      "Pidana Penjara",
-      "Rp250.000.000,00",
-      "Tindak Pidana",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 10,
-    "create_time": 1793619253,
-    "update_time": 1793619253,
-    "_id": "doc-4251617c6b8fa7a32e39c14c27e95a1a"
-  },
-  "doc-1359332418ece67d5d88eef8516bfae6": {
-    "entity_names": [
-      "Ketentuan Umum",
-      "Nelayan Kecil",
-      "Pasal 100C",
-      "Pasal 7 ayat (2)",
-      "Pembudi Daya-Ikan Kecil",
-      "Pidana Denda",
-      "Rp100.000.000,00",
-      "Tindak Pidana",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 9,
-    "create_time": 1793619477,
-    "update_time": 1793619477,
-    "_id": "doc-1359332418ece67d5d88eef8516bfae6"
-  },
-  "doc-3a95cb1754e8bd0658e0f4814a0b2866": {
-    "entity_names": [
-      "Kas Negara",
-      "Kementerian yang membidangi urusan perikanan",
-      "Ketentuan Umum",
-      "Pasal 100D",
-      "Penerimaan Negara Bukan Pajak",
-      "Pengadilan",
-      "Pidana Denda",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 8,
-    "create_time": 1793619533,
-    "update_time": 1793619533,
-    "_id": "doc-3a95cb1754e8bd0658e0f4814a0b2866"
-  },
-  "doc-57b676e72bd7d33bfd818769b7f7fe7a": {
-    "entity_names": [
-      "Deletion",
-      "Ketentuan Pasal 105",
-      "Ketentuan Umum",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793619627,
-    "update_time": 1793619627,
-    "_id": "doc-57b676e72bd7d33bfd818769b7f7fe7a"
-  },
-  "doc-2c9ddd9b5bee945f2f34ab7b627d39d3": {
-    "entity_names": [
-      "Ketentuan Pasal 110",
-      "Ketentuan Umum",
-      "Pasal 110",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793619823,
-    "update_time": 1793619823,
-    "_id": "doc-2c9ddd9b5bee945f2f34ab7b627d39d3"
-  },
-  "doc-ed0e6a14574cb6c8d219c7b423067dae": {
-    "entity_names": [
-      "Ketentuan Umum",
-      "Lembaran Negara Republik Indonesia Tahun 1983 Nomor 44",
-      "Lembaran Negara Republik Indonesia Tahun 1985 Nomor 46",
-      "Pasal 110",
-      "Pasal 110A",
-      "Pasal 111",
-      "Pasal 14",
-      "Pasal 16 ayat (1)",
-      "Tambahan Lembaran Negara Republik Indonesia Nomor 3260",
-      "Tambahan Lembaran Negara Republik Indonesia Nomor 3299",
-      "UU Nomor 45 Tahun 2009",
-      "Undang-Undang Nomor 5 Tahun 1983 tentang Zona Ekonomi Eksklusif Indonesia",
-      "Undang-Undang Nomor 9 Tahun 1985 tentang Perikanan"
-    ],
-    "count": 13,
-    "create_time": 1793619850,
-    "update_time": 1793619850,
-    "_id": "doc-ed0e6a14574cb6c8d219c7b423067dae"
-  },
-  "doc-ca600c74c446db876d0c55bd29f4d998": {
-    "entity_names": [
-      "1 (Satu) Tahun",
-      "Ketentuan Umum",
-      "Pasal 110A",
-      "Peraturan Pemerintah",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793619913,
-    "update_time": 1793619913,
-    "_id": "doc-ca600c74c446db876d0c55bd29f4d998"
-  },
-  "doc-8f43260542e30c39011c792f39a1f499": {
-    "entity_names": [
-      "29 Oktober 2009",
-      "Jakarta",
-      "Ketentuan Umum",
-      "Lembaran Negara Republik Indonesia",
-      "Menteri Hukum dan Hak Asasi Manusia Republik Indonesia",
-      "Pasal II",
-      "Presiden Republik Indonesia",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 8,
-    "create_time": 1793620006,
-    "update_time": 1793620006,
-    "_id": "doc-8f43260542e30c39011c792f39a1f499"
-  },
-  "doc-7c49841464685c342625bf812725d84b": {
-    "entity_names": [
-      "Illegal Fishing",
-      "Kepelabuhanan Perikanan",
-      "Kesyahbandan",
-      "Kesyahbandaran",
-      "Konservasi",
-      "Laut Lepas",
-      "Mekanisme Koordinasi Antarinstansi",
-      "Negara Republik Indonesia",
-      "Nelayan Kecil",
-      "Pembudi Daya-Ikan Kecil",
-      "Penangkapan Ikan yang Berlebih",
-      "Pencurian Ikan",
-      "Penenggelaman Kapal Asing",
-      "Pengadilan Negeri",
-      "Pengadilan Perikanan",
-      "Pengelolaan Perikanan",
-      "Perizinan",
-      "Pungutan Perikanan",
-      "Sanksi Pidana",
-      "Sistem Pemantauan Kapal Perikanan",
-      "Tata Ruang",
-      "Undang-Undang Nomor 17 Tahun 1985",
-      "Undang-Undang Nomor 31 Tahun 2004",
-      "Undang-Undang Nomor 31 Tahun 2004 tentang Perikanan",
-      "Undang-Undang Nomor 45 Tahun 2009",
-      "United Nations Convention on the Law of the Sea 1982",
-      "Wilayah Pengelolaan Perikanan",
-      "Zona Ekonomi Eksklusif (ZEE)"
-    ],
-    "count": 28,
-    "create_time": 1793620284,
-    "update_time": 1793620284,
-    "_id": "doc-7c49841464685c342625bf812725d84b"
-  },
-  "doc-cca60df9cadc486c73618bfbb730896f": {
-    "entity_names": [
-      "PASAL DEMI PASAL",
-      "Pasal I",
-      "Penjelasan Pasal demi Pasal",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793620336,
-    "update_time": 1793620336,
-    "_id": "doc-cca60df9cadc486c73618bfbb730896f"
-  },
-  "doc-36c3ae33efeb279f1b62d98a2e97c2d8": {
-    "entity_names": [
-      "Angka 1",
-      "Cukup Jelas",
-      "Pasal 1",
-      "Penjelasan Angka 1",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 6,
-    "create_time": 1793620393,
-    "update_time": 1793620393,
-    "_id": "doc-36c3ae33efeb279f1b62d98a2e97c2d8"
-  },
-  "doc-9b360d50b06bd57b4cb7c6ddbce56066": {
+  "doc-8ef80aca40f54b72fa7fb67b643bd6d6": {
     "entity_names": [
       "Asas Efisiensi",
-      "Asas Keadilan",
       "Asas Kebersamaan",
       "Asas Kelestarian",
       "Asas Kemandirian",
       "Asas Kemitraan",
       "Asas Keterbukaan",
       "Asas Keterpaduan",
-      "Asas Manfaat",
-      "Asas Pembangunan yang Berkelanjutan",
       "Asas Pemerataan",
-      "Hulu dan Hilir",
-      "Informasi",
-      "Jejaring Pelaku Usaha",
-      "Kemakmuran",
-      "Kesejahteraan",
-      "Lingkungan Hidup",
-      "Masyarakat",
-      "Masyarakat Perikanan",
-      "Nelayan Kecil",
-      "Pelaku Usaha",
-      "Pemangku Kepentingan",
-      "Pembudi Daya-Ikan Kecil",
-      "Pengelolaan Perikanan",
-      "Potensi Perikanan",
-      "Produktivitas",
-      "Rakyat",
-      "Sumber Daya Ikan",
-      "UU Nomor 45 Tahun 2009",
-      "Warga Negara"
-    ],
-    "count": 30,
-    "create_time": 1793620707,
-    "update_time": 1793620707,
-    "_id": "doc-9b360d50b06bd57b4cb7c6ddbce56066"
-  },
-  "doc-0ad9a52ae6cc54180ac316dd4a815479": {
-    "entity_names": [
-      "Algae",
-      "Amphibia",
-      "Biota Perairan Lainnya",
-      "Coelenterata",
-      "Crustacea",
-      "Danau",
-      "Echinodermata",
-      "Efek Negatif",
-      "Hutan Bakau",
-      "Ikan yang Dilindungi",
-      "Jenis Ikan",
-      "Kawasan Konservasi Perairan",
-      "Kepentingan Umum",
-      "Langkah Pencegahan",
-      "Laut",
-      "Mammalia",
-      "Mollusca",
-      "Para Ahli",
-      "Pembudidayaan Ikan",
-      "Pemupukan",
-      "Penangkapan Ikan Berbasis Budi Daya",
-      "Pencemaran Lingkungan",
-      "Penebaran Ikan Jenis Baru",
-      "Penebaran Kembali",
-      "Pengerukan Dasar Perairan",
-      "Pisces",
-      "Produktivitas Suatu Perairan",
-      "Rehabilitasi dan Peningkatan Sumber Daya Ikan",
-      "Reptilia",
-      "Saluran Ruaya Ikan",
-      "Sistem Pemantauan Kapal Perikanan",
-      "Sumber Daya Ikan",
-      "Sungai",
-      "Terumbu Karang Buatan",
-      "UU Nomor 45 Tahun 2009",
-      "Wabah Penyakit Ikan",
-      "Zonasi"
-    ],
-    "count": 37,
-    "create_time": 1793620791,
-    "update_time": 1793620791,
-    "_id": "doc-0ad9a52ae6cc54180ac316dd4a815479"
-  },
-  "doc-2a7f63233750f66081316ef941910c77": {
-    "entity_names": [
-      "Alat Bantu Penangkapan Ikan",
-      "Alat Penangkapan Ikan",
-      "Jaring Trawl",
-      "Keberlanjutan Sumber Daya Ikan",
-      "Kompressor",
-      "Pasal 9",
-      "Penjelasan Pasal 9",
-      "Penjelasan Resmi",
-      "Pukat Harimau",
-      "Sumber Daya Ikan",
+      "Penjelasan Pasal 2 Huruf c UU Nomor 45 Tahun 2009",
+      "Penjelasan Pasal 2 Huruf d UU Nomor 45 Tahun 2009",
+      "Penjelasan Pasal 2 Huruf e UU Nomor 45 Tahun 2009",
+      "Penjelasan Pasal 2 Huruf f UU Nomor 45 Tahun 2009",
+      "Penjelasan Pasal 2 Huruf g UU Nomor 45 Tahun 2009",
+      "Penjelasan Pasal 2 Huruf h UU Nomor 45 Tahun 2009",
+      "Penjelasan Pasal 2 Huruf i UU Nomor 45 Tahun 2009",
+      "Penjelasan Pasal 2 Huruf j UU Nomor 45 Tahun 2009",
       "UU Nomor 45 Tahun 2009"
     ],
-    "count": 11,
-    "create_time": 1793620845,
-    "update_time": 1793620845,
-    "_id": "doc-2a7f63233750f66081316ef941910c77"
+    "count": 17,
+    "create_time": 1794274253,
+    "update_time": 1794274253,
+    "_id": "doc-8ef80aca40f54b72fa7fb67b643bd6d6"
   },
-  "doc-f26a468a599a89a6e80b6507f8877645": {
+  "doc-0b1596a3c907b2ce3492db3264877d27": {
     "entity_names": [
-      "Alam Darat",
-      "Ekosistem",
-      "Hasil Pemuliaan",
-      "Ikan Jenis Baru",
-      "Jenis Unggul Baru",
-      "Laut Indonesia",
-      "Makhluk Hidup",
-      "Negara Republik Indonesia",
-      "Pasal 14",
-      "Plasma Nutfah",
+      "Asas Kelestarian",
+      "Asas Pembangunan yang Berkelanjutan",
+      "Pasal 2 Huruf j UU Nomor 45 Tahun 2009",
+      "Pasal 2 Huruf k UU Nomor 45 Tahun 2009",
+      "Pasal 7 Huruf k UU Nomor 45 Tahun 2009",
+      "Pasal 7 Huruf l UU Nomor 45 Tahun 2009",
+      "Penebaran Ikan Jenis Baru",
+      "Sistem Pemantauan Kapal Perikanan",
+      "UU Nomor 45 Tahun 2009"
+    ],
+    "count": 9,
+    "create_time": 1794274288,
+    "update_time": 1794274288,
+    "_id": "doc-0b1596a3c907b2ce3492db3264877d27"
+  },
+  "doc-3f867c460c23cc8a518d8b097ecd5e5a": {
+    "entity_names": [
+      "Kawasan Konservasi Perairan",
+      "Pemasangan Terumbu Karang Buatan",
+      "Pembuatan Saluran Ruaya Ikan",
+      "Pembuatan Tempat Berlindung atau Berkembang Biak Ikan",
+      "Pembudidayaan Ikan",
+      "Penanaman atau Reboisasi Hutan Bakau",
+      "Penangkapan Ikan Berbasis Budi Daya",
+      "Pengerukan Dasar Perairan",
+      "Peningkatan Kesuburan Perairan",
+      "Penjelasan Pasal 7 Huruf m UU Nomor 45 Tahun 2009",
+      "Penjelasan Pasal 7 Huruf n UU Nomor 45 Tahun 2009",
+      "Penjelasan Pasal 7 Huruf p UU Nomor 45 Tahun 2009",
+      "Penjelasan Pasal 7 Huruf r UU Nomor 45 Tahun 2009",
+      "Rehabilitasi dan Peningkatan Sumber Daya Ikan",
+      "UU Nomor 45 Tahun 2009"
+    ],
+    "count": 15,
+    "create_time": 1794274313,
+    "update_time": 1794274313,
+    "_id": "doc-3f867c460c23cc8a518d8b097ecd5e5a"
+  },
+  "doc-9ddba955b3d8bd7e7efe1727a7c78325": {
+    "entity_names": [
+      "Biota perairan lainnya yang ada kaitannya dengan jenis-jenis tersebut di atas",
+      "Buaya, penyu, kura-kura, biawak, ular air, dan sebangsanya (reptilia)",
+      "Ikan yang dilindungi",
+      "Jaring trawl atau pukat harimau",
+      "Kodok dan sebangsanya (amphibia)",
+      "Kompressor",
+      "Pasal 14 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 9 UU Nomor 45 Tahun 2009",
+      "Paus, lumba-lumba, pesut, duyung, dan sebangsanya (mammalia)",
+      "Penjelasan Pasal 7 UU Nomor 45 Tahun 2009",
+      "Plasma nutfah",
+      "Rumput laut dan tumbuh-tumbuhan lain yang hidupnya di dalam air (algae)",
+      "Tripang, bulu babi, dan sebangsanya (echinodermata)",
       "UU Nomor 45 Tahun 2009",
-      "Wilayah Pengelolaan Perikanan Negara Republik Indonesia"
+      "Ubur-ubur dan sebangsanya (coelenterata)"
+    ],
+    "count": 15,
+    "create_time": 1794274370,
+    "update_time": 1794274370,
+    "_id": "doc-9ddba955b3d8bd7e7efe1727a7c78325"
+  },
+  "doc-653b8160c7b18db8a88c307579e12b29": {
+    "entity_names": [
+      "Bahan Baku, Bahan Tambahan Makanan, Bahan Penolong, dan/atau Alat",
+      "Ikan Jenis Baru",
+      "Pasal 14 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 15A UU Nomor 45 Tahun 2009",
+      "Pasal 18 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 23 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 25 UU Nomor 45 Tahun 2009",
+      "Pasal 25A UU Nomor 45 Tahun 2009",
+      "Pasal 25B UU Nomor 45 Tahun 2009",
+      "Pasal 25C UU Nomor 45 Tahun 2009",
+      "Sabuk Hijau (Greenbelt)",
+      "UU Nomor 45 Tahun 2009"
     ],
     "count": 12,
-    "create_time": 1793620984,
-    "update_time": 1793620984,
-    "_id": "doc-f26a468a599a89a6e80b6507f8877645"
+    "create_time": 1794274411,
+    "update_time": 1794274411,
+    "_id": "doc-653b8160c7b18db8a88c307579e12b29"
   },
-  "doc-cc28dddc30044cc1042074e2da6ac17e": {
+  "doc-53013e873211767ff12c35c4986da190": {
     "entity_names": [
-      "Pasal 15A",
-      "Penjelasan Angka 6",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793621041,
-    "update_time": 1793621041,
-    "_id": "doc-cc28dddc30044cc1042074e2da6ac17e"
-  },
-  "doc-92ba2597efb922956560d533a5a31039": {
-    "entity_names": [
-      "Fish Farming",
-      "Greenbelt",
-      "Land",
-      "Pasal 18",
-      "Penjelasan Pasal 18",
-      "Penjelasan Resmi",
+      "Biawak",
+      "Jenis Ikan",
+      "Kawasan Konservasi Perairan",
+      "Para Ahli",
+      "Penjelasan Pasal 7 Ayat (5) UU Nomor 45 Tahun 2009",
+      "Penjelasan Pasal 7 Ayat (6) UU Nomor 45 Tahun 2009",
+      "Penjelasan Pasal 7 Huruf r UU Nomor 45 Tahun 2009",
+      "Penjelasan Pasal 7 Huruf s UU Nomor 45 Tahun 2009",
+      "Reptilia",
       "UU Nomor 45 Tahun 2009",
-      "Utilization Management",
-      "Water"
-    ],
-    "count": 9,
-    "create_time": 1793621170,
-    "update_time": 1793621170,
-    "_id": "doc-92ba2597efb922956560d533a5a31039"
-  },
-  "doc-c959c5568aadd8aa4b3f1ba42789f215": {
-    "entity_names": [
-      "Alat yang Diizinkan",
-      "Alat yang Membahayakan",
-      "Ayat (2)",
-      "Ayat (3)",
-      "Bahan Baku",
-      "Bahan Penolong",
-      "Bahan Tambahan Makanan",
-      "Kewajiban Sosialisasi",
-      "Pasal 23",
-      "Pasal 23 Ayat (1)",
-      "Penjelasan Pasal 23",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
+      "Ular",
+      "Ular Air",
+      "Wabah dan Wilayah Wabah Penyakit Ikan"
     ],
     "count": 13,
-    "create_time": 1793621202,
-    "update_time": 1793621202,
-    "_id": "doc-c959c5568aadd8aa4b3f1ba42789f215"
+    "create_time": 1794274415,
+    "update_time": 1794274415,
+    "_id": "doc-53013e873211767ff12c35c4986da190"
   },
-  "doc-56e3cd581ac503887943f89380a4d0ae": {
+  "doc-69e7508f8f34f873d7aaa192e9566ef5": {
     "entity_names": [
-      "Angka 9",
-      "Pasal 25",
-      "Penjelasan Angka 9",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793621233,
-    "update_time": 1793621233,
-    "_id": "doc-56e3cd581ac503887943f89380a4d0ae"
-  },
-  "doc-f7591804ef6b0260481efd8940a4d936": {
-    "entity_names": [
-      "Pasal 25A",
-      "Penjelasan Angka 10",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793621355,
-    "update_time": 1793621355,
-    "_id": "doc-f7591804ef6b0260481efd8940a4d936"
-  },
-  "doc-9ffe642df7854b84d7f20364797237f1": {
-    "entity_names": [
-      "Pasal 25B",
-      "Penjelasan Pasal 25B",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793621406,
-    "update_time": 1793621406,
-    "_id": "doc-9ffe642df7854b84d7f20364797237f1"
-  },
-  "doc-29079ef829371b602ec75456a64d48a9": {
-    "entity_names": [
-      "Ayat (1)",
-      "Ayat (2)",
-      "Ayat (3)",
-      "Industri Pengolahan Perikanan",
-      "Industri Perikanan",
-      "Pasal 25C",
-      "Penjelasan Resmi",
-      "Sarana dan Prasarana Penangkapan",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 9,
-    "create_time": 1793621456,
-    "update_time": 1793621456,
-    "_id": "doc-29079ef829371b602ec75456a64d48a9"
-  },
-  "doc-3e6e336a5d4a7fc3c011daa61021382f": {
-    "entity_names": [
-      "Angka 11",
-      "Ayat (1)",
-      "Ayat (2)",
-      "Ayat (3)",
-      "Ayat (4)",
-      "Ayat (5)",
-      "Kapal Penangkap Ikan",
-      "Membawa SIPI Asli",
-      "Pasal 27",
-      "Pejabat Tidak Berwenang",
-      "Penjelasan Resmi",
-      "SIPI Asli",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 13,
-    "create_time": 1793621540,
-    "update_time": 1793621540,
-    "_id": "doc-3e6e336a5d4a7fc3c011daa61021382f"
-  },
-  "doc-130a45a160a3017c0ca1c8575057bcbd": {
-    "entity_names": [
-      "Ayat (3)",
-      "Kapal Pengangkut Ikan",
-      "Membawa SIKPI Asli",
-      "Pasal 28",
-      "Pejabat Yang Tidak Berwenang",
-      "SIKPI Asli",
-      "Setiap Orang",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 8,
-    "create_time": 1793621665,
-    "update_time": 1793621665,
-    "_id": "doc-130a45a160a3017c0ca1c8575057bcbd"
-  },
-  "doc-d7b3c2cbd5310c0cc3c016c5673bf723": {
-    "entity_names": [
-      "Angka 13",
-      "Pasal 28A",
-      "Penjelasan Angka 13",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793621710,
-    "update_time": 1793621710,
-    "_id": "doc-d7b3c2cbd5310c0cc3c016c5673bf723"
-  },
-  "doc-794138606a8f23ea6ad84d8579369963": {
-    "entity_names": [
-      "Angka 14",
-      "Pasal 32",
-      "Penjelasan Angka 14",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793621935,
-    "update_time": 1793621935,
-    "_id": "doc-794138606a8f23ea6ad84d8579369963"
-  },
-  "doc-4f6ed3ea2d02a0da67c28b9a23765440": {
-    "entity_names": [
-      "Angka 15",
-      "Cukup jelas",
-      "Pasal 35A",
-      "Penjelasan Angka 15",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 6,
-    "create_time": 1793621964,
-    "update_time": 1793621964,
-    "_id": "doc-4f6ed3ea2d02a0da67c28b9a23765440"
-  },
-  "doc-960d94c55d2317a253dca8fdbafce903": {
-    "entity_names": [
-      "Bendera Indonesia",
       "Buku Kapal Perikanan",
-      "Dalam",
-      "Dimana Kapal Dibuat",
-      "Dokumen Kapal Perikanan",
-      "Gambar Kapal",
+      "Data Teknis Kapal",
       "Grosse Akte Pendaftaran Kapal",
+      "Kapal Pengangkut Ikan",
       "Kapal Perikanan",
-      "Kekuatan Mesin",
-      "Metode dan Tipe Alat Tangkap",
-      "Nama Kapal",
-      "Nama Perusahaan yang Menggunakan Kapal",
-      "Nama dan Alamat Pemilik",
-      "Nomor Register",
-      "Panjang",
-      "Pasal 36",
-      "Penjelasan Resmi",
+      "Kewajiban Membawa SIKPI Asli",
+      "Pasal 28 UU Nomor 45 Tahun 2009",
+      "Pasal 36 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 36 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 36 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pendaftaran Kapal Perikanan",
       "SIKPI",
       "SIPI",
-      "Sejarah Pemilikan",
       "Surat Tanda Kebangsaan Kapal Indonesia",
-      "Tanda Penghubung Radio",
-      "Tipe Kapal",
-      "Tonage",
       "UU Nomor 45 Tahun 2009"
     ],
-    "count": 25,
-    "create_time": 1793622038,
-    "update_time": 1793622038,
-    "_id": "doc-960d94c55d2317a253dca8fdbafce903"
+    "count": 15,
+    "create_time": 1794274477,
+    "update_time": 1794274477,
+    "_id": "doc-69e7508f8f34f873d7aaa192e9566ef5"
   },
-  "doc-14b7f513c6f891bc73b891aeb09df792": {
+  "doc-85717a57adb912a1eb2352b96677d6e2": {
     "entity_names": [
-      "Angka 17",
-      "Batas Wilayah Kerja",
+      "Batas Wilayah Kerja dan Pengoperasian",
       "Bongkar Muat Ikan",
-      "Instansi Lain",
-      "Kelancaran Operasional",
-      "Kesamaan Kepentingan",
-      "Koordinat Geografis",
-      "Pelabuhan Perikanan",
+      "Buku Kapal Perikanan",
+      "Kapal Perikanan",
+      "Pasal 36 Angka 17 UU Nomor 45 Tahun 2009",
+      "Pasal 36 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 36 ayat (4) UU Nomor 45 Tahun 2009 (Penjelasan)",
       "Pelabuhan Perikanan Nusantara",
       "Pelabuhan Perikanan Pantai",
       "Pelabuhan Perikanan Samudera",
       "Pendaratan Ikan",
+      "Surat Tanda Kebangsaan",
       "UU Nomor 45 Tahun 2009"
     ],
     "count": 13,
-    "create_time": 1793622226,
-    "update_time": 1793622226,
-    "_id": "doc-14b7f513c6f891bc73b891aeb09df792"
+    "create_time": 1794274492,
+    "update_time": 1794274492,
+    "_id": "doc-85717a57adb912a1eb2352b96677d6e2"
   },
-  "doc-9700f1780cacfcc2ead5d8af0bd2c56e": {
+  "doc-9d572dc980cfc3c8dada86f65a4690f5": {
     "entity_names": [
-      "Angka 18",
-      "Pasal 41A",
-      "Penjelasan Angka 18",
-      "Penjelasan Resmi",
+      "Industri Perikanan",
+      "Kapal Penangkap Ikan",
+      "Kapal Pengangkut Ikan",
+      "Kewajiban Membawa SIKPI Asli",
+      "Kewajiban Membawa SIPI Asli",
+      "Pasal 25C ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 27 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 28 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 28A Angka 13 UU Nomor 45 Tahun 2009",
+      "Pasal 28A Angka 14 UU Nomor 45 Tahun 2009",
+      "SIKPI Asli",
+      "SIPI Asli",
       "UU Nomor 45 Tahun 2009"
     ],
-    "count": 5,
-    "create_time": 1793622280,
-    "update_time": 1793622280,
-    "_id": "doc-9700f1780cacfcc2ead5d8af0bd2c56e"
+    "count": 13,
+    "create_time": 1794274499,
+    "update_time": 1794274499,
+    "_id": "doc-9d572dc980cfc3c8dada86f65a4690f5"
   },
-  "doc-505edc34f4b2995f33a1cb0504f5ee50": {
+  "doc-bd51e802d8bda5a8879efb8f8b635339": {
     "entity_names": [
-      "Keselamatan Pelayaran",
-      "Log Book",
-      "Menteri",
-      "Pelabuhan Perikanan",
-      "Penangkapan Ikan",
-      "Pengurusan Administratif",
-      "Penjelasan Angka 19",
-      "Syahbandar di Pelabuhan Perikanan",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 9,
-    "create_time": 1793622322,
-    "update_time": 1793622322,
-    "_id": "doc-505edc34f4b2995f33a1cb0504f5ee50"
-  },
-  "doc-82926bd59be32ff65a813b5f207afd46": {
-    "entity_names": [
-      "Angka 20",
-      "Pasal 43",
-      "Penjelasan Angka 20",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793622460,
-    "update_time": 1793622460,
-    "_id": "doc-82926bd59be32ff65a813b5f207afd46"
-  },
-  "doc-3787f4285214a35d011af741af67626d": {
-    "entity_names": [
-      "Angka 21",
-      "Cukup jelas",
-      "Pasal 44",
-      "Penjelasan Angka 21",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 6,
-    "create_time": 1793622513,
-    "update_time": 1793622513,
-    "_id": "doc-3787f4285214a35d011af741af67626d"
-  },
-  "doc-5d7cd3764e250ee42c04a925c49a740a": {
-    "entity_names": [
-      "Alat Penangkapan Ikan",
       "Daerah dan Musim Penangkapan",
-      "Data Pemasaran Ikan",
-      "Data Pengolahan",
-      "Data Produksi",
-      "Data Sosial Ekonomi",
-      "Data Teknik",
-      "Hasil Pembudidayaan Ikan",
-      "Jenis Ikan",
-      "Kapal Perikanan",
-      "Komoditas Perikanan",
-      "Luas Lahan Pembudidayaan Ikan",
-      "Nelayan",
-      "Pasal 46",
-      "Pembudi Daya Ikan",
-      "Persyaratan Standar Ekspor",
-      "Rencana Pengembangan Sistem Informasi dan Data Statistik Perikanan",
-      "Sumber Daya Ikan",
+      "Data Ekspor dan Impor Komoditas Perikanan",
+      "Data Teknik, Produksi, Pengolahan, Pemasaran Ikan, dan Sosial Ekonomi",
+      "Informasi Mengenai Persyaratan Tertentu yang Berkaitan dengan Standar Ekspor",
+      "Jenis Ikan yang Ada",
+      "Jenis, Jumlah, dan Ukuran Alat Penangkapan Ikan",
+      "Jenis, Jumlah, dan Ukuran Kapal Perikanan",
+      "Jumlah Nelayan dan Pembudi Daya Ikan",
+      "Jumlah Tangkapan atau Jumlah Hasil Pembudidayaan Ikan",
+      "Luas Lahan dan Daerah Pembudidayaan Ikan",
+      "Pasal 46 ayat (1) UU Nomor 45 Tahun 2009",
       "UU Nomor 45 Tahun 2009",
       "Ukuran Ikan Hasil Tangkapan dan Musim Pemijahan Ikan"
     ],
-    "count": 20,
-    "create_time": 1793622609,
-    "update_time": 1793622609,
-    "_id": "doc-5d7cd3764e250ee42c04a925c49a740a"
+    "count": 13,
+    "create_time": 1794274555,
+    "update_time": 1794274555,
+    "_id": "doc-bd51e802d8bda5a8879efb8f8b635339"
   },
-  "doc-280da26ed64551efd8a164f961cf4c8a": {
+  "doc-7f0552c6fccc57bba08475446b3fdcab": {
     "entity_names": [
-      "Pasal 46A",
-      "Penjelasan Pasal 46A",
-      "Penjelasan Resmi",
+      "Kapal Pengawas Perikanan",
+      "Pasal 46 UU Nomor 45 Tahun 2009",
+      "Pasal 48 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 50 UU Nomor 45 Tahun 2009",
+      "Pasal 65 UU Nomor 45 Tahun 2009",
+      "Pasal 66 UU Nomor 45 Tahun 2009",
+      "Pasal 66A UU Nomor 45 Tahun 2009",
+      "Pasal 66B UU Nomor 45 Tahun 2009",
+      "Pasal 66C UU Nomor 45 Tahun 2009",
+      "Pasal 69 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 69 ayat (3) UU Nomor 45 Tahun 2009",
+      "Penahanan Kapal",
+      "Pungutan Perikanan",
+      "Setiap orang yang berusaha di bidang penangkapan atau pembudidayaan ikan",
       "UU Nomor 45 Tahun 2009"
     ],
-    "count": 4,
-    "create_time": 1793622708,
-    "update_time": 1793622708,
-    "_id": "doc-280da26ed64551efd8a164f961cf4c8a"
+    "count": 15,
+    "create_time": 1794274596,
+    "update_time": 1794274596,
+    "_id": "doc-7f0552c6fccc57bba08475446b3fdcab"
   },
-  "doc-4592e0d50c45de90ca21650a7351e04c": {
+  "doc-d83b1d37e67f4630f71d86ab0bd3b1f9": {
     "entity_names": [
-      "Bidang penangkapan atau pembudidayaan ikan",
-      "Laut",
-      "Manfaat langsung",
-      "Negara Republik Indonesia",
-      "Orang yang Berusaha di Bidang Penangkapan atau Pembudidayaan Ikan",
-      "Pasal 48",
-      "Perairan lainnya",
-      "Pungutan perikanan",
-      "Sumber daya ikan",
-      "UU Nomor 45 Tahun 2009",
-      "Wilayah pengelolaan perikanan"
-    ],
-    "count": 11,
-    "create_time": 1793622789,
-    "update_time": 1793622789,
-    "_id": "doc-4592e0d50c45de90ca21650a7351e04c"
-  },
-  "doc-b44570403cf6eaa8997bd94799962174": {
-    "entity_names": [
-      "Angka 25",
-      "Pasal 50",
-      "Penjelasan Angka 25",
-      "Penjelasan Resmi",
+      "Bongkar Muat Ikan",
+      "Log Book",
+      "Menteri",
+      "Pasal 36 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 42 ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 42 ayat (1) huruf f UU Nomor 45 Tahun 2009",
+      "Pasal 42 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 43",
+      "Pasal 44",
+      "Pasal 46 ayat (1)",
+      "Pendaratan Ikan",
+      "Pengusulan Syahbandar",
+      "Syahbandar di Pelabuhan Perikanan",
       "UU Nomor 45 Tahun 2009"
     ],
-    "count": 5,
-    "create_time": 1793622906,
-    "update_time": 1793622906,
-    "_id": "doc-b44570403cf6eaa8997bd94799962174"
+    "count": 14,
+    "create_time": 1794274600,
+    "update_time": 1794274600,
+    "_id": "doc-d83b1d37e67f4630f71d86ab0bd3b1f9"
   },
-  "doc-5a6db25f57414eaaed9e9761392457a7": {
-    "entity_names": [
-      "Angka 26",
-      "Pasal 65",
-      "Penjelasan Angka 26",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793623041,
-    "update_time": 1793623041,
-    "_id": "doc-5a6db25f57414eaaed9e9761392457a7"
-  },
-  "doc-ae2e1433cd75bdf11990702e40192356": {
-    "entity_names": [
-      "Angka 27",
-      "Pasal 66",
-      "Penjelasan Angka 27",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793623077,
-    "update_time": 1793623077,
-    "_id": "doc-ae2e1433cd75bdf11990702e40192356"
-  },
-  "doc-04c53fbabb68ed3c40f9ca040f7e0391": {
-    "entity_names": [
-      "Cukup jelas",
-      "Pasal 66A",
-      "Pasal 66B",
-      "Pasal 66C",
-      "Penjelasan Pasal 66A",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 7,
-    "create_time": 1793623120,
-    "update_time": 1793623120,
-    "_id": "doc-04c53fbabb68ed3c40f9ca040f7e0391"
-  },
-  "doc-7aded5d5e52a1e434667c92c52046b41": {
+  "doc-45d87f0be41cd498e3b42bc40f26269f": {
     "entity_names": [
       "Bukti Permulaan yang Cukup",
-      "Kapal Pemerintah",
-      "Kapal Pengawas Perikanan",
-      "Kapal Perikanan",
       "Kapal Perikanan Berbendera Asing",
-      "Pelabuhan Terdekat",
+      "Pasal 69 ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 69 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 71 UU Nomor 45 Tahun 2009",
+      "Pasal 71A UU Nomor 45 Tahun 2009",
+      "Pasal 73 ayat (1) UU Nomor 45 Tahun 2009",
       "Penahanan Kapal",
-      "Pengawas Perikanan",
-      "Penyidik",
-      "SIKPI",
-      "SIPI",
-      "Tindak Pidana di Bidang Perikanan",
-      "Tindakan Khusus",
+      "Penyidik Pegawai Negeri Sipil Perikanan",
+      "Penyidik Perwira TNI Angkatan Laut",
+      "Prosedur Tetap Bersama",
+      "Surat Izin Kapal Pengangkut Ikan",
+      "Surat Izin Penangkapan Ikan",
       "UU Nomor 45 Tahun 2009",
       "Wilayah Pengelolaan Perikanan Negara Republik Indonesia"
     ],
     "count": 15,
-    "create_time": 1793623277,
-    "update_time": 1793623277,
-    "_id": "doc-7aded5d5e52a1e434667c92c52046b41"
+    "create_time": 1794274619,
+    "update_time": 1794274619,
+    "_id": "doc-45d87f0be41cd498e3b42bc40f26269f"
   },
-  "doc-5d8a267584f27610ac6d30619611c53e": {
-    "entity_names": [
-      "Pasal 71",
-      "Penjelasan Angka 30",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793623357,
-    "update_time": 1793623357,
-    "_id": "doc-5d8a267584f27610ac6d30619611c53e"
-  },
-  "doc-3e261c4446876dafa5abbaf556b1ad31": {
-    "entity_names": [
-      "Angka 31",
-      "Pasal 71A",
-      "Penjelasan Angka 31",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793623402,
-    "update_time": 1793623402,
-    "_id": "doc-3e261c4446876dafa5abbaf556b1ad31"
-  },
-  "doc-2f8af115d1f878eb4526f92ea39e18f4": {
-    "entity_names": [
-      "Daerah",
-      "Data",
-      "Forum Koordinasi",
-      "Informasi",
-      "Penjelasan Angka 32",
-      "Penyidik Pegawai Negeri Sipil Perikanan",
-      "Penyidik Perwira TNI Angkatan Laut",
-      "Prosedur Tetap Bersama",
-      "Tindak Pidana Perikanan",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 10,
-    "create_time": 1793623547,
-    "update_time": 1793623547,
-    "_id": "doc-2f8af115d1f878eb4526f92ea39e18f4"
-  },
-  "doc-5d23a953ecfe86af32907090015262b1": {
-    "entity_names": [
-      "Pasal 73A",
-      "Penjelasan Pasal 73A",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793623717,
-    "update_time": 1793623717,
-    "_id": "doc-5d23a953ecfe86af32907090015262b1"
-  },
-  "doc-130d25c13390c77e967eb54b853ed45e": {
-    "entity_names": [
-      "Pasal 73B",
-      "Penjelasan Pasal 73B",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793623763,
-    "update_time": 1793623763,
-    "_id": "doc-130d25c13390c77e967eb54b853ed45e"
-  },
-  "doc-9f6715071d75a5cc753b5c66ac15c904": {
-    "entity_names": [
-      "Ayat (2)",
-      "Jaksa Agung",
-      "Kejaksaan Agung Republik Indonesia",
-      "Negara Republik Indonesia",
-      "Pejabat di Lingkungan Kejaksaan Agung Republik Indonesia",
-      "Penjelasan Angka 34",
-      "Penuntut Umum",
-      "Perkara",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 9,
-    "create_time": 1793623798,
-    "update_time": 1793623798,
-    "_id": "doc-9f6715071d75a5cc753b5c66ac15c904"
-  },
-  "doc-5d5894862e25e3fd2a4e6d247d9baad4": {
-    "entity_names": [
-      "Angka 35",
-      "Cukup Jelas",
-      "Pasal 76",
-      "Penjelasan Angka 35",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 6,
-    "create_time": 1793623931,
-    "update_time": 1793623931,
-    "_id": "doc-5d5894862e25e3fd2a4e6d247d9baad4"
-  },
-  "doc-1b0ede3419aab57c0712803baf91351d": {
-    "entity_names": [
-      "Pasal 76A",
-      "Penjelasan Pasal 76A",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793623972,
-    "update_time": 1793623972,
-    "_id": "doc-1b0ede3419aab57c0712803baf91351d"
-  },
-  "doc-9138b5fd8dd535b7cd9f52ce85e266b8": {
-    "entity_names": [
-      "Pasal 76",
-      "Pasal 76 B",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009",
-      "explains, describes",
-      "related to, sequential provision"
-    ],
-    "count": 6,
-    "create_time": 1793624120,
-    "update_time": 1793624120,
-    "_id": "doc-9138b5fd8dd535b7cd9f52ce85e266b8"
-  },
-  "doc-0036e187990de6a4b6155199e9b6488e": {
+  "doc-30770cd31f69e5774eed2cadb9912469": {
     "entity_names": [
       "Insentif",
       "Kenaikan Pangkat",
-      "Pasal 76",
+      "Pasal 100A Angka 43 UU Nomor 45 Tahun 2009",
+      "Pasal 100B UU Nomor 45 Tahun 2009",
+      "Pasal 100C UU Nomor 45 Tahun 2009",
+      "Pasal 100D UU Nomor 45 Tahun 2009",
+      "Pasal 110 Angka 45 UU Nomor 45 Tahun 2009",
+      "Pasal 110A Angka 46 UU Nomor 45 Tahun 2009",
+      "Pasal 73B ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 76 Angka 35 UU Nomor 45 Tahun 2009",
+      "Pasal 76A UU Nomor 45 Tahun 2009",
+      "Pasal 76B UU Nomor 45 Tahun 2009",
+      "Pasal 76C ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 76C ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 76C ayat (3) UU Nomor 45 Tahun 2009",
+      "Pasal 76C ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 76C ayat (5) UU Nomor 45 Tahun 2009",
+      "Pasal 76C ayat (6) UU Nomor 45 Tahun 2009",
+      "Pasal 78A Angka 37 UU Nomor 45 Tahun 2009",
+      "Pasal 83A Angka 38 UU Nomor 45 Tahun 2009",
+      "Pasal 85 Angka 39 UU Nomor 45 Tahun 2009",
+      "Pasal 93 Angka 40 UU Nomor 45 Tahun 2009",
+      "Pasal 94A Angka 41 UU Nomor 45 Tahun 2009",
+      "Pasal 98 Angka 42 UU Nomor 45 Tahun 2009",
       "Penghargaan",
-      "Penjelasan Pasal 76",
-      "Penjelasan Resmi",
       "Piagam",
       "UU Nomor 45 Tahun 2009"
     ],
-    "count": 8,
-    "create_time": 1793624271,
-    "update_time": 1793624271,
-    "_id": "doc-0036e187990de6a4b6155199e9b6488e"
+    "count": 27,
+    "create_time": 1794274722,
+    "update_time": 1794274722,
+    "_id": "doc-30770cd31f69e5774eed2cadb9912469"
   },
-  "doc-19263e8108dba1ec6192453b78961b6a": {
+  "doc-c7f731a0491fb95c135d5553e5b5cb1c": {
     "entity_names": [
-      "Angka 37",
-      "Cukup Jelas",
-      "Pasal 78A",
-      "Penjelasan Angka 37",
-      "Penjelasan Resmi",
+      "Angka 34 UU Nomor 45 Tahun 2009",
+      "Forum Koordinasi",
+      "Jaksa Agung",
+      "Pasal 73 ayat (2) UU Nomor 45 Tahun 2009",
+      "Pasal 73 ayat (4) UU Nomor 45 Tahun 2009",
+      "Pasal 73 ayat (5) UU Nomor 45 Tahun 2009",
+      "Pasal 73A UU Nomor 45 Tahun 2009",
+      "Pasal 73B UU Nomor 45 Tahun 2009",
+      "Pasal 76 UU Nomor 45 Tahun 2009",
+      "Pasal 76A UU Nomor 45 Tahun 2009",
+      "Pasal 76B UU Nomor 45 Tahun 2009",
+      "Pasal 76C ayat (1) UU Nomor 45 Tahun 2009",
+      "Pasal 76C ayat (2) UU Nomor 45 Tahun 2009",
+      "Pejabat di lingkungan Kejaksaan Agung Republik Indonesia",
+      "Penunjukan Penuntut Umum",
+      "Penyidik Pegawai Negeri Sipil Perikanan",
+      "Penyidik Perwira TNI Angkatan Laut",
+      "Prosedur Tetap Bersama",
       "UU Nomor 45 Tahun 2009"
     ],
-    "count": 6,
-    "create_time": 1793624326,
-    "update_time": 1793624326,
-    "_id": "doc-19263e8108dba1ec6192453b78961b6a"
-  },
-  "doc-0854b937923cdf1341df12b0b9db337b": {
-    "entity_names": [
-      "Angka 38",
-      "Pasal 83A",
-      "Penjelasan Angka 38",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793624367,
-    "update_time": 1793624367,
-    "_id": "doc-0854b937923cdf1341df12b0b9db337b"
-  },
-  "doc-41676dc3de5137959e24fcc3188115fb": {
-    "entity_names": [
-      "Angka 39 Pasal 85",
-      "Penjelasan Angka 39",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793624519,
-    "update_time": 1793624519,
-    "_id": "doc-41676dc3de5137959e24fcc3188115fb"
-  },
-  "doc-8c53acfff1b48fb8baa2f83b8d7232f2": {
-    "entity_names": [
-      "Angka 40",
-      "Pasal 93",
-      "Penjelasan Angka 40",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793624557,
-    "update_time": 1793624557,
-    "_id": "doc-8c53acfff1b48fb8baa2f83b8d7232f2"
-  },
-  "doc-abb2cf826efcef2b41801b56d435fdd8": {
-    "entity_names": [
-      "Angka 41",
-      "Cukup Jelas",
-      "Pasal 94A",
-      "Penjelasan Angka 41",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 6,
-    "create_time": 1793624641,
-    "update_time": 1793624641,
-    "_id": "doc-abb2cf826efcef2b41801b56d435fdd8"
-  },
-  "doc-924ec6b1bf259ea21504688aef27f94e": {
-    "entity_names": [
-      "Angka 42",
-      "Cukup Jelas",
-      "Pasal 98",
-      "Penjelasan Angka 42",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 6,
-    "create_time": 1793624811,
-    "update_time": 1793624811,
-    "_id": "doc-924ec6b1bf259ea21504688aef27f94e"
-  },
-  "doc-e0baa1cabb53315ba0d4e8c0bd1be49a": {
-    "entity_names": [
-      "Angka 43",
-      "Cukup Jelas",
-      "Pasal 100A",
-      "Pasal 100B",
-      "Penjelasan Angka 43",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 7,
-    "create_time": 1793624881,
-    "update_time": 1793624881,
-    "_id": "doc-e0baa1cabb53315ba0d4e8c0bd1be49a"
-  },
-  "doc-35fdc5be48a1785776f9f9f63d017f7b": {
-    "entity_names": [
-      "Pasal 100C",
-      "Penjelasan Pasal 100C",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793624940,
-    "update_time": 1793624940,
-    "_id": "doc-35fdc5be48a1785776f9f9f63d017f7b"
-  },
-  "doc-da21e0a226c6d65ac2d4c848359f4fc5": {
-    "entity_names": [
-      "Pasal 100D",
-      "Penjelasan Pasal 100D",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 4,
-    "create_time": 1793625070,
-    "update_time": 1793625070,
-    "_id": "doc-da21e0a226c6d65ac2d4c848359f4fc5"
-  },
-  "doc-49de9010af68a226b0c09835cbb33b9b": {
-    "entity_names": [
-      "Angka 44",
-      "Cukup Jelas",
-      "Penjelasan Angka 44",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793625120,
-    "update_time": 1793625120,
-    "_id": "doc-49de9010af68a226b0c09835cbb33b9b"
-  },
-  "doc-7c2436fae01f856dc4b622be0d824cdf": {
-    "entity_names": [
-      "Angka 45",
-      "Cukup jelas",
-      "Pasal 110",
-      "Penjelasan Angka 45",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 6,
-    "create_time": 1793625177,
-    "update_time": 1793625177,
-    "_id": "doc-7c2436fae01f856dc4b622be0d824cdf"
-  },
-  "doc-181964927d2d6f386777eef214237de8": {
-    "entity_names": [
-      "Angka 46",
-      "Pasal 110A",
-      "Pasal II",
-      "Penjelasan Angka 46",
-      "Penjelasan Resmi",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 6,
-    "create_time": 1793625303,
-    "update_time": 1793625303,
-    "_id": "doc-181964927d2d6f386777eef214237de8"
-  },
-  "doc-a3e38e3284dd2fe9cac01b2a1257e73c": {
-    "entity_names": [
-      "Penjelasan Resmi",
-      "Penjelasan Umum",
-      "Republik Indonesia",
-      "TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5073",
-      "UU Nomor 45 Tahun 2009"
-    ],
-    "count": 5,
-    "create_time": 1793625385,
-    "update_time": 1793625385,
-    "_id": "doc-a3e38e3284dd2fe9cac01b2a1257e73c"
+    "count": 19,
+    "create_time": 1794274725,
+    "update_time": 1794274725,
+    "_id": "doc-c7f731a0491fb95c135d5553e5b5cb1c"
   }
 }
