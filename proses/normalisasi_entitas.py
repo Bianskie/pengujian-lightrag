@@ -1,7 +1,6 @@
 """
 Modul Kanonikalisasi & Deduplikasi Entitas Knowledge Graph LightRAG (Domain Hukum & Perikanan)
 
-Author      : Pabian
 Version     : 1.1.0
 Created     : 02-11-2026
 Revised     : 09-11-2026

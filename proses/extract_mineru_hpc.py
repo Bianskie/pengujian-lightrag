@@ -3,7 +3,7 @@ from __future__ import annotations
 """
 Ekstraksi Dokumen MinerU v4 & Hierarchical Legal Chunker untuk LightRAG
 
-Author      : Pabian
+
 Version     : 1.2.0
 Created     : 02-11-2026
 Revised     : 09-11-2026
